@@ -8,6 +8,10 @@ Recent advances in recommendation and ranking systems
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
 ## Survey
+[A Survey on Self-supervised Pre-training for Sequential Transfer Learning in Neural Networks](https://arxiv.org/pdf/2007.00800.pdf), 2020.
+
+[A SURVEY ON CONTRASTIVE SELF-SUPERVISED LEARNING](https://arxiv.org/pdf/2011.00362.pdf), 2020.
+
 [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf), 2020.
 
 [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/pdf/2010.03240.pdf), 2020.
@@ -39,6 +43,8 @@ Recent advances in recommendation and ranking systems
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029). 2019.
 
 [Deep Metric Learning: A survey](https://www.mdpi.com/2073-8994/11/9/1066/pdf), 2019.
+
+[Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/pdf/1902.06162.pdf), 2019.
 
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
