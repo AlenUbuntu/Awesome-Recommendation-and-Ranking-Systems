@@ -38,6 +38,8 @@ Recent advances in recommendation and ranking systems
 
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029). 2019.
 
+[Deep Metric Learning: A survey](https://www.mdpi.com/2073-8994/11/9/1066/pdf), 2019.
+
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 [User Preferences in Recommendation Algorithms - The influence of user diversity, trust, and product category on privacy perceptions in recommender](https://dl.acm.org/doi/pdf/10.1145/3240323.3240393), 2018.
