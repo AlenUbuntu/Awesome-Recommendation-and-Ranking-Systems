@@ -132,11 +132,21 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
 
+[Combining Context Features in Sequence-Aware Recommender Systems](http://ceur-ws.org/Vol-2431/paper3.pdf), Booking.com, RecSys, 2019.
+
+[Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
+
+
+
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
 [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258), RecSys, 2020. - [Video](https://vimeo.com/455947093)
 
 [What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412249), RecSys, 2020. - [Video](https://vimeo.com/455951047)
+
+[BERT, ELMo, USE and InferSent Sentence Encoders: The Panacea for Research-Paper Recommendation?](http://ceur-ws.org/Vol-2431/paper2.pdf), RecSys, 2019.
+
+
 
 ### AR/VR 
 [In-Store Augmented Reality-Enabled Product Comparison and Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412266), RecSys, 2020. - [Video](https://vimeo.com/455946175)
