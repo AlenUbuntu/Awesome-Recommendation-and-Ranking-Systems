@@ -58,6 +58,25 @@ Recent advances in recommendation and ranking systems
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+[Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](), SBX Technology, RecSys, 2020.
+
+[A Human Perspective on Algorithmic Similarity](), Netflix, RecSys, 2020.
+
+[Balancing relevance and discovery to inspire customers in the IKEA App](), IKEA, RecSys, 2020.
+
+[Behavior-based Popularity Ranking on Amazon Video](), Amazon, RecSys, 2020.
+
+[Counterfactual learning for recommender system](), HuaWei, RecSys, 2020.
+
+[Developing Recommendation System to provide a Personalized Learning experience at Chegg](), Chegg, RecSys, 2020.
+
+[Investigating Multimodal Features for Video Recommendations at Globoplay](), Globo.com, RecSys, 2020.
+
+[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](), Talto, RecSys, 2020.
+
+[Query as Context for Item-to-Item Recommendation](), Etsy, RecSys, 2020.
+
+[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](), Coveo, RecSys, 2020.
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
