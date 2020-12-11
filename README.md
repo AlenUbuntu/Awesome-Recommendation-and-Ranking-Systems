@@ -1,5 +1,5 @@
 # Awesome-Recommendation-and-Ranking-Systems
-Recent advances in recommendation and ranking systems
+Recent advances in recommendation and ranking systems. We only focus on those papers in some form of cooperation with industry.
 
 ## Table of Contents
 * [Survey](#survey)
@@ -42,6 +42,10 @@ Recent advances in recommendation and ranking systems
 
 ### Others
 [How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations](https://dl.acm.org/doi/pdf/10.1145/3313831.3376435), 2020.
+
+[Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489), RecSys, 2020.
+
+[Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488), Google Research, RecSys, 2020.
 
 [How good your recommender system is? A survey on evaluations in recommendation](https://link.springer.com/content/pdf/10.1007/s13042-017-0762-9.pdf), 2019.
 
@@ -113,6 +117,20 @@ Recent advances in recommendation and ranking systems
 [Unbiased Learning for the Causal Effect of Recommendation](https://arxiv.org/pdf/2008.04563.pdf), Fuji Xerox, RecSys, 2020. - [Video](https://vimeo.com/455956572)
 
 [“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
+
+[Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
+
+[Investigating Listeners’ Responses to Divergent Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3418482), Spotify Research, RecSys, 2020. 
+
+[Investigating the Impact of Audio States & Transitions for Track Sequencing in Music Streaming Sessions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418493), Spotify, RecSys, 2020. 
+
+[Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
+
+[Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
+
+[Towards Multi-Language Recipe Personalisation and Recommendation](https://arxiv.org/pdf/2007.13440.pdf), CookPad, RecSys, 2020.
+
+[Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
