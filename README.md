@@ -78,6 +78,24 @@ Recent advances in recommendation and ranking systems
 
 [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
 
+[Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
+
+[Contextual and Sequential User Embeddings for Large-Scale Music Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248), Spotify, RecSys, 2020. - [Video](https://vimeo.com/455951321)
+
+[Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation](https://arxiv.org/pdf/2008.09368.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455949873)
+
+[Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
+
+[Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
+
+[Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. [Video](https://vimeo.com/455947055)
+
+[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
+
+[From the lab to production: A case study of session-based recommendations in the home-improvement domain], The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
+
+[Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455955303)
+
 
 
 ## Special Topics
