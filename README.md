@@ -58,25 +58,25 @@ Recent advances in recommendation and ranking systems
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
-[Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), [Video](https://vimeo.com/455643117), SBX Technology, RecSys, 2020.
+[Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), SBX Technology, RecSys, 2020.  - [Video](https://vimeo.com/455643117)
 
-[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), [Video](https://vimeo.com/455640996), Netflix, RecSys, 2020.
+[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
 [Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
 
-[Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), [Video](https://vimeo.com/455639105), Amazon, RecSys, 2020.
+[Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
 
-[Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), [Video](https://vimeo.com/455639257), HuaWei, RecSys, 2020.
+[Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
 
-[Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), [Video](https://vimeo.com/455639337), Chegg, RecSys, 2020.
+[Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), Chegg, RecSys, 2020. - [Video](https://vimeo.com/455639337)
 
-[Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), [Video](https://vimeo.com/455641027), Globo.com, RecSys, 2020.
+[Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
 
-[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), [Video](https://vimeo.com/455641297), Talto, RecSys, 2020.
+[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), Talto, RecSys, 2020. - [Video](https://vimeo.com/455641297)
 
-[Query as Context for Item-to-Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3411480), [Video](https://vimeo.com/455640122), Etsy, RecSys, 2020.
+[Query as Context for Item-to-Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3411480), Etsy, RecSys, 2020. - [Video](https://vimeo.com/455640122)
 
-[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), [Video](https://vimeo.com/455641121), Coveo, RecSys, 2020.
+[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
 
 
 
