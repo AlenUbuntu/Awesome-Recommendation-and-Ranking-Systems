@@ -136,7 +136,62 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
 
+[PQ-VAE: Efficient Recommendation Using Quantized Embeddings](http://ceur-ws.org/Vol-2431/paper10.pdf), Apple, RecSys, 2019.
 
+[Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569.pdf), NAVER Corp., RecSys, 2019.
+
+[Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
+
+[A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
+
+[A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998), Alibaba & Kuai, RecSys, 2019.
+
+[A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
+
+[Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
+
+[CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
+
+[Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
+
+[FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
+
+[LORE: A Large-Scale Ofer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
+
+[Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
+
+[Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
+
+[Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996), Google, RecSys, 2019.
+
+[Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
+
+[Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval](https://dl.acm.org/doi/pdf/10.1145/3298689.3347047), TrueFit, RecSys, 2019.
+
+[Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
+
+[When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347044), eBay and Microsoft Research, RecSys, 2019.
+
+## Academic Papers
+[Latent Modeling of Unexpectedness for Recommendations](http://ceur-ws.org/Vol-2431/paper8.pdf), RecSys, 2019.
+
+[A Comparison of Calibrated and Intent-Aware Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347045), RecSys, 2019.
+
+[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058), RecSys, 2019.
+
+[Deep Social Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3298689.3347011), RecSys, 2019.
+
+[Eficient Privacy-Preserving Recommendations based on Social Graphs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347013), RecSys, 2019.
+
+[Eficient Similarity Computation for Collaborative Filtering in Dynamic Environments](https://dl.acm.org/doi/pdf/10.1145/3298689.3347017), RecSys, 2019.
+
+[Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3298689.3347026), RecSys, 2019.
+
+[Leveraging Post-click Feedback for Content Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347037), RecSys, 2019.
+
+[Relaxed Sofmax for PU Learning](https://dl.acm.org/doi/pdf/10.1145/3298689.3347034), RecSys, 2019.
+
+[Style Conditioned Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347007), RecSys, 2019.
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
