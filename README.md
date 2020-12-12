@@ -62,83 +62,96 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+### Scalability
 [Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), SBX Technology, RecSys, 2020.  - [Video](https://vimeo.com/455643117)
 
-[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
+[Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
 
+[PQ-VAE: Efficient Recommendation Using Quantized Embeddings](http://ceur-ws.org/Vol-2431/paper10.pdf), Apple, RecSys, 2019.
+
+[Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569.pdf), NAVER Corp., RecSys, 2019.
+
+### Exploit and Explore
 [Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
 
+[Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
+
+[Investigating Listeners’ Responses to Divergent Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3418482), Spotify Research, RecSys, 2020. 
+
+### Ranking and Retrieval
 [Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
 
-[Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
+[Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
 
+### Personalization
 [Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), Chegg, RecSys, 2020. - [Video](https://vimeo.com/455639337)
 
-[Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
-
-[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), Talto, RecSys, 2020. - [Video](https://vimeo.com/455641297)
-
 [Query as Context for Item-to-Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3411480), Etsy, RecSys, 2020. - [Video](https://vimeo.com/455640122)
-
-[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
-
-[Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
 
 [Contextual and Sequential User Embeddings for Large-Scale Music Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248), Spotify, RecSys, 2020. - [Video](https://vimeo.com/455951321)
 
 [Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation](https://arxiv.org/pdf/2008.09368.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455949873)
 
-[Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
-
-[Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
-
-[Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
-
-[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
-
-[From the lab to production: A case study of session-based recommendations in the home-improvement domain](https://dl.acm.org/doi/pdf/10.1145/3383313.3412235), The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
-
-[Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455955303)
-
-[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
-
-[KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
-
-[Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
-
-[MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
-
 [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236), Tecent, RecSys, 2020. - [Video](https://vimeo.com/455952512)
 
 [PURS: Personalized Unexpected Recommender System for Improving User Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3383313.3412238), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455951792)
+
+[Towards Multi-Language Recipe Personalisation and Recommendation](https://arxiv.org/pdf/2007.13440.pdf), CookPad, RecSys, 2020.
+
+[Combining Context Features in Sequence-Aware Recommender Systems](http://ceur-ws.org/Vol-2431/paper3.pdf), Booking.com, RecSys, 2019.
+
+[Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
+
+[Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
+
+### Multi-Modal
+[Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
+
+### Explainability
+[Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
+
+[Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
+
+### Cold Start 
+[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
+
+### Bias Correction
+[Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
 [Unbiased Ad Click Prediction for Position-aware Advertising](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455946052)
 
 [Unbiased Learning for the Causal Effect of Recommendation](https://arxiv.org/pdf/2008.04563.pdf), Fuji Xerox, RecSys, 2020. - [Video](https://vimeo.com/455956572)
 
+### Privacy
+[From the lab to production: A case study of session-based recommendations in the home-improvement domain](https://dl.acm.org/doi/pdf/10.1145/3383313.3412235), The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
+
+[Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455955303)
+
+### KG
+[KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
+
+### Others
+[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
+
+[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), Talto, RecSys, 2020. - [Video](https://vimeo.com/455641297)
+
+[Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
+
+[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
+
+[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
+
+[Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
+
+[MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
+
 [“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
-
-[Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
-
-[Investigating Listeners’ Responses to Divergent Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3418482), Spotify Research, RecSys, 2020. 
 
 [Investigating the Impact of Audio States & Transitions for Track Sequencing in Music Streaming Sessions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418493), Spotify, RecSys, 2020. 
 
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
 
 [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
-
-[Towards Multi-Language Recipe Personalisation and Recommendation](https://arxiv.org/pdf/2007.13440.pdf), CookPad, RecSys, 2020.
-
-[Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
-
-[Combining Context Features in Sequence-Aware Recommender Systems](http://ceur-ws.org/Vol-2431/paper3.pdf), Booking.com, RecSys, 2019.
-
-[Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
-
-[PQ-VAE: Efficient Recommendation Using Quantized Embeddings](http://ceur-ws.org/Vol-2431/paper10.pdf), Apple, RecSys, 2019.
-
-[Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569.pdf), NAVER Corp., RecSys, 2019.
 
 [Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
 
@@ -156,9 +169,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
 
-[LORE: A Large-Scale Ofer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
-
-[Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
+[LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
 
 [Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
 
