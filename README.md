@@ -1,4 +1,5 @@
 # Awesome-Recommendation-and-Ranking-Systems
+Maintained by Yang Gao (ustcgaoy01@gmail.com). Last Update: 12/13/2020.
 Recent advances in recommendation and ranking systems. We only focus on papers published in top conferences including RecSys, WWW, SIGIR, and KDD.
 
 ## Table of Contents
