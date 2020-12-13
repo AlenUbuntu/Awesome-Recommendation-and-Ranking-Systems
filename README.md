@@ -25,6 +25,12 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
   * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
   * [Feature Engineering](#Industry_FE)
   * [Others](#Industry_Others)
+* [Academic Papers](#academic-papers)
+  * [Scalability](#Academic_Scalability)
+  * [Exploit and Explore](#Academic_EE)
+  * [Privacy](#Academic_Privacy)
+  * [Transfer Learning and MultiTask Learning](#Academic_Transfer)
+  * [Others](#Academic_Others)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
@@ -231,25 +237,35 @@ Void
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 ## Academic Papers
+<a name="Academic_Scalability"></a>
+### Scalability
+[Eficient Similarity Computation for Collaborative Filtering in Dynamic Environments](https://dl.acm.org/doi/pdf/10.1145/3298689.3347017), RecSys, 2019.
+
+<a name="Academic_EE"></a>
+### Exploit and Explore
 [Latent Modeling of Unexpectedness for Recommendations](http://ceur-ws.org/Vol-2431/paper8.pdf), RecSys, 2019.
 
+<a name="Academic_Privacy"></a>
+### Privacy
+[Eficient Privacy-Preserving Recommendations based on Social Graphs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347013), RecSys, 2019.
+
+<a name="Academic_Transfer"></a>
+### Transfer and MultiTask Learning
+[Style Conditioned Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347007), RecSys, 2019.
+
+<a name="Academic_Others"></a>
+### Others
 [A Comparison of Calibrated and Intent-Aware Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347045), RecSys, 2019.
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058), RecSys, 2019.
 
 [Deep Social Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3298689.3347011), RecSys, 2019.
 
-[Eficient Privacy-Preserving Recommendations based on Social Graphs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347013), RecSys, 2019.
-
-[Eficient Similarity Computation for Collaborative Filtering in Dynamic Environments](https://dl.acm.org/doi/pdf/10.1145/3298689.3347017), RecSys, 2019.
-
 [Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3298689.3347026), RecSys, 2019.
 
 [Leveraging Post-click Feedback for Content Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347037), RecSys, 2019.
 
 [Relaxed Sofmax for PU Learning](https://dl.acm.org/doi/pdf/10.1145/3298689.3347034), RecSys, 2019.
-
-[Style Conditioned Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347007), RecSys, 2019.
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
@@ -258,8 +274,6 @@ Void
 [What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412249), RecSys, 2020. - [Video](https://vimeo.com/455951047)
 
 [BERT, ELMo, USE and InferSent Sentence Encoders: The Panacea for Research-Paper Recommendation?](http://ceur-ws.org/Vol-2431/paper2.pdf), RecSys, 2019.
-
-
 
 ### AR/VR 
 [In-Store Augmented Reality-Enabled Product Comparison and Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412266), RecSys, 2020. - [Video](https://vimeo.com/455946175)
