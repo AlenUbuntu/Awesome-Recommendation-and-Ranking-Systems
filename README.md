@@ -4,13 +4,33 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 ## Table of Contents
 * [Survey](#survey)
   * [Self-Supervised](#Survey_Self-Supervised)
+  * [Ranking and Retrieval](#Survey_Rank_Retrieval)
+  * [Knowledge Graph and Side Information](#Survey_KG_SideInfo)
+  * [Bias Correction](#Survey_Bias_Correction)
+  * [Interpretability](#Survey_Interpretability)
+  * [Feature Engineering](#Survey_FE)
+  * [Personalization](#Survey_Personalization)
+  * [Others](#Survey_Others)
 * [Industry Papers](#industry-papers)
+  * [Scalability](#Industry_Scalability)
+  * [Exploit and Explore](#Industry_EE)
+  * [Ranking and Retrieval](#Industry_Ranking_Retrieval)
+  * [Personalization](#Industry_Personalization)
+  * [Multi-Modal](#Industry_MultiModal)
+  * [Interpretability](#Industry_Interpretability)
+  * [Cold Start](#Industry_ColdStart)
+  * [Bias Correction](#Industry_Bias_Correction)
+  * [Privacy](#Industry_Privacy)
+  * [Knowledge Graph and Side Information](#Industry_KG_SI)
+  * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
+  * [Feature Engineering](#Industry_FE)
+  * [Others](#Industry_Others)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
 ## Survey
-### Self-Supervised 
 <a name="Survey_Self-Supervised"></a>
+### Self-Supervised 
 [A Survey on Self-supervised Pre-training for Sequential Transfer Learning in Neural Networks](https://arxiv.org/pdf/2007.00800.pdf), 2020.
 
 [A SURVEY ON CONTRASTIVE SELF-SUPERVISED LEARNING](https://arxiv.org/pdf/2011.00362.pdf), 2020.
@@ -19,12 +39,11 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/pdf/1902.06162.pdf), 2019.
 
-### Scalability
-Void
-
+<a name="Survey_Rank_Retrieval"></a>
 ### Ranking and Retrieval
 Void 
 
+<a name="Survey_KG_SideInfo"></a>
 ### Knowledge Graph or Side Information
 [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf), 2020.
 
@@ -32,15 +51,19 @@ Void
 
 [Attribute-Aware Recommender System Based on Collaborative Filtering: Survey and Classification](https://www.frontiersin.org/articles/10.3389/fdata.2019.00049/pdf), 2019.
 
+<a name="Survey_Bias_Correction"></a>
 ### Bias Correction
 [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/pdf/2010.03240.pdf), 2020.
 
+<a name="Survey_Interpretability"></a>
 ### Interpretability
 [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/pdf/1804.11192.pdf), 2020.
 
+<a name="Survey_FE"></a>
 ### Feature Engineering
 [Recommendation System Based on Heterogeneous Feature: A Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197624), 2020.
 
+<a name="Survey_Personalization"></a>
 ### Personalization
 [A survey on news recommender system - Dealing with timeliness, dynamic user interest and content quality, and effects of recommendation on news readers.](https://arxiv.org/pdf/2009.04964.pdf), 2020.
 
@@ -48,6 +71,7 @@ Void
 
 [User Preferences in Recommendation Algorithms - The influence of user diversity, trust, and product category on privacy perceptions in recommender](https://dl.acm.org/doi/pdf/10.1145/3240323.3240393), 2018.
 
+<a name="Survey_Others"></a>
 ### Others
 [How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations](https://dl.acm.org/doi/pdf/10.1145/3313831.3376435), 2020.
 
@@ -70,6 +94,7 @@ Void
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+<a name="Industry_Scalability"></a>
 ### Scalability
 [Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), SBX Technology, RecSys, 2020.  - [Video](https://vimeo.com/455643117)
 
@@ -81,6 +106,7 @@ Void
 
 [LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
 
+<a name="Industry_EE"></a>
 ### Exploit and Explore
 [Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
 
@@ -90,6 +116,7 @@ Void
 
 [When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347044), eBay and Microsoft Research, RecSys, 2019.
 
+<a name="Industry_Ranking_Retrieval"></a>
 ### Ranking and Retrieval
 [Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
 
@@ -97,6 +124,7 @@ Void
 
 [Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval](https://dl.acm.org/doi/pdf/10.1145/3298689.3347047), TrueFit, RecSys, 2019.
 
+<a name="Industry_Personalization"></a>
 ### Personalization
 [Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), Chegg, RecSys, 2020. - [Video](https://vimeo.com/455639337)
 
@@ -118,19 +146,23 @@ Void
 
 [Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
 
+<a name="Industry_MultiModal"></a>
 ### Multi-Modal
 [Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
 
+<a name="Industry_Interpretability"></a>
 ### Interpretability
 [Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
 
 [Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
 
+<a name="Industry_ColdStart"></a>
 ### Cold Start 
 [The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
 
 [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
 
+<a name="Industry_Bias_Correction"></a>
 ### Bias Correction
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
@@ -140,26 +172,31 @@ Void
 
 [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996), Google, RecSys, 2019.
 
+<a name="Industry_Privacy"></a>
 ### Privacy
 [From the lab to production: A case study of session-based recommendations in the home-improvement domain](https://dl.acm.org/doi/pdf/10.1145/3383313.3412235), The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
 
 [Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455955303)
 
+<a name="Industry_KG_SI"></a>
 ### Knowledge Graph or Side Information
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
 
+<a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
 [Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
 
 [Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
 
+<a name="Industry_FE"></a>
 ### Feature Engineering
 [FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
 
 [“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
 
+<a name="Industry_Others"></a>
 ### Others
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
