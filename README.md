@@ -6,7 +6,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
   * [Self-Supervised](#Survey_Self-Supervised)
   * [Ranking and Retrieval](#Survey_Rank_Retrieval)
   * [Knowledge Graph and Side Information](#Survey_KG_SideInfo)
-  * [Bias Correction](#Survey_Bias_Correction)
+  * [Bias Correction or Fairness](#Survey_Bias_Correction)
   * [Interpretability](#Survey_Interpretability)
   * [Feature Engineering](#Survey_FE)
   * [Personalization](#Survey_Personalization)
@@ -20,7 +20,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
   * [Interpretability](#Industry_Interpretability)
   * [Cold Start](#Industry_ColdStart)
   * [Imbalance](#Industry_Imbalance)
-  * [Bias Correction](#Industry_Bias_Correction)
+  * [Bias Correction or Fairness](#Industry_Bias_Correction)
   * [Privacy](#Industry_Privacy)
   * [Knowledge Graph and Side Information](#Industry_KG_SI)
   * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
@@ -59,7 +59,7 @@ Void
 [Attribute-Aware Recommender System Based on Collaborative Filtering: Survey and Classification](https://www.frontiersin.org/articles/10.3389/fdata.2019.00049/pdf), 2019.
 
 <a name="Survey_Bias_Correction"></a>
-### Bias Correction
+### Bias Correction or Fairness
 [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/pdf/2010.03240.pdf), 2020.
 
 <a name="Survey_Interpretability"></a>
@@ -174,7 +174,7 @@ Void
 [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
 
 <a name="Industry_Bias_Correction"></a>
-### Bias Correction
+### Bias Correction or Fairness
 [Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
 
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
