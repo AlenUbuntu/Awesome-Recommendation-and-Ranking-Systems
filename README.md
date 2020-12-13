@@ -88,6 +88,8 @@ Void
 
 [Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488), Google Research, RecSys, 2020.
 
+[Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
+
 [How good your recommender system is? A survey on evaluations in recommendation](https://link.springer.com/content/pdf/10.1007/s13042-017-0762-9.pdf), 2019.
 
 [A Survey of Matrix Completion Methods for Recommendation Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8400447), 2020.
@@ -219,45 +221,46 @@ Void
 
 [“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
 
-<a name="Industry_Others"></a>
-### Others
-[Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
-
-[Building Continuous Integration Services for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403290), Microsoft, KDD, 2020.
-
+<a name="Industry_CompAds"></a>
+### Computational Ads
 [A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348), Tencent, KDD, 2020.
-
-[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
-
-[On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), Talto, RecSys, 2020. - [Video](https://vimeo.com/455641297)
-
-[Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
-
-[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
-
-[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
-
-[Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
 
 [MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
 
-[Investigating the Impact of Audio States & Transitions for Track Sequencing in Music Streaming Sessions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418493), Spotify, RecSys, 2020. 
-
-[Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
-
 [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
-
-[Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
-
-[A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
-
-[A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998), Alibaba & Kuai, RecSys, 2019.
-
-[A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
 
 [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
 
+<a name="Industry_Others"></a>
+### Others
+[Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
+
+[A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
+
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
+
+#### Theory
+[A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
+
+[Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
+
+#### Fashion Recommendation
+[Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
+
+[A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
+
+#### AI As A Service
+[Building Continuous Integration Services for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403290), Microsoft, KDD, 2020.
+
+#### Command Recommendation
+[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
+
+#### E-Commerce
+[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
+
+[Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
+
+[A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998), Alibaba & Kuai, RecSys, 2019.
 
 ## Academic Papers
 <a name="Academic_Scalability"></a>
