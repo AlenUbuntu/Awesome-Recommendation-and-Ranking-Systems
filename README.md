@@ -27,6 +27,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Knowledge Graph and Side Information](#Industry_KG_SI)
   * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
   * [Feature Engineering](#Industry_FE)
+  * [Computational Ads](#Industry_CompAds)
+  * [Travel and Delivery](#Industry_Travel)
   * [Others](#Industry_Others)
 * [Academic Papers](#academic-papers)
   * [Scalability](#Academic_Scalability)
@@ -119,6 +121,8 @@ Void
 
 <a name="Industry_EE"></a>
 ### Exploit and Explore
+[Controllable Multi-Interest Framework for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344), Alibaba, KDD, 2020.
+
 [Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
 
 [Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
@@ -129,6 +133,8 @@ Void
 
 <a name="Industry_Ranking_Retrieval"></a>
 ### Ranking and Retrieval
+[Embedding-based Retrieval in Facebook Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305), Facebook, KDD, 2020.
+
 [Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
 
 [Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
@@ -185,6 +191,8 @@ Void
 
 [Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies](https://dl.acm.org/doi/pdf/10.1145/3394486.3403285), Google, KDD, 2020.
 
+[Debiasing Grid-based Product Search in E-commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403336), LinkedIn, KDD, 2020.
+
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
 [Unbiased Ad Click Prediction for Position-aware Advertising](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455946052)
@@ -203,12 +211,20 @@ Void
 ### Knowledge Graph or Side Information
 [AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types](https://dl.acm.org/doi/pdf/10.1145/3394486.3403323), Amazon, KDD, 2020.
 
+[Context-Aware Attentive Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3394486.3403282), Worcester, KDD, 2020.
+
+[Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388), DiDi, KDD, 2020.
+
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
 
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
+[General-Purpose User Embeddings based on Mobile App Usage](https://dl.acm.org/doi/pdf/10.1145/3394486.3403334), Tecent, KDD, 2020.
+
+[GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403311), Facebook, KDD, 2020.
+
 [Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
 
 [Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
@@ -225,14 +241,38 @@ Void
 ### Computational Ads
 [A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348), Tencent, KDD, 2020.
 
+[Category-Specific CNN for Visual-aware CTR Prediction at JD.com](https://dl.acm.org/doi/pdf/10.1145/3394486.3403319), JD, KDD, 2020.
+
+[Combo-Attention Network for Baidu Video Advertising](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297), Baidu Search Ads, KDD, 2020.
+
 [MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
 
 [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
 
 [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
 
+<a name="Industry_Travel"></a>
+### Travel and Delivery
+[BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376), Google Research, KDD, 2020
+
+[CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403386), DiDi, KDD, 2020.
+
+[ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403320), Baidu, KDD, 2020.
+
+[Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service](https://dl.acm.org/doi/pdf/10.1145/3394486.3403353), MeiTuan, KDD, 2020.
+
+[Doing in One Go: Delivery Time Inference Based on Couriers’ Trajectories](https://dl.acm.org/doi/pdf/10.1145/3394486.3403332), JD, KDD, 2020.
+
+[Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403356), Alibaba, KDD, 2020.
+
+[HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/pdf/10.1145/3394486.3403294), DiDi, KDD, 2020.
+
 <a name="Industry_Others"></a>
 ### Others
+[Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
+
+[Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373), DiDi, KDD, 2020.
+
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
 
 [A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
@@ -240,6 +280,10 @@ Void
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 #### Theory
+[CLARA: Confidence of Labels and Raters](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304), Facebook, KDD, 2020.
+
+[Geodemographic Influence Maximization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403327), Baidu, KDD, 2020.
+
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
 [Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
