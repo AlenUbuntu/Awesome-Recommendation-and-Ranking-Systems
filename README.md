@@ -19,6 +19,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
   * [Multi-Modal](#Industry_MultiModal)
   * [Interpretability](#Industry_Interpretability)
   * [Cold Start](#Industry_ColdStart)
+  * [Imbalance](#Industry_Imbalance)
   * [Bias Correction](#Industry_Bias_Correction)
   * [Privacy](#Industry_Privacy)
   * [Knowledge Graph and Side Information](#Industry_KG_SI)
@@ -168,8 +169,14 @@ Void
 
 [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
 
+<a name="Industry_Imbalance"></a>
+### Imbalance
+[A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
+
 <a name="Industry_Bias_Correction"></a>
 ### Bias Correction
+[Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
+
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
 [Unbiased Ad Click Prediction for Position-aware Advertising](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455946052)
@@ -204,6 +211,8 @@ Void
 
 <a name="Industry_Others"></a>
 ### Others
+[A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348), Tencent, KDD, 2020.
+
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
 [On the Heterogeneous Information Needs in the Job Domain: A Unified Platform for Student Career](https://dl.acm.org/doi/pdf/10.1145/3383313.3411554), Talto, RecSys, 2020. - [Video](https://vimeo.com/455641297)
