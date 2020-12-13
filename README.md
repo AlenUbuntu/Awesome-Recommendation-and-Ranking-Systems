@@ -1,5 +1,5 @@
 # Awesome-Recommendation-and-Ranking-Systems
-Recent advances in recommendation and ranking systems. We only focus on those papers in some form of cooperation with industry.
+Recent advances in recommendation and ranking systems. We only focus on papers published in top conferences including RecSys, WWW, SIGIR, and KDD.
 
 ## Table of Contents
 * [Survey](#survey)
