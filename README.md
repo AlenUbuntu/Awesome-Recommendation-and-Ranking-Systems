@@ -175,9 +175,13 @@ Void
 ### Imbalance
 [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
 
+[Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303), Amazon, KDD, 2020.
+
 <a name="Industry_Bias_Correction"></a>
 ### Bias Correction or Fairness
 [Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
+
+[Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies](https://dl.acm.org/doi/pdf/10.1145/3394486.3403285), Google, KDD, 2020.
 
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
@@ -195,6 +199,8 @@ Void
 
 <a name="Industry_KG_SI"></a>
 ### Knowledge Graph or Side Information
+[AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types](https://dl.acm.org/doi/pdf/10.1145/3394486.3403323), Amazon, KDD, 2020.
+
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
@@ -207,12 +213,18 @@ Void
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
+[AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403314), Huawei, KDD, 2020.
+
 [FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
 
 [“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
 
 <a name="Industry_Others"></a>
 ### Others
+[Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
+
+[Building Continuous Integration Services for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403290), Microsoft, KDD, 2020.
+
 [A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348), Tencent, KDD, 2020.
 
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
