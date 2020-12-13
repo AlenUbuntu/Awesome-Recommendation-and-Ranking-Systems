@@ -3,12 +3,14 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 ## Table of Contents
 * [Survey](#survey)
+  * [Self-Supervised](#Survey_Self-Supervised)
 * [Industry Papers](#industry-papers)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
 ## Survey
 ### Self-Supervised 
+<a name="Survey_Self-Supervised"></a>
 [A Survey on Self-supervised Pre-training for Sequential Transfer Learning in Neural Networks](https://arxiv.org/pdf/2007.00800.pdf), 2020.
 
 [A SURVEY ON CONTRASTIVE SELF-SUPERVISED LEARNING](https://arxiv.org/pdf/2011.00362.pdf), 2020.
@@ -17,6 +19,12 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/pdf/1902.06162.pdf), 2019.
 
+### Scalability
+Void
+
+### Ranking and Retrieval
+Void 
+
 ### Knowledge Graph or Side Information
 [A Survey on Knowledge Graph-Based Recommender Systems](https://arxiv.org/pdf/2003.00911.pdf), 2020.
 
@@ -24,7 +32,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 
 [Attribute-Aware Recommender System Based on Collaborative Filtering: Survey and Classification](https://www.frontiersin.org/articles/10.3389/fdata.2019.00049/pdf), 2019.
 
-### Bias and Debias
+### Bias Correction
 [Bias and Debias in Recommender System: A Survey and Future Directions](https://arxiv.org/pdf/2010.03240.pdf), 2020.
 
 ### Interpretability
@@ -113,7 +121,7 @@ Recent advances in recommendation and ranking systems. We only focus on those pa
 ### Multi-Modal
 [Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
 
-### Explainability
+### Interpretability
 [Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
 
 [Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
