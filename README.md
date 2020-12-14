@@ -113,6 +113,10 @@ Void
 ### Scalability
 [Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems](https://arxiv.org/pdf/2002.08530.pdf), Google, WWW, 2020.
 
+[LightRec: A Memory and Search-Efficient Recommender System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380151), MSRA, WWW, 2020.
+
+[Learning to Hash with Graph Neural Networks for Recommender Systems](https://arxiv.org/pdf/2003.01917.pdf), Alibaba, WWW, 2020.
+
 [Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342), Alibaba, KDD, 2020.
 
 [Privileged Features Distillation at Taobao Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309), Taobao, KDD, 2020.
@@ -201,6 +205,8 @@ Void
 
 <a name="Industry_Interpretability"></a>
 ### Interpretability
+[Understanding User Behavior For Document Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071), Microsoft, WWW, 2020.
+
 [Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276), Snap, KDD, 2020.
 
 [Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
@@ -251,6 +257,8 @@ Void
 
 <a name="Industry_KG_SI"></a>
 ### Knowledge Graph or Side Information
+[Layered Graph Embedding for Entity Recommendation using Wikipedia in the Yahoo! Knowledge Graph](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383570), Yahoo! Research, KDD, 2020.
+
 [AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types](https://dl.acm.org/doi/pdf/10.1145/3394486.3403323), Amazon, KDD, 2020.
 
 [Context-Aware Attentive Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3394486.3403282), Worcester, KDD, 2020.
@@ -287,6 +295,8 @@ Void
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
+[Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380116), Tecent, WWW, 2020.
+
 [AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403314), Huawei, KDD, 2020.
 
 [Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
@@ -315,6 +325,8 @@ Void
 
 <a name="Industry_Travel"></a>
 ### Travel and Delivery
+[When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380287), DiDi, WWW, 2020.
+
 [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376), Google Research, KDD, 2020
 
 [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403386), DiDi, KDD, 2020.
@@ -335,6 +347,16 @@ Void
 
 <a name="Industry_Others"></a>
 ### Others
+[MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3379999), Huawei, WWW, 2020.
+
+[Off-policy Learning in Two-stage Recommender Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380130), Google AI, WWW, 2020.
+
+[PARS: Peers-aware Recommender System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380013), Alibaba, WWW, 2020.
+
+[Attentive Sequential Models of Latent Intent for Next Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380002), Etsy, WWW, 2020.
+
+[Recommending Themes for Ad Creative Design via Visual-Linguistic Representations](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001), Yahoo Research, WWW, 2020.
+
 [Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368), Amazon, KDD, 2020.
 
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
@@ -342,6 +364,12 @@ Void
 [A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
 
 #### Theory
+[Leveraging Behavioral Heterogeneity Across Markets for Cross-Market Training of Recommender Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3384362), Spotify, WWW, 2020.
+
+[PARS: Peers-aware Recommender System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380013), Alibaba, WWW, 2020.
+
+[Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3386195), Google, WWW, 2020.
+
 [CLARA: Confidence of Labels and Raters](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304), Facebook, KDD, 2020.
 
 [Geodemographic Influence Maximization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403327), Baidu, KDD, 2020.
@@ -357,6 +385,8 @@ Void
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 #### Fashion Recommendation
+[OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
+
 [Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
 
 [A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
@@ -368,6 +398,8 @@ Void
 [Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
 
 #### E-Commerce
+[Keywords Generation Improves E-Commerce Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380232), JD, WWW, 2020.
+
 [Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
 
 [Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
