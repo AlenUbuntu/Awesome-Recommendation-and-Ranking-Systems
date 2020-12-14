@@ -143,6 +143,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework](https://dl.acm.org/doi/pdf/10.1145/3292500.3330728), Tecent, KDD, 2019.
 
+[TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank](https://dl.acm.org/doi/pdf/10.1145/3292500.3330677), Google, KDD, 2019.
+
 <a name="Industry_EE"></a>
 ### Exploit and Explore
 [Controllable Multi-Interest Framework for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344), Alibaba, KDD, 2020.
@@ -195,6 +197,10 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [Gmail Smart Compose: Real-Time Assisted Writing](https://dl.acm.org/doi/pdf/10.1145/3292500.3330723), Google, KDD, 2019.
 
+[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
+
+[Seeker: Real-Time Interactive Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330733), Amazon, KDD, 2019.
+
 <a name="Industry_Personalization"></a>
 ### Personalization
 [Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
@@ -229,6 +235,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [A User-Centered Concept Mining System for Query and Document Understanding at Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330727), Tecent, KDD, 2019.
 
+[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
+
 <a name="Industry_MultiModal"></a>
 ### Multi-Modal
 [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280), Pinterest Inc., KDD, 2020.
@@ -261,6 +269,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394), Spotify & Walmart, KDD, 2020.
 
+[Real-time Attention Based Look-alike Model for Recommender System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707), Tencent, KDD, 2019.
+
 <a name="Industry_Bias_Correction"></a>
 ### Bias Correction, Fairness, and Quality
 [Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
@@ -286,6 +296,10 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Fairness in Recommendation Ranking through Pairwise Comparisons](https://dl.acm.org/doi/pdf/10.1145/3292500.3330745), Google, KDD, 2019.
 
 [Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691), LinkedIn, KDD, 2019.
+
+[Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664), KDD, 2019.
+
+[Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668), JD, KDD, 2019.
 
 <a name="Industry_Privacy"></a>
 ### Privacy
@@ -321,6 +335,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330686), Alibaba, KDD, 2019.
 
+[Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330673), Alibaba, KDD, 2019.
+
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
 [Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
@@ -344,6 +360,12 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
 
 [Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences](https://dl.acm.org/doi/pdf/10.1145/3292500.3330714), Pinterest, KDD, 2019.
+
+[Learning a Unified Embedding for Visual Search at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330739), Pinterest, KDD, 2019.
+
+[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
+
+[PinText: A Multitask Text Embedding System in Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671), Pinterest, KDD, 2019.
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
@@ -388,6 +410,14 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives](https://dl.acm.org/doi/pdf/10.1145/3292500.3330789), Gunosy Inc, KDD, 2019.
 
 [Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330655), Alibaba, KDD, 2019.
+
+[MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330651), Baidu, KDD, 2019.
+
+[Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666), Alibaba, KDD, 2019.
+
+[Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330783), Verizon Media, KDD, 2019.
+
+[Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/doi/pdf/10.1145/3292500.3330749), Verizon Media, KDD, 2019.
 
 <a name="Industry_Travel"></a>
 ### Travel and Delivery
@@ -475,6 +505,12 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [FDML: A Collaborative Machine Learning Framework for Distributed Features](https://dl.acm.org/doi/pdf/10.1145/3292500.3330765), Tecent, KDD, 2019.
 
+[Optuna: A Next-generation Hyperparameter Optimization Framework](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701), Preferred Networks, Inc., KDD, 2019.
+
+[Sequential Scenario-Specific Meta Learner for Online Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726), Alibaba, KDD, 2019.
+
+[Whole Page Optimization with Global Constraints](https://dl.acm.org/doi/pdf/10.1145/3292500.3330675), Amazon, KDD, 2019.
+
 <a name="Industry_Other_Fashion"></a>
 #### Fashion Recommendation
 [OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
@@ -488,6 +524,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Personalized Bundle List Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568), Alibaba, WWW, 2019.
 
 [Concept to Code: Deep Learning for Fashion Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308560.3320100), Flipkart, WWW, 2019.
+
+[POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](https://dl.acm.org/doi/pdf/10.1145/3292500.3330652), Alibaba, KDD, 2019.
 
 <a name="Industry_Other_e-commerce"></a>
 #### E-Commerce
@@ -504,6 +542,12 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Buying or Browsing? : Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior](https://dl.acm.org/doi/pdf/10.1145/3292500.3330670), Alibaba, KDD, 2019.
 
 [Infer Implicit Contexts in Real-time Online-to-Offline Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716), Alibaba, KDD, 2019.
+
+[MSURU: Large Scale E-commerce Image Classification With Weakly Supervised Search Data](https://dl.acm.org/doi/pdf/10.1145/3292500.3330696), Facebook, KDD, 2019.
+
+[Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics](https://dl.acm.org/doi/pdf/10.1145/3292500.3330790), JD, KDD, 2019.
+
+[Understanding the Role of Style in E-commerce Shopping](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760), Twitter, KDD, 2019.
 
 ## Academic Papers
 <a name="Academic_Scalability"></a>
@@ -551,3 +595,4 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 ### AR/VR 
 [In-Store Augmented Reality-Enabled Product Comparison and Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412266), RecSys, 2020. - [Video](https://vimeo.com/455946175)
 
+[Nostalgin: Extracting 3D City Models from Historical Image Data](https://dl.acm.org/doi/pdf/10.1145/3292500.3330743), Google, KDD, 2019.
