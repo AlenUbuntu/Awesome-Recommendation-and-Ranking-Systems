@@ -55,7 +55,6 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 <a name="Survey_Rank_Retrieval"></a>
 ### Ranking and Retrieval
-Void 
 
 <a name="Survey_KG_SideInfo"></a>
 ### Knowledge Graph or Side Information
@@ -109,6 +108,8 @@ Void
 
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029). 2019.
 
+[150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/pdf/10.1145/3292500.3330744), Booking.com, KDD, 2019.
+
 [Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018. - [Slides](https://www.slideshare.net/MassimoQuadrana/tutorial-on-sequence-aware-recommender-systems-acm-recsys-2018), [Code](https://github.com/mquad/sars_tutorial/)
 
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
@@ -137,6 +138,10 @@ Void
 [Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569.pdf), NAVER Corp., RecSys, 2019.
 
 [LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
+
+[Large-Scale Training Framework for Video Annotation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330653), Google Research, KDD, 2019.
+
+[Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework](https://dl.acm.org/doi/pdf/10.1145/3292500.3330728), Tecent, KDD, 2019.
 
 <a name="Industry_EE"></a>
 ### Exploit and Explore
@@ -180,6 +185,16 @@ Void
 
 [Click Feedback-Aware Query Recommendation Using Adversarial Examples](https://dl.acm.org/doi/pdf/10.1145/3308558.3313412), Yahoo Research, WWW, 2019.
 
+[A Deep Generative Approach to Search Extrapolation and Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330786), Tecent, KDD, 2019.
+
+[Applying Deep Learning To Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330658), Airbnb, KDD, 2019.
+
+[Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330676), Google, KDD, 2019.
+
+[Semantic Product Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330759), Amazon, KDD, 2019.
+
+[Gmail Smart Compose: Real-Time Assisted Writing](https://dl.acm.org/doi/pdf/10.1145/3292500.3330723), Google, KDD, 2019.
+
 <a name="Industry_Personalization"></a>
 ### Personalization
 [Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
@@ -211,6 +226,8 @@ Void
 [Pcard: Personalized Restaurants Recommendation from Card Payment Transaction Records](https://dl.acm.org/doi/pdf/10.1145/3308558.3313494), VISA Research, WWW, 2019.
 
 [User-Video Co-Attention Network for Personalized Micro-video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313513), Amazon Alexa & Facebook, WWW, 2019.
+
+[A User-Centered Concept Mining System for Query and Document Understanding at Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330727), Tecent, KDD, 2019.
 
 <a name="Industry_MultiModal"></a>
 ### Multi-Modal
@@ -266,6 +283,10 @@ Void
 
 [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996), Google, RecSys, 2019.
 
+[Fairness in Recommendation Ranking through Pairwise Comparisons](https://dl.acm.org/doi/pdf/10.1145/3292500.3330745), Google, KDD, 2019.
+
+[Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691), LinkedIn, KDD, 2019.
+
 <a name="Industry_Privacy"></a>
 ### Privacy
 [From the lab to production: A case study of session-based recommendations in the home-improvement domain](https://dl.acm.org/doi/pdf/10.1145/3383313.3412235), The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
@@ -298,6 +319,8 @@ Void
 
 [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
 
+[IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330686), Alibaba, KDD, 2019.
+
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
 [Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
@@ -319,6 +342,8 @@ Void
 [Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendations](https://dl.acm.org/doi/pdf/10.1145/3308558.3313613), Spotify, WWW, 2019.
 
 [Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
+
+[Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences](https://dl.acm.org/doi/pdf/10.1145/3292500.3330714), Pinterest, KDD, 2019.
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
@@ -352,6 +377,18 @@ Void
 
 [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
 
+[A Unified Framework for Marketing Budget Allocation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330700), Alibaba, KDD, 2019.
+
+[AiAds: Automated and Intelligent Advertising System for Sponsored Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330782), Baidu, KDD, 2019.
+
+[Bid Optimization by Multivariable Control in Display Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330681), Alibaba, KDD, 2019.
+
+[Carousel Ads Optimization in Yahoo Gemini Native](https://dl.acm.org/doi/pdf/10.1145/3292500.3330740), Yahoo, KDD, 2019.
+
+[Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives](https://dl.acm.org/doi/pdf/10.1145/3292500.3330789), Gunosy Inc, KDD, 2019.
+
+[Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330655), Alibaba, KDD, 2019.
+
 <a name="Industry_Travel"></a>
 ### Travel and Delivery
 [When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380287), DiDi, WWW, 2020.
@@ -374,6 +411,10 @@ Void
 
 [Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy](https://dl.acm.org/doi/pdf/10.1145/3394486.3403286), DiDi, KDD, 2020.
 
+[A Collaborative Learning Framework to Tag Refinement for Points of Interest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330698), Baidu, KDD, 2019.
+
+[Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330660), Baidu Research, KDD, 2019.
+
 <a name="Industry_Others"></a>
 ### Others
 [MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3379999), Huawei, WWW, 2020.
@@ -395,6 +436,10 @@ Void
 [A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
 
 [GhostLink: Latent Network Inference for Influence-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313449), Amazon, WWW, 2019.
+
+[Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://dl.acm.org/doi/pdf/10.1145/3292500.3330750), Snapchat, KDD, 2019.
+
+[Gmail Smart Compose: Real-Time Assisted Writing](https://dl.acm.org/doi/pdf/10.1145/3292500.3330723), Google, KDD, 2019.
 
 <a name="Industry_Other_Theory"></a>
 #### Theory
@@ -426,6 +471,10 @@ Void
 
 [Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308558.3313747), Pinterest, WWW, 2019.
 
+[A Generalized Framework for Population Based Training](https://dl.acm.org/doi/pdf/10.1145/3292500.3330649), DeepMind, KDD, 2019.
+
+[FDML: A Collaborative Machine Learning Framework for Distributed Features](https://dl.acm.org/doi/pdf/10.1145/3292500.3330765), Tecent, KDD, 2019.
+
 <a name="Industry_Other_Fashion"></a>
 #### Fashion Recommendation
 [OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
@@ -449,6 +498,12 @@ Void
 [Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
 
 [A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998), Alibaba & Kuai, RecSys, 2019.
+
+[Anomaly Detection for an E-commerce Pricing System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330748), Walmart, KDD, 2019.
+
+[Buying or Browsing? : Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior](https://dl.acm.org/doi/pdf/10.1145/3292500.3330670), Alibaba, KDD, 2019.
+
+[Infer Implicit Contexts in Real-time Online-to-Offline Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716), Alibaba, KDD, 2019.
 
 ## Academic Papers
 <a name="Academic_Scalability"></a>
