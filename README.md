@@ -86,11 +86,13 @@ Void
 ### Others
 [How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations](https://dl.acm.org/doi/pdf/10.1145/3313831.3376435), 2020.
 
+[Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3382692), WWW, 2020.
+
+[Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
+
 [Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489), RecSys, 2020.
 
 [Neural Collaborative Filtering vs. Matrix Factorization Revisited](https://dl.acm.org/doi/pdf/10.1145/3383313.3412488), Google Research, RecSys, 2020.
-
-[Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
 
 [How good your recommender system is? A survey on evaluations in recommendation](https://link.springer.com/content/pdf/10.1007/s13042-017-0762-9.pdf), 2019.
 
@@ -109,6 +111,8 @@ Void
 ## Industry Papers
 <a name="Industry_Scalability"></a>
 ### Scalability
+[Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems](https://arxiv.org/pdf/2002.08530.pdf), Google, WWW, 2020.
+
 [Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342), Alibaba, KDD, 2020.
 
 [Privileged Features Distillation at Taobao Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309), Taobao, KDD, 2020.
@@ -265,6 +269,8 @@ Void
 
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
+[Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
+
 [General-Purpose User Embeddings based on Mobile App Usage](https://dl.acm.org/doi/pdf/10.1145/3394486.3403334), Tecent, KDD, 2020.
 
 [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403311), Facebook, KDD, 2020.
