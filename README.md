@@ -8,7 +8,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Self-Supervised](#Survey_Self-Supervised)
   * [Ranking and Retrieval](#Survey_Rank_Retrieval)
   * [Knowledge Graph and Side Information](#Survey_KG_SideInfo)
-  * [Bias Correction or Fairness](#Survey_Bias_Correction)
+  * [Bias Correction, Fairness and Quality](#Survey_Bias_Correction)
   * [Interpretability](#Survey_Interpretability)
   * [Feature Engineering](#Survey_FE)
   * [Personalization](#Survey_Personalization)
@@ -21,8 +21,8 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Multi-Modal](#Industry_MultiModal)
   * [Interpretability](#Industry_Interpretability)
   * [Cold Start](#Industry_ColdStart)
-  * [Imbalance](#Industry_Imbalance)
-  * [Bias Correction or Fairness](#Industry_Bias_Correction)
+  * [Imbalance and Limited Labels](#Industry_Imbalance)
+  * [Bias Correction, Fairness, and Quality](#Industry_Bias_Correction)
   * [Privacy](#Industry_Privacy)
   * [Knowledge Graph and Side Information](#Industry_KG_SI)
   * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
@@ -109,6 +109,12 @@ Void
 ## Industry Papers
 <a name="Industry_Scalability"></a>
 ### Scalability
+[Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342), Alibaba, KDD, 2020.
+
+[Privileged Features Distillation at Taobao Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309), Taobao, KDD, 2020.
+
+[Scaling Graph Neural Networks with Approximate PageRank](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296), Google Research, KDD, 2020.
+
 [Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), SBX Technology, RecSys, 2020.  - [Video](https://vimeo.com/455643117)
 
 [Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
@@ -123,6 +129,8 @@ Void
 ### Exploit and Explore
 [Controllable Multi-Interest Framework for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344), Alibaba, KDD, 2020.
 
+[Managing Diversity in Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345), Airbnb, KDD, 2020.
+
 [Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
 
 [Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
@@ -135,6 +143,20 @@ Void
 ### Ranking and Retrieval
 [Embedding-based Retrieval in Facebook Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305), Facebook, KDD, 2020.
 
+[Improving Deep Learning For Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333), Airbnb, KDD, 2020.
+
+[Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350), Alibaba, KDD, 2020.
+
+[Managing Diversity in Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345), Airbnb, KDD, 2020.
+
+[Meta-Learning for Query Conceptualization at Web Scale](https://dl.acm.org/doi/pdf/10.1145/3394486.3403357), Tecent, KDD, 2020.
+
+[Neural Input Search for Large Scale Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3394486.3403288), Google, KDD, 2020.
+
+[Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
+
+[Shop The Look: Building a Large Scale Visual Shopping System at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403372), Pinterest, Inc., KDD, 2020.
+
 [Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
 
 [Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
@@ -143,6 +165,10 @@ Void
 
 <a name="Industry_Personalization"></a>
 ### Personalization
+[Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
+
+[Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403318), Baidu, KDD, 2020.
+
 [Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), Chegg, RecSys, 2020. - [Video](https://vimeo.com/455639337)
 
 [Query as Context for Item-to-Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3411480), Etsy, RecSys, 2020. - [Video](https://vimeo.com/455640122)
@@ -165,6 +191,8 @@ Void
 
 <a name="Industry_MultiModal"></a>
 ### Multi-Modal
+[PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280), Pinterest Inc., KDD, 2020.
+
 [Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
 
 <a name="Industry_Interpretability"></a>
@@ -180,18 +208,24 @@ Void
 [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
 
 <a name="Industry_Imbalance"></a>
-### Imbalance
+### Imbalance and Limited Labels
 [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
 
 [Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303), Amazon, KDD, 2020.
 
+[Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394), Spotify & Walmart, KDD, 2020.
+
 <a name="Industry_Bias_Correction"></a>
-### Bias Correction or Fairness
+### Bias Correction, Fairness, and Quality
 [Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
 
 [Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies](https://dl.acm.org/doi/pdf/10.1145/3394486.3403285), Google, KDD, 2020.
 
 [Debiasing Grid-based Product Search in E-commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403336), LinkedIn, KDD, 2020.
+
+[Improving Recommendation Quality in Google Drive](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341), Google, KDD, 2020.
+
+[Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329), Alibaba & Microsoft, KDD, 2020.
 
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
@@ -215,6 +249,8 @@ Void
 
 [Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388), DiDi, KDD, 2020.
 
+[MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293), Pinterest Inc., KDD, 2020.
+
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
@@ -224,6 +260,12 @@ Void
 [General-Purpose User Embeddings based on Mobile App Usage](https://dl.acm.org/doi/pdf/10.1145/3394486.3403334), Tecent, KDD, 2020.
 
 [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403311), Facebook, KDD, 2020.
+
+[Jointly Learning to Recommend and Advertise](https://dl.acm.org/doi/pdf/10.1145/3394486.3403384), ByteDance, KDD, 2020.
+
+[Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350), Alibaba, KDD, 2020.
+
+[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403284), Alibaba, KDD, 2020.
 
 [Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
 
@@ -267,11 +309,19 @@ Void
 
 [HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/pdf/10.1145/3394486.3403294), DiDi, KDD, 2020.
 
+[Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358), Alibaba, KDD, 2020.
+
+[Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy](https://dl.acm.org/doi/pdf/10.1145/3394486.3403286), DiDi, KDD, 2020.
+
 <a name="Industry_Others"></a>
 ### Others
 [Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
 
 [Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373), DiDi, KDD, 2020.
+
+[Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276), Snap, KDD, 2020.
+
+[Multi-objective Optimization for Guaranteed Delivery in Video Service Platform](https://dl.acm.org/doi/pdf/10.1145/3394486.3403352), Alibaba, KDD, 2020.
 
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
 
@@ -283,6 +333,8 @@ Void
 [CLARA: Confidence of Labels and Raters](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304), Facebook, KDD, 2020.
 
 [Geodemographic Influence Maximization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403327), Baidu, KDD, 2020.
+
+[Hypergraph Convolutional Recurrent Neural Network](https://dl.acm.org/doi/pdf/10.1145/3394486.3403389), KAIST, KDD, 2020.
 
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
