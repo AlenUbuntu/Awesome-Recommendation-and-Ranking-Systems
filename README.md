@@ -234,6 +234,8 @@ Void
 
 [CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
 
+[Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596), KDDI Research, Inc, WWW, 2019.
+
 <a name="Industry_Imbalance"></a>
 ### Imbalance and Limited Labels
 [A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
@@ -292,6 +294,10 @@ Void
 
 [Graph Neural Networks for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313488), JD, WWW, 2019.
 
+[Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308558.3313417), MSRA, WWW, 2019.
+
+[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
+
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
 [Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
@@ -311,6 +317,8 @@ Void
 [Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
 
 [Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendations](https://dl.acm.org/doi/pdf/10.1145/3308558.3313613), Spotify, WWW, 2019.
+
+[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
@@ -415,6 +423,8 @@ Void
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 [Towards Neural Mixture Recommender for Long Range Dependent User Sequences](https://dl.acm.org/doi/pdf/10.1145/3308558.3313650), Google, WWW, 2019.
+
+[Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308558.3313747), Pinterest, WWW, 2019.
 
 <a name="Industry_Other_Fashion"></a>
 #### Fashion Recommendation
