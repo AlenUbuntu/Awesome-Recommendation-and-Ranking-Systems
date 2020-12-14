@@ -197,6 +197,8 @@ Void
 
 <a name="Industry_Interpretability"></a>
 ### Interpretability
+[Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276), Snap, KDD, 2020.
+
 [Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
 
 [Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
@@ -227,6 +229,8 @@ Void
 
 [Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329), Alibaba & Microsoft, KDD, 2020.
 
+[User Sentiment as a Success Metric: Persistent Biases Under Full Randomization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340), Google, KDD, 2020.
+
 [Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
 
 [Unbiased Ad Click Prediction for Position-aware Advertising](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455946052)
@@ -253,6 +257,8 @@ Void
 
 [SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370), Twitter, Inc., KDD, 2020.
 
+[Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373), DiDi, KDD, 2020.
+
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
@@ -276,6 +282,12 @@ Void
 <a name="Industry_FE"></a>
 ### Feature Engineering
 [AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403314), Huawei, KDD, 2020.
+
+[Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
+
+[Temporal-Contextual Recommendation in Real-Time](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278), Amazon AWS, KDD, 2020.
+
+[TIES: Temporal Interaction Embeddings for Enhancing Social Media Integrity at Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403364), Facebook, KDD, 2020.
 
 [FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
 
@@ -317,19 +329,11 @@ Void
 
 <a name="Industry_Others"></a>
 ### Others
-[Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
-
-[Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373), DiDi, KDD, 2020.
-
-[Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276), Snap, KDD, 2020.
-
-[Multi-objective Optimization for Guaranteed Delivery in Video Service Platform](https://dl.acm.org/doi/pdf/10.1145/3394486.3403352), Alibaba, KDD, 2020.
+[Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368), Amazon, KDD, 2020.
 
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
 
 [A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
-
-[Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 #### Theory
 [CLARA: Confidence of Labels and Raters](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304), Facebook, KDD, 2020.
@@ -338,9 +342,13 @@ Void
 
 [Hypergraph Convolutional Recurrent Neural Network](https://dl.acm.org/doi/pdf/10.1145/3394486.3403389), KAIST, KDD, 2020.
 
+[Multi-objective Optimization for Guaranteed Delivery in Video Service Platform](https://dl.acm.org/doi/pdf/10.1145/3394486.3403352), Alibaba, KDD, 2020.
+
 [A Human Perspective on Algorithmic Similarity](https://dl.acm.org/doi/pdf/10.1145/3383313.3411549), Netflix, RecSys, 2020. - [Video](https://vimeo.com/455640996)
 
 [Deconstructing the Filter Bubble: User Decision-Making and Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412246), Everquote, RecSys, 2020. - [Video](https://vimeo.com/455947278)
+
+[Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
 #### Fashion Recommendation
 [Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
@@ -393,6 +401,8 @@ Void
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
+[Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368), Amazon, KDD, 2020.
+
 [SSE-PT: Sequential Recommendation Via Personalized Transformer](https://dl.acm.org/doi/pdf/10.1145/3383313.3412258), RecSys, 2020. - [Video](https://vimeo.com/455947093)
 
 [What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412249), RecSys, 2020. - [Video](https://vimeo.com/455951047)
