@@ -251,6 +251,8 @@ Void
 
 [MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293), Pinterest Inc., KDD, 2020.
 
+[SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370), Twitter, Inc., KDD, 2020.
+
 [KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
