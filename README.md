@@ -25,11 +25,14 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Bias Correction, Fairness, and Quality](#Industry_Bias_Correction)
   * [Privacy](#Industry_Privacy)
   * [Knowledge Graph and Side Information](#Industry_KG_SI)
-  * [Transfer Learning and MultiTask Learning](#Industry_Transfer)
+  * [Transfer Learning and Multi-Task Learning](#Industry_Transfer)
   * [Feature Engineering](#Industry_FE)
   * [Computational Ads](#Industry_CompAds)
   * [Travel and Delivery](#Industry_Travel)
   * [Others](#Industry_Others)
+    * [Theory](#Industry_Others_Theory)
+    * [Fashion Recommendation](#Industry_Others_Fashion)
+    * [E-Commerce](#Industry_Others_e-commerce)
 * [Academic Papers](#academic-papers)
   * [Scalability](#Academic_Scalability)
   * [Exploit and Explore](#Academic_EE)
@@ -106,6 +109,8 @@ Void
 
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029). 2019.
 
+[Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018. - [Slides](https://www.slideshare.net/MassimoQuadrana/tutorial-on-sequence-aware-recommender-systems-acm-recsys-2018), [Code](https://github.com/mquad/sars_tutorial/)
+
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
@@ -147,6 +152,8 @@ Void
 
 [When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347044), eBay and Microsoft Research, RecSys, 2019.
 
+[How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313469?casa_token=Ljqto7-qUnUAAAAA:hKMUsSiva812p5WMBkDJc3lzjsQwcY9pNiP0oWf_aVnMpaVnTeY4EOjHRu-S0cJeaIlqL1VBUKA), Alibaba, WWW, 2019.
+
 <a name="Industry_Ranking_Retrieval"></a>
 ### Ranking and Retrieval
 [Embedding-based Retrieval in Facebook Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305), Facebook, KDD, 2020.
@@ -170,6 +177,8 @@ Void
 [Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
 
 [Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval](https://dl.acm.org/doi/pdf/10.1145/3298689.3347047), TrueFit, RecSys, 2019.
+
+[Click Feedback-Aware Query Recommendation Using Adversarial Examples](https://dl.acm.org/doi/pdf/10.1145/3308558.3313412), Yahoo Research, WWW, 2019.
 
 <a name="Industry_Personalization"></a>
 ### Personalization
@@ -196,6 +205,12 @@ Void
 [Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
 
 [Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
+
+[Personalized Bundle List Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568), Alibaba, WWW, 2019.
+
+[Pcard: Personalized Restaurants Recommendation from Card Payment Transaction Records](https://dl.acm.org/doi/pdf/10.1145/3308558.3313494), VISA Research, WWW, 2019.
+
+[User-Video Co-Attention Network for Personalized Micro-video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313513), Amazon Alexa & Facebook, WWW, 2019.
 
 <a name="Industry_MultiModal"></a>
 ### Multi-Modal
@@ -275,6 +290,8 @@ Void
 
 [Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
 
+[Graph Neural Networks for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313488), JD, WWW, 2019.
+
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
 [Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
@@ -292,6 +309,8 @@ Void
 [Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
 
 [Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
+
+[Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendations](https://dl.acm.org/doi/pdf/10.1145/3308558.3313613), Spotify, WWW, 2019.
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
@@ -320,6 +339,8 @@ Void
 [MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
 
 [Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
+
+[Recommending Themes for Ad Creative Design via Visual-Linguistic Representations](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001), Yahoo Research, WWW, 2020.
 
 [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
 
@@ -355,20 +376,29 @@ Void
 
 [Attentive Sequential Models of Latent Intent for Next Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380002), Etsy, WWW, 2020.
 
-[Recommending Themes for Ad Creative Design via Visual-Linguistic Representations](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001), Yahoo Research, WWW, 2020.
-
 [Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368), Amazon, KDD, 2020.
+
+[Building Continuous Integration Services for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403290), Microsoft, KDD, 2020.
 
 [Learning Representations of Hierarchical Slates in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484), Netflix, RecSys, 2020.
 
+[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
+
 [A Recommender System for Heterogeneous and Time Sensitive Environment](https://dl.acm.org/doi/pdf/10.1145/3298689.3347039), Electronic Arts, Inc., RecSys, 2019. 
 
+[GhostLink: Latent Network Inference for Influence-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313449), Amazon, WWW, 2019.
+
+<a name="Industry_Other_Theory"></a>
 #### Theory
+[MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3379999), Huawei, WWW, 2020.
+
 [Leveraging Behavioral Heterogeneity Across Markets for Cross-Market Training of Recommender Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3384362), Spotify, WWW, 2020.
 
 [PARS: Peers-aware Recommender System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380013), Alibaba, WWW, 2020.
 
 [Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3386195), Google, WWW, 2020.
+
+[Attentive Sequential Models of Latent Intent for Next Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380002), Etsy, WWW, 2020.
 
 [CLARA: Confidence of Labels and Raters](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304), Facebook, KDD, 2020.
 
@@ -384,6 +414,9 @@ Void
 
 [Uplif-based Evaluation and Optimization of Recommenders](https://dl.acm.org/doi/pdf/10.1145/3298689.3347018), Fuji Xerox, RecSys, 2019.
 
+[Towards Neural Mixture Recommender for Long Range Dependent User Sequences](https://dl.acm.org/doi/pdf/10.1145/3308558.3313650), Google, WWW, 2019.
+
+<a name="Industry_Other_Fashion"></a>
 #### Fashion Recommendation
 [OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
 
@@ -391,12 +424,13 @@ Void
 
 [A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
 
-#### AI As A Service
-[Building Continuous Integration Services for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403290), Microsoft, KDD, 2020.
+[Shop your Right Size: A System for Recommending Sizes for Fashion products](https://dl.acm.org/doi/pdf/10.1145/3308560.3316599), Myntra Designs, WWW, 2019.
 
-#### Command Recommendation
-[Goal-driven Command Recommendations for Analysts](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255), Adobe Research, RecSys, 2020. - [Video](https://vimeo.com/455956170)
+[Personalized Bundle List Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568), Alibaba, WWW, 2019.
 
+[Concept to Code: Deep Learning for Fashion Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308560.3320100), Flipkart, WWW, 2019.
+
+<a name="Industry_Other_e-commerce"></a>
 #### E-Commerce
 [Keywords Generation Improves E-Commerce Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380232), JD, WWW, 2020.
 
@@ -418,6 +452,8 @@ Void
 <a name="Academic_Privacy"></a>
 ### Privacy
 [Eficient Privacy-Preserving Recommendations based on Social Graphs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347013), RecSys, 2019.
+
+[Trust and Trustworthiness in Social Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308560.3317596), WWW, 2019.
 
 <a name="Academic_Transfer"></a>
 ### Transfer and MultiTask Learning
