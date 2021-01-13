@@ -549,38 +549,18 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [Understanding the Role of Style in E-commerce Shopping](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760), Twitter, KDD, 2019.
 
+### Cross-Domain Recommendation
+[CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf), WWW, 2017.
+
 ## Academic Papers
 <a name="Academic_Scalability"></a>
-### Scalability
-[Eficient Similarity Computation for Collaborative Filtering in Dynamic Environments](https://dl.acm.org/doi/pdf/10.1145/3298689.3347017), RecSys, 2019.
+### MLP based
+#### Neural Extension of Traditional Recommendation Method
+[Neural network matrix factorization.](https://arxiv.org/pdf/1511.06443.pdf), Arxiv, 2015.
 
-<a name="Academic_EE"></a>
-### Exploit and Explore
-[Latent Modeling of Unexpectedness for Recommendations](http://ceur-ws.org/Vol-2431/paper8.pdf), RecSys, 2019.
+[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf), WWW, 2017.
 
-<a name="Academic_Privacy"></a>
-### Privacy
-[Eficient Privacy-Preserving Recommendations based on Social Graphs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347013), RecSys, 2019.
-
-[Trust and Trustworthiness in Social Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308560.3317596), WWW, 2019.
-
-<a name="Academic_Transfer"></a>
-### Transfer and MultiTask Learning
-[Style Conditioned Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347007), RecSys, 2019.
-
-<a name="Academic_Others"></a>
-### Others
-[A Comparison of Calibrated and Intent-Aware Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347045), RecSys, 2019.
-
-[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://dl.acm.org/doi/pdf/10.1145/3298689.3347058), RecSys, 2019.
-
-[Deep Social Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3298689.3347011), RecSys, 2019.
-
-[Latent Factor Models and Aggregation Operators for Collaborative Filtering in Reciprocal Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3298689.3347026), RecSys, 2019.
-
-[Leveraging Post-click Feedback for Content Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347037), RecSys, 2019.
-
-[Relaxed Sofmax for PU Learning](https://dl.acm.org/doi/pdf/10.1145/3298689.3347034), RecSys, 2019.
+[Item Silk Road: Recommending Items from Information Domains to Social Users](https://arxiv.org/pdf/1706.03205.pdf), SIGIR, 2017. 
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
