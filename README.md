@@ -42,6 +42,18 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
+<h3> Keywords </h3>
+
+__`sca.`__: scalability &emsp; | &emsp; __`e&e.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
+__`per.`__: personalization &emsp; | &emsp; __`mmd.`__: multimodal &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cst.`__: cold start     
+__`imb.`__: imbalance &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
+__`kgs.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mul`__ multi-task    
+__`feg.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`tra`__: travel and delivery    
+__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`oth.`__: others
+
+Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+
+
 ## Survey
 <a name="Survey_Self-Supervised"></a>
 ### Self-Supervised 
