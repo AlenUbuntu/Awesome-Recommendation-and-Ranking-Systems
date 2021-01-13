@@ -367,6 +367,9 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 [PinText: A Multitask Text Embedding System in Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671), Pinterest, KDD, 2019.
 
+[CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf), Microsoft Research, WWW, 2017.
+
+
 <a name="Industry_FE"></a>
 ### Feature Engineering
 [Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380116), Tecent, WWW, 2020.
@@ -548,9 +551,6 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 [Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics](https://dl.acm.org/doi/pdf/10.1145/3292500.3330790), JD, KDD, 2019.
 
 [Understanding the Role of Style in E-commerce Shopping](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760), Twitter, KDD, 2019.
-
-### Cross-Domain Recommendation
-[CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf), WWW, 2017.
 
 ## Academic Papers
 <a name="Academic_Scalability"></a>
