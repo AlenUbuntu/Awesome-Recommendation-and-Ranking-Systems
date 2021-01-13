@@ -44,12 +44,16 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 <h3> Keywords </h3>
 
-__`sca.`__: scalability &emsp; | &emsp; __`e&e.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
-__`per.`__: personalization &emsp; | &emsp; __`mmd.`__: multimodal &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cst.`__: cold start     
+__`sca.`__: scalability &emsp; | &emsp; __`ee.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
+__`per.`__: personalization &emsp; | &emsp; __`mm.`__: multimodal &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cs.`__: cold start     
 __`imb.`__: imbalance &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
-__`kgs.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mul`__ multi-task    
-__`feg.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`tra`__: travel and delivery    
-__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`oth.`__: others
+__`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
+__`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
+__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`mlp.`__: MLP  
+__`ae.`__: auto-encoder &emsp; | &emsp; __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm   
+__`nad.`__: nade &emsp; | &emsp; __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning    
+__`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb`__: hybrid    
+__`oth.`__: others
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
