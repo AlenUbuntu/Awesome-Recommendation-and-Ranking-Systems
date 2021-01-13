@@ -556,11 +556,15 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 <a name="Academic_Scalability"></a>
 ### MLP based
 #### Neural Extension of Traditional Recommendation Method
-[Neural network matrix factorization.](https://arxiv.org/pdf/1511.06443.pdf), Arxiv, 2015.
+[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/Proceedings/2018/0510.pdf), IJCAI, 2018.
 
 [Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf), WWW, 2017.
 
 [Item Silk Road: Recommending Items from Information Domains to Social Users](https://arxiv.org/pdf/1706.03205.pdf), SIGIR, 2017. 
+
+[Deep Matrix Factorization Models for Recommender Systems](https://www.ijcai.org/Proceedings/2017/0447.pdf), IJCAI, 2017.
+
+[Neural network matrix factorization.](https://arxiv.org/pdf/1511.06443.pdf), Arxiv, 2015.
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
