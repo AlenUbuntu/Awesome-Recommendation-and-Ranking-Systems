@@ -49,10 +49,10 @@ __`per.`__: personalization &emsp; | &emsp; __`mm.`__: multimodal &emsp; | &emsp
 __`imb.`__: imbalance &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
 __`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
-__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`mlp.`__: MLP  
-__`ae.`__: auto-encoder &emsp; | &emsp; __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm   
-__`nad.`__: nade &emsp; | &emsp; __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning    
-__`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb`__: hybrid    
+__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`mlp.`__: MLP &emsp; | &emsp; __`ae.`__: auto-encoder    
+__`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm &emsp; | &emsp; __`nad.`__: nade     
+__`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL     
+__`hyb`__: hybrid    
 __`oth.`__: others
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
