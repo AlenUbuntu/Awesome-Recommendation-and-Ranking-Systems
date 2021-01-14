@@ -28,7 +28,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 
 __`sca.`__: scalability &emsp; | &emsp; __`ee.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
 __`per.`__: personalization &emsp; | &emsp; __`seq.`__: sequential info &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cs.`__: cold start     
-__`imb.`__: imbalance &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
+__`imb.`__: imbalance and long-tail &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
 __`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
 __`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce    
@@ -189,6 +189,25 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Spotify & Walmart](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394)] Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization [__`imb.`__]
 
+[[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391)] Ads Allocation in Feed via Constrained Optimization [__`bia.`__,__`ads.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403285)] Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies [__`bia.`__]
+
+[[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3394486.3403336)] Debiasing Grid-based Product Search in E-commerce [__`ran.`__,__`ret.`__,__`bia.`__,__`eco.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341)] Improving Recommendation Quality in Google Drive [__`bia.`__]
+
+[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__]
+
+[[Microsoft](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265)] Debiasing Item-to-Item Recommendations With Small Annotated Datasets [__`bia.`__, __`int.`__]
+
+[[HuaWei](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241)] Unbiased Ad Click Prediction for Position-aware Advertising [__`bia.`__,__`ads.`__,__`int.`__]
+
+[[Fuji Xerox](https://arxiv.org/pdf/2008.04563.pdf)] Unbiased Learning for the Causal Effect of Recommendation [__`bia.`__, __`int.`__]
+
+
 <a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -239,6 +258,14 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__]
 
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations [__`bia.`__,__`ret.`__, __`mlp.`__] :yellow_heart:
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330745)] Fairness in Recommendation Ranking through Pairwise Comparisons [__`bia.`__] :star:
+
+[[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__] :yellow_heart:
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -252,36 +279,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Bias_Correction"></a>
-### Bias Correction, Fairness, and Quality
-[Ads Allocation in Feed via Constrained Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391), LinkedIn, KDD, 2020.
-
-[Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies](https://dl.acm.org/doi/pdf/10.1145/3394486.3403285), Google, KDD, 2020.
-
-[Debiasing Grid-based Product Search in E-commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403336), LinkedIn, KDD, 2020.
-
-[Improving Recommendation Quality in Google Drive](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341), Google, KDD, 2020.
-
-[Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329), Alibaba & Microsoft, KDD, 2020.
-
-[User Sentiment as a Success Metric: Persistent Biases Under Full Randomization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340), Google, KDD, 2020.
-
-[Debiasing Item-to-Item Recommendations With Small Annotated Datasets](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265), Microsoft, RecSys, 2020. - [Video](https://vimeo.com/456912922)
-
-[Unbiased Ad Click Prediction for Position-aware Advertising](https://dl.acm.org/doi/pdf/10.1145/3383313.3412241), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455946052)
-
-[Unbiased Learning for the Causal Effect of Recommendation](https://arxiv.org/pdf/2008.04563.pdf), Fuji Xerox, RecSys, 2020. - [Video](https://vimeo.com/455956572)
-
-[Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996), Google, RecSys, 2019.
-
-[Fairness in Recommendation Ranking through Pairwise Comparisons](https://dl.acm.org/doi/pdf/10.1145/3292500.3330745), Google, KDD, 2019.
-
-[Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691), LinkedIn, KDD, 2019.
-
-[Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664), KDD, 2019.
-
-[Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668), JD, KDD, 2019.
 
 <a name="Industry_Privacy"></a>
 ### Privacy
@@ -534,7 +531,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [Understanding the Role of Style in E-commerce Shopping](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760), Twitter, KDD, 2019.
 
 ## Academic Papers
-<a name="Academic_Scalability"></a>
+### 2019
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664)] Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning [__`bia.`__]
+
 ### 2018
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__]
 
