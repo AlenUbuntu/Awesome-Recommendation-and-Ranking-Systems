@@ -54,7 +54,7 @@ __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm 
 __`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb`__: hybrid &emsp; | &emsp;  __`seq.`__: sequential info     
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; | &emsp;__`oth.`__: others
 
-Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
+Statistics: :fire: stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 
 ## Survey
@@ -130,6 +130,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+### 2017
+[[WWW](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`mlp.`__, __`tra.`__]
+
 <a name="Industry_Scalability"></a>
 ### Scalability
 [Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems](https://arxiv.org/pdf/2002.08530.pdf), Google, WWW, 2020.
@@ -569,17 +572,18 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ## Academic Papers
 <a name="Academic_Scalability"></a>
-### MLP based
-#### Neural Extension of Traditional Recommendation Method
-[NeuRec: On Nonlinear Transformation for Personalized Ranking](https://www.ijcai.org/Proceedings/2018/0510.pdf), IJCAI, 2018.
+### 2018
+[[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__]
 
-[Neural Collaborative Filtering](https://arxiv.org/pdf/1708.05031.pdf), WWW, 2017.
+### 2017
+[[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__] :fire:
 
-[Item Silk Road: Recommending Items from Information Domains to Social Users](https://arxiv.org/pdf/1706.03205.pdf), SIGIR, 2017. 
+[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__] :fire:
 
-[Deep Matrix Factorization Models for Recommender Systems](https://www.ijcai.org/Proceedings/2017/0447.pdf), IJCAI, 2017.
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__] :fire:
 
-[Neural network matrix factorization.](https://arxiv.org/pdf/1511.06443.pdf), Arxiv, 2015.
+### 2015
+[[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__] :star:
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
