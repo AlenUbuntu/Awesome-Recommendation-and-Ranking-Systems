@@ -43,16 +43,23 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
 <h3> Keywords </h3>
+<h4> Problem </h4>
 
 __`sca.`__: scalability &emsp; | &emsp; __`ee.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
-__`per.`__: personalization &emsp; | &emsp; __`mm.`__: multimodal &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cs.`__: cold start     
+__`per.`__: personalization &emsp; | &emsp; __`seq.`__: sequential info &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cs.`__: cold start     
 __`imb.`__: imbalance &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
 __`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
-__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`mlp.`__: MLP &emsp; | &emsp; __`ae.`__: auto-encoder    
-__`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm &emsp; | &emsp; __`nad.`__: nade &emsp; | &emsp; __`att.`__: neural attention     
-__`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb.`__: hybrid &emsp; | &emsp;  __`seq.`__: sequential info     
-__`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; | &emsp;__`oth.`__: others
+__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce    
+
+<h4> Architecture </h4>
+
+__`mlp.`__: MLP &emsp; | &emsp; __`ae.`__: auto-encoder &emsp; | &emsp; __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm &emsp; | &emsp; __`nad.`__: nade     
+__`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb.`__: hybrid    
+
+<h4> Modality </h4>
+
+__`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
 Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
@@ -135,15 +142,28 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 [[MSRA](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380151)] LightRec: A Memory and Search-Efficient Recommender System [__`mlp.`__, __`sca.`__] 
 
-[[Alibaba](https://arxiv.org/pdf/2003.01917.pdf)] Learning to Hash with Graph Neural Networks for Recommender Systems [__`gnn`__, __`sca.`__]
+[[Alibaba](https://arxiv.org/pdf/2003.01917.pdf)] Learning to Hash with Graph Neural Networks for Recommender Systems [__`gnn`__, __`sca.`__, __`ret.`__]
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342)] Large-Scale Training System for 100-Million Classification at Alibaba [__`sca.`__]
 
-[[Taobao](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309)] Privileged Features Distillation at Taobao Recommendations [__`tra.`__, __`ads.`__]
+[[Taobao](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309)] Privileged Features Distillation at Taobao Recommendations [ __`ads.`__, __`eco.`__,__`tra.`__]
 
-[[Google Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296)] Scaling Graph Neural Networks with Approximate PageRank [__`sca.`__]
+[[Google Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296)] Scaling Graph Neural Networks with Approximate PageRank [__`sca.`__,__`ran.`__,__`gnn.`__]
 
 [[Twitter](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486)] Tuning Word2vec for Large Scale Recommendation Systems [__`mlp`__, __`sca.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344)] Controllable Multi-Interest Framework for Recommendation [__`mlp`__,__`seq.`__,__`ee.`__]
+
+[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`hyb.`__,__`ran.`__,__`ee.`__,__`eco.`__]
+
+[[IKEA](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550)] Balancing relevance and discovery to inspire customers in the IKEA App [__`ee.`__]
+
+[[Bloomberg](https://arxiv.org/pdf/1912.00508.pdf)] Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity [__`drl.`__,__`ee.`__,__`ran.`__]
+
+[[Spotify Research](https://dl.acm.org/doi/pdf/10.1145/3383313.3418482)] Investigating Listeners’ Responses to Divergent Recommendations [__`ee.`__]
+
+[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)] Embedding-based Retrieval in Facebook Search [__`ran.`__, __`ret.`__, __`txt.`__]
+
 
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`mlp`__, __`sca.`__]
@@ -156,6 +176,10 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330677)] TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank [__`sca.`__,__`ran.`__] :star:
 
+[[eBay and Microsoft Research](https://dl.acm.org/doi/pdf/10.1145/3298689.3347044)] When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction [__`ee.`__, __`eco.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3308558.3313469?casa_token=Ljqto7-qUnUAAAAA:hKMUsSiva812p5WMBkDJc3lzjsQwcY9pNiP0oWf_aVnMpaVnTeY4EOjHRu-S0cJeaIlqL1VBUKA)] How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation [__`ee.`__]
+
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__] :fire:
 
@@ -167,26 +191,8 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__] :fire:
 
-<a name="Industry_EE"></a>
-### Exploit and Explore
-[Controllable Multi-Interest Framework for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344), Alibaba, KDD, 2020.
-
-[Managing Diversity in Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345), Airbnb, KDD, 2020.
-
-[Balancing relevance and discovery to inspire customers in the IKEA App](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550), IKEA, RecSys, 2020.
-
-[Cascading Hybrid Bandits: Online Learning to Rank for Relevance and Diversity](https://arxiv.org/pdf/1912.00508.pdf), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455946852)
-
-[Investigating Listeners’ Responses to Divergent Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3418482), Spotify Research, RecSys, 2020. 
-
-[When Actions Speak Louder than Clicks: A Combined Model of Purchase Probability and Long-term Customer Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347044), eBay and Microsoft Research, RecSys, 2019.
-
-[How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313469?casa_token=Ljqto7-qUnUAAAAA:hKMUsSiva812p5WMBkDJc3lzjsQwcY9pNiP0oWf_aVnMpaVnTeY4EOjHRu-S0cJeaIlqL1VBUKA), Alibaba, WWW, 2019.
-
 <a name="Industry_Ranking_Retrieval"></a>
 ### Ranking and Retrieval
-[Embedding-based Retrieval in Facebook Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305), Facebook, KDD, 2020.
-
 [Improving Deep Learning For Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333), Airbnb, KDD, 2020.
 
 [Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350), Alibaba, KDD, 2020.
