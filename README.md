@@ -61,7 +61,7 @@ __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &e
 
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
-Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
+Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: high-quality
 
 
 ## Survey
@@ -164,6 +164,22 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 [[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)] Embedding-based Retrieval in Facebook Search [__`ran.`__, __`ret.`__, __`txt.`__]
 
+[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333)] Improving Deep Learning For Airbnb Search [__`ran.`__, __`eco.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350)] Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach [__`ran.`__, __`ret.`__,__`seq.`__,__`mt.`__,__`per.`__,__`att.`__,__`txt.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`ran.`__,__`ee.`__]
+
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3394486.3403357)] Meta-Learning for Query Conceptualization at Web Scale [__`ret.`__,__`tra.`__,__`sca.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403288)] Neural Input Search for Large Scale Recommendation Models [__`ran`__,__`ret.`__,__`sca.`__] :yellow_heart:
+
+[[Adobe](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324)] Personalized Image Retrieval with Sparse Graph Representation Learning [__`ret`__,__`per.`__,__`gnn.`__,__`img.`__]
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403372)] Shop The Look: Building a Large Scale Visual Shopping System at Pinterest [__`ret.`__,__`mt.`__,__`sca.`__,__`img.`__] :yellow_heart:
+
+[[Tokyo Institute of Technology](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262)] Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions [__`ran.`__,__`bia.`__]
+
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
 
@@ -179,6 +195,22 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3308558.3313469?casa_token=Ljqto7-qUnUAAAAA:hKMUsSiva812p5WMBkDJc3lzjsQwcY9pNiP0oWf_aVnMpaVnTeY4EOjHRu-S0cJeaIlqL1VBUKA)] How Serendipity Improves User Satisfaction with Recommendations? A Large-Scale User Evaluation [__`ee.`__,__`mlp`__]
 
+[[TrueFit](https://dl.acm.org/doi/pdf/10.1145/3298689.3347047)] Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval [__`ret.`__,__`fas.`__,__`per.`__,__`img.`__]
+
+[[Yahoo Research](https://dl.acm.org/doi/pdf/10.1145/3308558.3313412)] Click Feedback-Aware Query Recommendation Using Adversarial Examples [__`ran.`__,__`ret.`__,__`adv.`__,__`txt.`__] :yellow_heart:
+
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330786)] A Deep Generative Approach to Search Extrapolation and Recommendation [__`ran.`__,__`ret.`__,__`rnn.`__,__`txt.`__]
+
+[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3292500.3330658)] Applying Deep Learning To Airbnb Search [__`ran.`__,__`eco`__] :yellow_heart:
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330676)] Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search [__`ran.`__, __`per.`__, __`hyb.`__] :yellow_heart:
+
+[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3292500.3330759)] Semantic Product Search [__`ran.`__,__`ret.`__,__`mlp.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330723)] Gmail Smart Compose: Real-Time Assisted Writing [__`txt.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659)] Personalized Attraction Enhanced Sponsored Search with Multi-task Learning [__`ran.`__,__`ret.`__,__`per.`__,__`eco.`__,__`mt.`__,__`att.`__]
+
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
 
@@ -189,44 +221,6 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Ranking_Retrieval"></a>
-### Ranking and Retrieval
-[Improving Deep Learning For Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333), Airbnb, KDD, 2020.
-
-[Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350), Alibaba, KDD, 2020.
-
-[Managing Diversity in Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345), Airbnb, KDD, 2020.
-
-[Meta-Learning for Query Conceptualization at Web Scale](https://dl.acm.org/doi/pdf/10.1145/3394486.3403357), Tecent, KDD, 2020.
-
-[Neural Input Search for Large Scale Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3394486.3403288), Google, KDD, 2020.
-
-[Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
-
-[Shop The Look: Building a Large Scale Visual Shopping System at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403372), Pinterest, Inc., KDD, 2020.
-
-[Behavior-based Popularity Ranking on Amazon Video](https://assets.amazon.science/46/06/1f9ca3fc409481ecf3522dda7e3d/behavior-based-popularity-ranking-on-amazon-video.pdf), Amazon, RecSys, 2020. - [Video](https://vimeo.com/455639105)
-
-[Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262), Tokyo Institute of Technology, RecSys, 2020. - [Video](https://vimeo.com/455947055)
-
-[Users in the Loop: A Psychologically-Informed Approach to Similar Item Retrieval](https://dl.acm.org/doi/pdf/10.1145/3298689.3347047), TrueFit, RecSys, 2019.
-
-[Click Feedback-Aware Query Recommendation Using Adversarial Examples](https://dl.acm.org/doi/pdf/10.1145/3308558.3313412), Yahoo Research, WWW, 2019.
-
-[A Deep Generative Approach to Search Extrapolation and Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330786), Tecent, KDD, 2019.
-
-[Applying Deep Learning To Airbnb Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330658), Airbnb, KDD, 2019.
-
-[Combining Decision Trees and Neural Networks for Learning-to-Rank in Personal Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330676), Google, KDD, 2019.
-
-[Semantic Product Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330759), Amazon, KDD, 2019.
-
-[Gmail Smart Compose: Real-Time Assisted Writing](https://dl.acm.org/doi/pdf/10.1145/3292500.3330723), Google, KDD, 2019.
-
-[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
-
-[Seeker: Real-Time Interactive Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330733), Amazon, KDD, 2019.
 
 <a name="Industry_Personalization"></a>
 ### Personalization
