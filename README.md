@@ -207,6 +207,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Fuji Xerox](https://arxiv.org/pdf/2008.04563.pdf)] Unbiased Learning for the Causal Effect of Recommendation [__`bia.`__, __`int.`__]
 
+[[Bloomberg](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254)] Global and Local Differential Privacy for Collaborative Bandits [__`pri.`__,__`drl.`__]
 
 <a name="in_2019"></a>
 ### 2019
@@ -262,7 +263,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330745)] Fairness in Recommendation Ranking through Pairwise Comparisons [__`bia.`__] :star:
 
-[[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__] :yellow_heart:
+[[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__]
 
 [[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__]
 
@@ -279,12 +280,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Privacy"></a>
-### Privacy
-[From the lab to production: A case study of session-based recommendations in the home-improvement domain](https://dl.acm.org/doi/pdf/10.1145/3383313.3412235), The Home Depot/Relational AI, RecSys, 2020. - [Video](https://vimeo.com/456911397)
-
-[Global and Local Differential Privacy for Collaborative Bandits](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254), Bloomberg, RecSys, 2020. - [Video](https://vimeo.com/455955303)
 
 <a name="Industry_KG_SI"></a>
 ### Knowledge Graph or Side Information
