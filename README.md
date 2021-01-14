@@ -177,6 +177,18 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280)] PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest [__`per.`__,__`mm.`__] :yellow_heart:
 
+[[Microsoft](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071)] Understanding User Behavior For Document Recommendation [__`int.`__,__`sca.`__]
+
+[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__]
+
+[[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491)] Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions [__`int.`__,__`seq.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393)] A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce [__`imb.`__,__`eco.`__,__`gnn.`__]
+
+[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303)] Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data [__`imb.`__,__`eco.`__,__`ae.`__]
+
+[[Spotify & Walmart](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394)] Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization [__`imb.`__]
+
 <a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -221,6 +233,12 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659)] Personalized Attraction Enhanced Sponsored Search with Multi-task Learning [__`ran.`__,__`ret.`__,__`per.`__,__`mt.`__,__`eco.`__, __`att.`__]
 
+[[Microsoft](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038)] CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations [__`cs.`__,__`hyb.`__] :yellow_heart:
+
+[[KDDI Research](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596)] Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System [__`cs.`__,__`tra.`__,__`eco.`__,__`mlp.`__]
+
+[[Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -234,34 +252,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Interpretability"></a>
-### Interpretability
-[Understanding User Behavior For Document Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071), Microsoft, WWW, 2020.
-
-[Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276), Snap, KDD, 2020.
-
-[Counterfactual learning for recommender system](https://dl.acm.org/doi/pdf/10.1145/3383313.3411552), HuaWei, RecSys, 2020. - [Video](https://vimeo.com/455639257)
-
-[Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491), Spotify, RecSys, 2020.
-
-<a name="Industry_ColdStart"></a>
-### Cold Start 
-[The Embeddings That Came in From the Cold: Improving Vectors for New and Rare Products with Content-Based Inference](https://dl.acm.org/doi/pdf/10.1145/3383313.3411477), Coveo, RecSys, 2020. - [Video](https://vimeo.com/455641121)
-
-[CB2CF: A Neural Multiview Content-to-Collaborative Filtering Model for Completely Cold Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3298689.3347038), Microsoft, RecSys, 2019.
-
-[Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596), KDDI Research, Inc, WWW, 2019.
-
-<a name="Industry_Imbalance"></a>
-### Imbalance and Limited Labels
-[A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393), Alibaba, KDD, 2020.
-
-[Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303), Amazon, KDD, 2020.
-
-[Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394), Spotify & Walmart, KDD, 2020.
-
-[Real-time Attention Based Look-alike Model for Recommender System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707), Tencent, KDD, 2019.
 
 <a name="Industry_Bias_Correction"></a>
 ### Bias Correction, Fairness, and Quality
@@ -360,7 +350,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [PinText: A Multitask Text Embedding System in Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671), Pinterest, KDD, 2019.
 
 [CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf), Microsoft Research, WWW, 2017.
-
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
