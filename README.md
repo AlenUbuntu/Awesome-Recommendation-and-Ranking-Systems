@@ -51,7 +51,7 @@ __`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: tran
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
 __`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce &emsp; | &emsp; __`mlp.`__: MLP &emsp; | &emsp; __`ae.`__: auto-encoder    
 __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm &emsp; | &emsp; __`nad.`__: nade &emsp; | &emsp; __`att.`__: neural attention     
-__`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb`__: hybrid &emsp; | &emsp;  __`seq.`__: sequential info     
+__`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb.`__: hybrid &emsp; | &emsp;  __`seq.`__: sequential info     
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; | &emsp;__`oth.`__: others
 
 Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
@@ -130,6 +130,32 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+### 2020
+[[Google](https://arxiv.org/pdf/2002.08530.pdf)] Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems [__`mlp.`__, __`sca.`__] 
+
+[[MSRA](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380151)] LightRec: A Memory and Search-Efficient Recommender System [__`mlp.`__, __`sca.`__] 
+
+[[Alibaba](https://arxiv.org/pdf/2003.01917.pdf)] Learning to Hash with Graph Neural Networks for Recommender Systems [__`gnn`__, __`sca.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342)] Large-Scale Training System for 100-Million Classification at Alibaba [__`sca.`__]
+
+[[Taobao](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309)] Privileged Features Distillation at Taobao Recommendations [__`tra.`__, __`ads.`__]
+
+[[Google Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296)] Scaling Graph Neural Networks with Approximate PageRank [__`sca.`__]
+
+[[Twitter](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486)] Tuning Word2vec for Large Scale Recommendation Systems [__`mlp`__, __`sca.`__]
+
+### 2019
+[[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`mlp`__, __`sca.`__]
+
+[[NAVER Corp.](https://arxiv.org/pdf/1908.02569.pdf)] Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation [__`gnn`__,__`att.`__,__`sca.`__, __`ads.`__]
+
+[[Facebook & Amazon](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027) LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints [__`sca.`__]
+
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330728)] Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework [__`hyb.`__, __`seq.`__, __`geo.`__,__`ads.`__,__`sca.`__]
+
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3292500.3330677)] TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank [__`sca.`__,__`ran.`__] :star:
+
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__] :fire:
 
@@ -140,36 +166,6 @@ Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__] :fire:
-
-<a name="Industry_Scalability"></a>
-### Scalability
-[Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems](https://arxiv.org/pdf/2002.08530.pdf), Google, WWW, 2020.
-
-[LightRec: A Memory and Search-Efficient Recommender System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380151), MSRA, WWW, 2020.
-
-[Learning to Hash with Graph Neural Networks for Recommender Systems](https://arxiv.org/pdf/2003.01917.pdf), Alibaba, WWW, 2020.
-
-[Large-Scale Training System for 100-Million Classification at Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403342), Alibaba, KDD, 2020.
-
-[Privileged Features Distillation at Taobao Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403309), Taobao, KDD, 2020.
-
-[Scaling Graph Neural Networks with Approximate PageRank](https://dl.acm.org/doi/pdf/10.1145/3394486.3403296), Google Research, KDD, 2020.
-
-[Building a reciprocal recommendation system at scale from scratch: Learnings from one of Japan's prominent dating applications.](https://dl.acm.org/doi/pdf/10.1145/3383313.3411558), SBX Technology, RecSys, 2020.  - [Video](https://vimeo.com/455643117)
-
-[Tuning Word2vec for Large Scale Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3418486), Twitter, RecSys, 2020.
-
-[PQ-VAE: Efficient Recommendation Using Quantized Embeddings](http://ceur-ws.org/Vol-2431/paper10.pdf), Apple, RecSys, 2019.
-
-[Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569.pdf), NAVER Corp., RecSys, 2019.
-
-[LORE: A Large-Scale Offer Recommendation Engine with Eligibility and Capacity Constraints](https://dl.acm.org/doi/pdf/10.1145/3298689.3347027), Facebook & Amazon, RecSys, 2019.
-
-[Large-Scale Training Framework for Video Annotation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330653), Google Research, KDD, 2019.
-
-[Large-scale User Visits Understanding and Forecasting with Deep Spatial-Temporal Tensor Factorization Framework](https://dl.acm.org/doi/pdf/10.1145/3292500.3330728), Tecent, KDD, 2019.
-
-[TF-Ranking: Scalable TensorFlow Library for Learning-to-Rank](https://dl.acm.org/doi/pdf/10.1145/3292500.3330677), Google, KDD, 2019.
 
 <a name="Industry_EE"></a>
 ### Exploit and Explore
