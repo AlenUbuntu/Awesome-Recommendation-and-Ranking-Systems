@@ -61,7 +61,7 @@ __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &e
 
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
-Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: high-quality
+Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting
 
 
 ## Survey
