@@ -14,31 +14,12 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Personalization](#Survey_Personalization)
   * [Others](#Survey_Others)
 * [Industry Papers](#industry-papers)
-  * [Scalability](#Industry_Scalability)
-  * [Exploit and Explore](#Industry_EE)
-  * [Ranking and Retrieval](#Industry_Ranking_Retrieval)
-  * [Personalization](#Industry_Personalization)
-  * [Multi-Modal](#Industry_MultiModal)
-  * [Interpretability](#Industry_Interpretability)
-  * [Cold Start](#Industry_ColdStart)
-  * [Imbalance and Limited Labels](#Industry_Imbalance)
-  * [Bias Correction, Fairness, and Quality](#Industry_Bias_Correction)
-  * [Privacy](#Industry_Privacy)
-  * [Knowledge Graph and Side Information](#Industry_KG_SI)
-  * [Transfer Learning and Multi-Task Learning](#Industry_Transfer)
-  * [Feature Engineering](#Industry_FE)
-  * [Computational Ads](#Industry_CompAds)
-  * [Travel and Delivery](#Industry_Travel)
-  * [Others](#Industry_Others)
-    * [Theory](#Industry_Other_Theory)
-    * [Fashion Recommendation](#Industry_Other_Fashion)
-    * [E-Commerce](#Industry_Other_e-commerce)
+  * [2020](#in_2020)
+  * [2019](#in_2019)
+  * [2018](#in_2018)
+  * [2017](#in_2017)
+  * [2016](#in_2016)
 * [Academic Papers](#academic-papers)
-  * [Scalability](#Academic_Scalability)
-  * [Exploit and Explore](#Academic_EE)
-  * [Privacy](#Academic_Privacy)
-  * [Transfer Learning and MultiTask Learning](#Academic_Transfer)
-  * [Others](#Academic_Others)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
@@ -137,6 +118,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+
+<a name="in_2020"></a>
 ### 2020
 [[Google](https://arxiv.org/pdf/2002.08530.pdf)] Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems [__`mlp.`__, __`sca.`__] 
 
@@ -154,7 +137,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403344)] Controllable Multi-Interest Framework for Recommendation [__`mlp`__,__`seq.`__,__`ee.`__]
 
-[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`hyb.`__,__`ran.`__,__`ee.`__,__`eco.`__]
+[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`hyb.`__,__`ran.`__,__`ret.`__,__`ee.`__,__`eco.`__]
 
 [[IKEA](https://dl.acm.org/doi/pdf/10.1145/3383313.3411550)] Balancing relevance and discovery to inspire customers in the IKEA App [__`ee.`__]
 
@@ -164,11 +147,11 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403305)] Embedding-based Retrieval in Facebook Search [__`ran.`__, __`ret.`__, __`txt.`__]
 
-[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333)] Improving Deep Learning For Airbnb Search [__`ran.`__, __`eco.`__]
+[[Airbnb](https://dl.acm.org/doi/pdf/10.1145/3394486.3403333)] Improving Deep Learning For Airbnb Search [__`ran.`__,__`ret.`__, __`eco.`__]
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350)] Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach [__`ran.`__, __`ret.`__,__`seq.`__,__`mt.`__,__`per.`__,__`att.`__,__`txt.`__]
 
-[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`ran.`__,__`ee.`__]
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403345)] Managing Diversity in Airbnb Search [__`ran.`__,__`ret.`__,__`ee.`__]
 
 [[Tecent](https://dl.acm.org/doi/pdf/10.1145/3394486.3403357)] Meta-Learning for Query Conceptualization at Web Scale [__`ret.`__,__`tra.`__,__`sca.`__]
 
@@ -180,6 +163,21 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Tokyo Institute of Technology](https://dl.acm.org/doi/pdf/10.1145/3383313.3412262)] Doubly Robust Estimator for Ranking Metrics with Post-Click Conversions [__`ran.`__,__`bia.`__]
 
+[[BaiDu](https://dl.acm.org/doi/pdf/10.1145/3394486.3403318)] Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps [__`ret.`__,__`ran.`__, __`per.`__,__`geo`__,__`hyb.`__]
+
+[[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)] Contextual and Sequential User Embeddings for Large-Scale Music Recommendation [__`seq.`__,__`hyb.`__,__`aud.`__]
+
+[[Alibaba](https://arxiv.org/pdf/2008.09368.pdf)] Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation [__`bia.`__,__`drl.`__]
+
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)] Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations [__`per.`__,__`mt.`__,__`hyb.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3383313.3412238)] PURS: Personalized Unexpected Recommender System for Improving User Satisfaction [__`per.`__,__`ee.`__,__`seq.`__,__`hyb.`__]
+
+[[CookPad](https://arxiv.org/pdf/2007.13440.pdf)] Towards Multi-Language Recipe Personalisation and Recommendation [__`ret.`__,__`per.`__, __`tra.`__]
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280)] PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest [__`per.`__,__`mm.`__] :yellow_heart:
+
+<a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
 
@@ -211,58 +209,31 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659)] Personalized Attraction Enhanced Sponsored Search with Multi-task Learning [__`ran.`__,__`ret.`__,__`per.`__,__`eco.`__,__`mt.`__,__`att.`__]
 
+[[Booking.com](http://ceur-ws.org/Vol-2431/paper3.pdf)] Combining Context Features in Sequence-Aware Recommender Systems [__`fe.`__,__`seq.`__,__`rnn.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000)] Personalized Re-ranking for Recommendation [__`ran.`__,__`per.`__, __`att.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568)] Personalized Bundle List Recommendation [__`per.`__,__`fas`__,__`ee.`__,__`hyb.`__,__`img.`__] :yellow_heart:
+
+[[VISA Research](https://dl.acm.org/doi/pdf/10.1145/3308558.3313494)] Pcard: Personalized Restaurants Recommendation from Card Payment Transaction Records [__`geo.`__,__`per.`__,__`mlp.`__]
+
+[[Amazon Alexa & Facebook](https://dl.acm.org/doi/pdf/10.1145/3308558.3313513)] User-Video Co-Attention Network for Personalized Micro-video Recommendation [__`per.`__,__`att.`__,__`vid.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659)] Personalized Attraction Enhanced Sponsored Search with Multi-task Learning [__`ran.`__,__`ret.`__,__`per.`__,__`mt.`__,__`eco.`__, __`att.`__]
+
+<a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
 
+<a name="in_2017"></a>
 ### 2017
 [[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`mlp.`__, __`tra.`__, __`fe.`__]
 
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
 
+<a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Personalization"></a>
-### Personalization
-[Personalized Image Retrieval with Sparse Graph Representation Learning](https://dl.acm.org/doi/pdf/10.1145/3394486.3403324), Adobe, KDD, 2020.
-
-[Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403318), Baidu, KDD, 2020.
-
-[Developing Recommendation System to provide a Personalized Learning experience at Chegg](https://dl.acm.org/doi/pdf/10.1145/3383313.3411557), Chegg, RecSys, 2020. - [Video](https://vimeo.com/455639337)
-
-[Query as Context for Item-to-Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3411480), Etsy, RecSys, 2020. - [Video](https://vimeo.com/455640122)
-
-[Contextual and Sequential User Embeddings for Large-Scale Music Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248), Spotify, RecSys, 2020. - [Video](https://vimeo.com/455951321)
-
-[Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation](https://arxiv.org/pdf/2008.09368.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455949873)
-
-[Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236), Tecent, RecSys, 2020. - [Video](https://vimeo.com/455952512)
-
-[PURS: Personalized Unexpected Recommender System for Improving User Satisfaction](https://dl.acm.org/doi/pdf/10.1145/3383313.3412238), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455951792)
-
-[Towards Multi-Language Recipe Personalisation and Recommendation](https://arxiv.org/pdf/2007.13440.pdf), CookPad, RecSys, 2020.
-
-[Combining Context Features in Sequence-Aware Recommender Systems](http://ceur-ws.org/Vol-2431/paper3.pdf), Booking.com, RecSys, 2019.
-
-[Context-Regularized Neural Collaborative Filtering for Game App Recommendation](http://ceur-ws.org/Vol-2431/paper4.pdf), RIKEN AIP, RecSys, 2019.
-
-[Personalized Re-ranking for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347000), Alibaba, RecSys, 2019.
-
-[Personalized Bundle List Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568), Alibaba, WWW, 2019.
-
-[Pcard: Personalized Restaurants Recommendation from Card Payment Transaction Records](https://dl.acm.org/doi/pdf/10.1145/3308558.3313494), VISA Research, WWW, 2019.
-
-[User-Video Co-Attention Network for Personalized Micro-video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313513), Amazon Alexa & Facebook, WWW, 2019.
-
-[A User-Centered Concept Mining System for Query and Document Understanding at Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330727), Tecent, KDD, 2019.
-
-[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
-
-<a name="Industry_MultiModal"></a>
-### Multi-Modal
-[PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280), Pinterest Inc., KDD, 2020.
-
-[Investigating Multimodal Features for Video Recommendations at Globoplay](https://dl.acm.org/doi/pdf/10.1145/3383313.3411553), Globo.com, RecSys, 2020. - [Video](https://vimeo.com/455641027)
 
 <a name="Industry_Interpretability"></a>
 ### Interpretability
