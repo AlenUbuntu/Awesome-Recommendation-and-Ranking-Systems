@@ -54,7 +54,7 @@ __`cnn.`__: cnn &emsp; | &emsp; __`rnn.`__: rnn &emsp; | &emsp; __`rbm.`__: rbm 
 __`adv.`__: adversarial learning &emsp; | &emsp; __`gnn.`__: gnn &emsp; | &emsp; __`drl.`__: DRL &emsp; | &emsp; __`hyb`__: hybrid &emsp; | &emsp;  __`seq.`__: sequential info     
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; | &emsp;__`oth.`__: others
 
-Statistics: :fire: stars >= 100 &emsp;|&emsp; :star: citation >= 50
+Statistics: :fire: stars >= 150 &emsp;|&emsp; :star: citation >= 50
 
 
 ## Survey
@@ -130,8 +130,16 @@ Statistics: :fire: stars >= 100 &emsp;|&emsp; :star: citation >= 50
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
 ## Industry Papers
+### 2018
+[[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__] :fire:
+
 ### 2017
-[[WWW](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`mlp.`__, __`tra.`__]
+[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`mlp.`__, __`tra.`__]
+
+[[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__] :fire:
+
+### 2016
+[[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__] :fire:
 
 <a name="Industry_Scalability"></a>
 ### Scalability
@@ -578,9 +586,11 @@ Statistics: :fire: stars >= 100 &emsp;|&emsp; :star: citation >= 50
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__] :fire:
 
-[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__] :star:
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__] :fire:
+
+[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp`__] :fire:
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__] :star:
