@@ -229,6 +229,22 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403284)] M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems [__`mt.`__,__`gnn.`__,__`seq.`__]
 
+[[Tecent](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380116)] Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation [__`seq.`__,__`fe.`__] :yellow_heart:
+
+[[HuaWei](https://dl.acm.org/doi/pdf/10.1145/3394486.3403314)] AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction [__`fe.`__,__`mlp.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325)] Comprehensive Information Integration Modeling Framework for Video Titling [__`fe.`__,__`gnn.`__,__`eco.`__,__`vid.`__] :yellow_heart:
+
+[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403364)] TIES: Temporal Interaction Embeddings for Enhancing Social Media Integrity at Facebook [__`seq.`__,__`fe.`__,__`hyb.`__] :yellow_heart:
+
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348)] A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation [__`ads.`__]
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3394486.3403319)] Category-Specific CNN for Visual-aware CTR Prediction at JD.com [__`ads.`__,__`cnn.`__,__`img.`__]
+
+[[Baidu Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297)] Combo-Attention Network for Baidu Video Advertising [__`ads.`__,__`mm.`__,__`att.`__,__`vid.`__] :yellow_heart:
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481)] Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System [__`ads.`__]
+
 <a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -309,6 +325,10 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671)] PinText: A Multitask Text Embedding System in Pinterest [__`mt.`__,__`txt.`__]
 
+[[Sina Weibo](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043)] FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction [__`fe.`__,__`ads.`__,__`att.`__] :yellow_heart:
+
+[[MSR](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267)] “Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation [__`fe.`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -323,34 +343,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
 
-<a name="Industry_FE"></a>
-### Feature Engineering
-[Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380116), Tecent, WWW, 2020.
-
-[AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403314), Huawei, KDD, 2020.
-
-[Comprehensive Information Integration Modeling Framework for Video Titling](https://dl.acm.org/doi/pdf/10.1145/3394486.3403325), Alibaba, KDD, 2020.
-
-[Temporal-Contextual Recommendation in Real-Time](https://dl.acm.org/doi/pdf/10.1145/3394486.3403278), Amazon AWS, KDD, 2020.
-
-[TIES: Temporal Interaction Embeddings for Enhancing Social Media Integrity at Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403364), Facebook, KDD, 2020.
-
-[FiBiNET: Combining Feature Importance and Bilinear Feature Interaction for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347043), Sina Weibo Inc., RecSys, 2019.
-
-[“Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267), MSR, RecSys, 2020. - [Video](https://vimeo.com/455956459)
-
 <a name="Industry_CompAds"></a>
 ### Computational Ads
-[A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation](https://dl.acm.org/doi/pdf/10.1145/3394486.3403348), Tencent, KDD, 2020.
-
-[Category-Specific CNN for Visual-aware CTR Prediction at JD.com](https://dl.acm.org/doi/pdf/10.1145/3394486.3403319), JD, KDD, 2020.
-
-[Combo-Attention Network for Baidu Video Advertising](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297), Baidu Search Ads, KDD, 2020.
-
-[MultiRec: A Multi-Relational Approach for Unique Item Recommendation in Auction Systems](https://dl.acm.org/doi/pdf/10.1145/3383313.3412242), Volkswagen Financial Services AG, RecSys, 2020. - [Video](https://vimeo.com/455953054)
-
-[Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481), JD, RecSys, 2020. 
-
 [Recommending Themes for Ad Creative Design via Visual-Linguistic Representations](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001), Yahoo Research, WWW, 2020.
 
 [Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
