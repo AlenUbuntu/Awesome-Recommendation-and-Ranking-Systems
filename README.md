@@ -263,8 +263,11 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)] Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data [__`geo.`__,__`seq.`__,__`hyb.`__,__`net.`__]
 
-[[VISA Research](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096)] OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning []
-[OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
+[[VISA Research](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096)] OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning [__`fas.`__,__`att.`__,__`img.`__] :yellow_heart:
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382)] Bootstrapping Complete The Look at Pinterest [__`fas.`__,__`img.`__] :yellow_heart:
+
+[[JD](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380232)] Keywords Generation Improves E-Commerce Session-based Recommendation [__`seq.`__,__`eco.`__,__`att.`__, __`txt.`__]
 
 <a name="in_2019"></a>
 ### 2019
@@ -374,6 +377,10 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Baidu Research](https://dl.acm.org/doi/pdf/10.1145/3292500.3330660)] Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System [__`geo.`__,__`per.`__,__`fe.`__,__`mm.`__,__`net.`__] :yellow_heart:
 
+[[Zalando and shopify](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006)] A Deep Learning System for Predicting Size and Fit in Fashion [__`fas.`__,__`per.`__,__`cs.`__,__`eco.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330652)] POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion [__`fas.`__,__`per.`__,__`att.`__,__`eco.`__] :yellow_heart:
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -453,20 +460,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [Sequential Scenario-Specific Meta Learner for Online Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726), Alibaba, KDD, 2019.
 
 [Whole Page Optimization with Global Constraints](https://dl.acm.org/doi/pdf/10.1145/3292500.3330675), Amazon, KDD, 2019.
-
-<a name="Industry_Other_Fashion"></a>
-#### Fashion Recommendation
-[Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
-
-[A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
-
-[Shop your Right Size: A System for Recommending Sizes for Fashion products](https://dl.acm.org/doi/pdf/10.1145/3308560.3316599), Myntra Designs, WWW, 2019.
-
-[Personalized Bundle List Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313568), Alibaba, WWW, 2019.
-
-[Concept to Code: Deep Learning for Fashion Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308560.3320100), Flipkart, WWW, 2019.
-
-[POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion](https://dl.acm.org/doi/pdf/10.1145/3292500.3330652), Alibaba, KDD, 2019.
 
 <a name="Industry_Other_e-commerce"></a>
 #### E-Commerce
