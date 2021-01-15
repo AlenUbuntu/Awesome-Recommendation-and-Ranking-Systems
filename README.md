@@ -221,6 +221,13 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[MSRA](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237)] KRED: Knowledge-Aware Document Representation for News Recommendations [__`kg.`__,__`gnn.`__,__`net.`__, __`txt.`__]
 
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3394486.3403334)] General-Purpose User Embeddings based on Mobile App Usage [__`mt.`__,__`hyb.`__]
+
+[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403311)] GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce [__`mt.`__,__`eco.`__,__`img.`__] :yellow_heart:
+
+[[ByteDance](https://dl.acm.org/doi/pdf/10.1145/3394486.3403384)] Jointly Learning to Recommend and Advertise [__`mt.`__,__`ads.`__,__`drl.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403284)] M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems [__`mt.`__,__`gnn.`__,__`seq.`__]
 
 <a name="in_2019"></a>
 ### 2019
@@ -270,7 +277,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDDI Research](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596)] Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System [__`cs.`__,__`tra.`__,__`eco.`__,__`mlp.`__]
 
-[[Tencent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__]
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations [__`bia.`__,__`ret.`__, __`mlp.`__] :yellow_heart:
 
@@ -292,6 +299,16 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330673)] Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation [__`kg.`__,__`gnn.`__,__`net.`__] :yellow_heart:
 
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997)] Recommending What Video to Watch Next: A Multitask Ranking System [__`mt.`__,__`vid.`__] :star:
+
+[[Criteo AI Labs](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004)] Domain Adaptation in Display Advertising: An Application for Partner Cold-Start [__`cs.`__,__`ads.`__,__`tra.`__,__`mlp.`__]  :yellow_start:
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330714)] Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences [__`tra.`__,__`ads.`__] :yellow_heart:
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330739)] Learning a Unified Embedding for Visual Search at Pinterest [__`mt.`__,__`ret.`__,__`ran.`__,__`img.`__] :yellow_heart:
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671)] PinText: A Multitask Text Embedding System in Pinterest [__`mt.`__,__`txt.`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -302,41 +319,11 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
 
+[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__] :star:
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Transfer"></a>
-### Transfer Learning or Multi-Task Learning
-[Deep Transfer Learning for Search and Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383115), LinkedIn, WWW, 2020. - [Slides](https://docs.google.com/presentation/d/1YbHIwiKpIbgRh-NsMzpE3r4M4m3HB_0C8ajZhhQWJKc/present?slide=id.g7ec9d4a572_9_715)
-
-[General-Purpose User Embeddings based on Mobile App Usage](https://dl.acm.org/doi/pdf/10.1145/3394486.3403334), Tecent, KDD, 2020.
-
-[GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://dl.acm.org/doi/pdf/10.1145/3394486.3403311), Facebook, KDD, 2020.
-
-[Jointly Learning to Recommend and Advertise](https://dl.acm.org/doi/pdf/10.1145/3394486.3403384), ByteDance, KDD, 2020.
-
-[Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403350), Alibaba, KDD, 2020.
-
-[M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403284), Alibaba, KDD, 2020.
-
-[Recommending What Video to Watch Next: A Multitask Ranking System](https://dl.acm.org/doi/pdf/10.1145/3298689.3346997), Google, RecSys, 2019.
-
-[Domain Adaptation in Display Advertising: An Application for Partner Cold-Start](https://dl.acm.org/doi/pdf/10.1145/3298689.3347004), Criteo AI Labs, RecSys, 2019.
-
-[Jointly Leveraging Intent and Interaction Signals to Predict User Satisfaction with Slate Recommendations](https://dl.acm.org/doi/pdf/10.1145/3308558.3313613), Spotify, WWW, 2019.
-
-[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
-
-[Finding Users Who Act Alike: Transfer Learning for Expanding Advertiser Audiences](https://dl.acm.org/doi/pdf/10.1145/3292500.3330714), Pinterest, KDD, 2019.
-
-[Learning a Unified Embedding for Visual Search at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330739), Pinterest, KDD, 2019.
-
-[Personalized Attraction Enhanced Sponsored Search with Multi-task Learning](https://dl.acm.org/doi/pdf/10.1145/3292500.3330659), Alibaba, KDD, 2019.
-
-[PinText: A Multitask Text Embedding System in Pinterest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330671), Pinterest, KDD, 2019.
-
-[CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf), Microsoft Research, WWW, 2017.
 
 <a name="Industry_FE"></a>
 ### Feature Engineering
