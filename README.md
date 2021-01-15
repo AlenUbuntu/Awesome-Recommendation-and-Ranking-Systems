@@ -315,11 +315,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="in_2017"></a>
 ### 2017
-[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`mlp.`__, __`tra.`__, __`fe.`__]
-
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
 
-[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__] :star:
+[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__, __`fe.`__] :star:
 
 <a name="in_2016"></a>
 ### 2016
