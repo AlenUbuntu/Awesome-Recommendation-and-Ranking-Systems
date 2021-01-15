@@ -165,9 +165,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[BaiDu](https://dl.acm.org/doi/pdf/10.1145/3394486.3403318)] Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps [__`ret.`__,__`ran.`__, __`per.`__,__`geo`__,__`hyb.`__]
 
-[[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)] Contextual and Sequential User Embeddings for Large-Scale Music Recommendation [__`seq.`__,__`hyb.`__,__`aud.`__]
+[[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3412248)] Contextual and Sequential User Embeddings for Large-Scale Music Recommendation [__`seq.`__,__`hyb.`__,__`aud.`__, __`fe.`__]
 
-[[Alibaba](https://arxiv.org/pdf/2008.09368.pdf)] Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation [__`bia.`__,__`drl.`__]
+[[Alibaba](https://arxiv.org/pdf/2008.09368.pdf)] Contextual User Browsing Bandits for Large-Scale Online Mobile Recommendation [__`bia.`__,__`drl.`__, __`fe.`__]
 
 [[Tecent](https://dl.acm.org/doi/pdf/10.1145/3383313.3412236)] Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations [__`per.`__,__`mt.`__,__`hyb.`__]
 
@@ -213,7 +213,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[DiDi](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388)] Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations [__`kg.`__,__`gnn.`__,__`net.`__]
 
-[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293)] MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks [__`kg.`__,__`gnn.`__,__`net.`__]
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293)] MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks [__`kg.`__,__`gnn.`__,__`net.`__, __`fe.`__]
 
 [[Twitter](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370)] SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter [__`kg.`__,__`gnn.`__,__`net.`__]
 
@@ -246,6 +246,25 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[JD](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481)] Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System [__`ads.`__]
 
 [[Yahoo Research](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001)] Recommending Themes for Ad Creative Design via Visual-Linguistic Representations [__`ads.`__,__`att.`__,__`mm.`__]
+
+[[Google Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376)] BusTr: Predicting Bus Travel Times from Real-Time Traffic [__`geo.`__,__`seq.`__,__`rnn.`__, __`net.`__]
+
+[[DiDi](https://dl.acm.org/doi/pdf/10.1145/3394486.3403386)] CompactETA: A Fast Inference System for Travel Time Prediction [__`geo.`__,__`seq.`__,__`gnn.`__, __`net.`__]
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3394486.3403320)] ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps [__`geo.`__,__`seq.`__,__`gnn.`__,__`att.`__,__`net.`__, __`fe.`__]
+
+[[MeiTuan](https://dl.acm.org/doi/pdf/10.1145/3394486.3403353)] Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service [__`geo.`__, __`ret.`__,__`net.`__]
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3394486.3403332)] Doing in One Go: Delivery Time Inference Based on Couriers’ Trajectories [__`geo.`__,__`seq.`__,__`net.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403356)] Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach [__`geo.`__,__`hyb.`__,__`mt.`__,__`gnn.`__,__`net.`__]
+
+[[DiDi](https://dl.acm.org/doi/pdf/10.1145/3394486.3403294)] HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival [__`geo.`__,__`seq.`__,__`hyb.`__,__`net.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358)] Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data [__`geo.`__,__`seq.`__,__`hyb.`__,__`net.`__]
+
+[[VISA Research](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096)] OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning []
+[OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
 
 <a name="in_2019"></a>
 ### 2019
@@ -351,6 +370,10 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Verizon Media](https://dl.acm.org/doi/pdf/10.1145/3292500.3330749)] Recurrent Neural Networks for Stochastic Control in Real-Time Bidding [__`ads.`__,__`rnn.`__]
 
+[[Baidu](https://dl.acm.org/doi/pdf/10.1145/3292500.3330698)] A Collaborative Learning Framework to Tag Refinement for Points of Interest [__`geo.`__, __`net.`__] :yellow_heart:
+
+[[Baidu Research](https://dl.acm.org/doi/pdf/10.1145/3292500.3330660)] Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System [__`geo.`__,__`per.`__,__`fe.`__,__`mm.`__,__`net.`__] :yellow_heart:
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -364,30 +387,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_Travel"></a>
-### Travel and Delivery
-[BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376), Google Research, KDD, 2020
-
-[CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403386), DiDi, KDD, 2020.
-
-[ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps](https://dl.acm.org/doi/pdf/10.1145/3394486.3403320), Baidu, KDD, 2020.
-
-[Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service](https://dl.acm.org/doi/pdf/10.1145/3394486.3403353), MeiTuan, KDD, 2020.
-
-[Doing in One Go: Delivery Time Inference Based on Couriers’ Trajectories](https://dl.acm.org/doi/pdf/10.1145/3394486.3403332), JD, KDD, 2020.
-
-[Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach](https://dl.acm.org/doi/pdf/10.1145/3394486.3403356), Alibaba, KDD, 2020.
-
-[HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](https://dl.acm.org/doi/pdf/10.1145/3394486.3403294), DiDi, KDD, 2020.
-
-[Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data](https://dl.acm.org/doi/pdf/10.1145/3394486.3403358), Alibaba, KDD, 2020.
-
-[Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy](https://dl.acm.org/doi/pdf/10.1145/3394486.3403286), DiDi, KDD, 2020.
-
-[A Collaborative Learning Framework to Tag Refinement for Points of Interest](https://dl.acm.org/doi/pdf/10.1145/3292500.3330698), Baidu, KDD, 2019.
-
-[Hydra: A Personalized and Context-Aware Multi-Modal Transportation Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330660), Baidu Research, KDD, 2019.
 
 <a name="Industry_Others"></a>
 ### Others
@@ -457,8 +456,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="Industry_Other_Fashion"></a>
 #### Fashion Recommendation
-[OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380096), VISA Research, WWW, 2020.
-
 [Bootstrapping Complete The Look at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403382), Pinterest, KDD, 2020.
 
 [A Deep Learning System for Predicting Size and Fit in Fashion](https://dl.acm.org/doi/pdf/10.1145/3298689.3347006), Zalando, RecSys, 2019.
