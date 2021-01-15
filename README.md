@@ -179,7 +179,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071)] Understanding User Behavior For Document Recommendation [__`int.`__,__`sca.`__]
 
-[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__]
+[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__,__`bia.`__,__`ee.`__]
 
 [[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491)] Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions [__`int.`__,__`seq.`__]
 
@@ -197,7 +197,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341)] Improving Recommendation Quality in Google Drive [__`bia.`__]
 
-[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__]
+[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__,__`ee.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__]
 
@@ -244,6 +244,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Baidu Research](https://dl.acm.org/doi/pdf/10.1145/3394486.3403297)] Combo-Attention Network for Baidu Video Advertising [__`ads.`__,__`mm.`__,__`att.`__,__`vid.`__] :yellow_heart:
 
 [[JD](https://dl.acm.org/doi/pdf/10.1145/3383313.3418481)] Smart Targeting: A Relevance-driven and Configurable Targeting Framework for Advertising System [__`ads.`__]
+
+[[Yahoo Research](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001)] Recommending Themes for Ad Creative Design via Visual-Linguistic Representations [__`ads.`__,__`att.`__,__`mm.`__]
 
 <a name="in_2019"></a>
 ### 2019
@@ -301,7 +303,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__]
 
-[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__]
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__, __`ee.`__]
 
 [[Netflix](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036)] Variational Low Rank Multinomials for Collaborative Filtering with Side-Information [__`kg.`__,__`mlp.`__]
 
@@ -329,6 +331,26 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[MSR](https://dl.acm.org/doi/pdf/10.1145/3383313.3412267)] “Who doesn’t like dinosaurs?” Finding and Eliciting Richer Preferences for Recommendation [__`fe.`__]
 
+[[Twitter](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002)] Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction [__`ads.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330700)] A Unified Framework for Marketing Budget Allocation [__`ads.`__]
+
+[[Baidu](https://dl.acm.org/doi/pdf/10.1145/3292500.3330782)] AiAds: Automated and Intelligent Advertising System for Sponsored Search [__`ads.`__,__`hyb.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330681)] Bid Optimization by Multivariable Control in Display Advertising [__`ads.`__]
+
+[[Yahoo](https://dl.acm.org/doi/pdf/10.1145/3292500.3330740)] Carousel Ads Optimization in Yahoo Gemini Native [__`ads.`__,__`ee.`__,__`drl.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330655)] Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction [__`ads.`__,__`geo.`__,__`seq.`__,__`mlp.`__]
+
+[[Baidu](https://dl.acm.org/doi/pdf/10.1145/3292500.3330651)] MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search [__`ads.`__,__`ran.`__,__`ret.`__,__`mlp.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666)] Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction [__`ads.`__,__`seq.`__,__`hyb.`__] :yellow_heart:
+
+[[Verizon Media](https://dl.acm.org/doi/pdf/10.1145/3292500.3330783)] Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising [__`ads.`__,__`mt.`__,__`mlp.`__]
+
+[[Verizon Media](https://dl.acm.org/doi/pdf/10.1145/3292500.3330749)] Recurrent Neural Networks for Stochastic Control in Real-Time Bidding [__`ads.`__,__`rnn.`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -343,36 +365,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
 
-<a name="Industry_CompAds"></a>
-### Computational Ads
-[Recommending Themes for Ad Creative Design via Visual-Linguistic Representations](https://dl.acm.org/doi/pdf/10.1145/3366423.3380001), Yahoo Research, WWW, 2020.
-
-[Addressing Delayed Feedback for Continuous Training with Neural Networks in CTR prediction](https://dl.acm.org/doi/pdf/10.1145/3298689.3347002), Twitter, RecSys, 2019.
-
-[A Unified Framework for Marketing Budget Allocation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330700), Alibaba, KDD, 2019.
-
-[AiAds: Automated and Intelligent Advertising System for Sponsored Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330782), Baidu, KDD, 2019.
-
-[Bid Optimization by Multivariable Control in Display Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330681), Alibaba, KDD, 2019.
-
-[Carousel Ads Optimization in Yahoo Gemini Native](https://dl.acm.org/doi/pdf/10.1145/3292500.3330740), Yahoo, KDD, 2019.
-
-[Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives](https://dl.acm.org/doi/pdf/10.1145/3292500.3330789), Gunosy Inc, KDD, 2019.
-
-[Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330655), Alibaba, KDD, 2019.
-
-[MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](https://dl.acm.org/doi/pdf/10.1145/3292500.3330651), Baidu, KDD, 2019.
-
-[Practice on Long Sequential User Behavior Modeling for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3292500.3330666), Alibaba, KDD, 2019.
-
-[Predicting Different Types of Conversions with Multi-Task Learning in Online Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330783), Verizon Media, KDD, 2019.
-
-[Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/doi/pdf/10.1145/3292500.3330749), Verizon Media, KDD, 2019.
-
 <a name="Industry_Travel"></a>
 ### Travel and Delivery
-[When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380287), DiDi, WWW, 2020.
-
 [BusTr: Predicting Bus Travel Times from Real-Time Traffic](https://dl.acm.org/doi/pdf/10.1145/3394486.3403376), Google Research, KDD, 2020
 
 [CompactETA: A Fast Inference System for Travel Time Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403386), DiDi, KDD, 2020.
