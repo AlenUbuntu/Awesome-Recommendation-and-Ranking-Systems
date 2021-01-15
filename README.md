@@ -269,6 +269,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[JD](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380232)] Keywords Generation Improves E-Commerce Session-based Recommendation [__`seq.`__,__`eco.`__,__`att.`__, __`txt.`__]
 
+[[Alibaba](https://arxiv.org/pdf/2008.09369.pdf)] Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication [__`eco.`__,__`drl.`__]
+
+
 <a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -381,6 +384,20 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330652)] POG: Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion [__`fas.`__,__`per.`__,__`att.`__,__`eco.`__] :yellow_heart:
 
+[[Alibaba & Kuai](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998)] A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation [__`ran.`__,__`eco.`__,__`mt.`__] :yellow_heart:
+
+[[Walmart](https://dl.acm.org/doi/pdf/10.1145/3292500.3330748)] Anomaly Detection for an E-commerce Pricing System [__`eco.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330670)] Buying or Browsing? : Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior [__`eco.`__, __`att.`__]
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716)] Infer Implicit Contexts in Real-time Online-to-Offline Recommendation [__`eco.`__,__`att.`__, __`fe.`__]
+
+[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3292500.3330696)] MSURU: Large Scale E-commerce Image Classification With Weakly Supervised Search Data [__`eco.`__,__`sca.`__,__`img.`__] :yellow_heart:
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330790)] Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics [__`eco.`__,__`hyb.`__]
+
+[[Twitter](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760)] Understanding the Role of Style in E-commerce Shopping [__`eco.`__,__`fas.`__] :yellow_heart:
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -460,28 +477,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [Sequential Scenario-Specific Meta Learner for Online Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726), Alibaba, KDD, 2019.
 
 [Whole Page Optimization with Global Constraints](https://dl.acm.org/doi/pdf/10.1145/3292500.3330675), Amazon, KDD, 2019.
-
-<a name="Industry_Other_e-commerce"></a>
-#### E-Commerce
-[Keywords Generation Improves E-Commerce Session-based Recommendation](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380232), JD, WWW, 2020.
-
-[Exploring Clustering of Bandits for Online Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3383313.3412250), Tencent, RecSys, 2020. - [Video](https://vimeo.com/455953183)
-
-[Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication](https://arxiv.org/pdf/2008.09369.pdf), Alibaba, RecSys, 2020. - [Video](https://vimeo.com/455948668)
-
-[A Pareto-Eficient Algorithm for Multiple Objective Optimization in E-Commerce Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3346998), Alibaba & Kuai, RecSys, 2019.
-
-[Anomaly Detection for an E-commerce Pricing System](https://dl.acm.org/doi/pdf/10.1145/3292500.3330748), Walmart, KDD, 2019.
-
-[Buying or Browsing? : Predicting Real-time Purchasing Intent using Attention-based Deep Network with Multiple Behavior](https://dl.acm.org/doi/pdf/10.1145/3292500.3330670), Alibaba, KDD, 2019.
-
-[Infer Implicit Contexts in Real-time Online-to-Offline Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330716), Alibaba, KDD, 2019.
-
-[MSURU: Large Scale E-commerce Image Classification With Weakly Supervised Search Data](https://dl.acm.org/doi/pdf/10.1145/3292500.3330696), Facebook, KDD, 2019.
-
-[Online Purchase Prediction via Multi-Scale Modeling of Behavior Dynamics](https://dl.acm.org/doi/pdf/10.1145/3292500.3330790), JD, KDD, 2019.
-
-[Understanding the Role of Style in E-commerce Shopping](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760), Twitter, KDD, 2019.
 
 ## Academic Papers
 ### 2019
