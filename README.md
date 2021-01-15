@@ -209,6 +209,19 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Bloomberg](https://dl.acm.org/doi/pdf/10.1145/3383313.3412254)] Global and Local Differential Privacy for Collaborative Bandits [__`pri.`__,__`drl.`__]
 
+[[Yahoo Research](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383570)] Layered Graph Embedding for Entity Recommendation using Wikipedia in the Yahoo! Knowledge Graph [__`kg.`__,__`gnn.`__,__`net.`__]
+
+[[DiDi](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388)] Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations [__`kg.`__,__`gnn.`__,__`net.`__]
+
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293)] MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks [__`kg.`__,__`gnn.`__,__`net.`__]
+
+[[Twitter](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370)] SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter [__`kg.`__,__`gnn.`__,__`net.`__]
+
+[[DiDi](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373)] Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction [__`geo.`__,__`seq.`__,__`gnn.`__,__`net.`__]
+
+[[MSRA](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237)] KRED: Knowledge-Aware Document Representation for News Recommendations [__`kg.`__,__`gnn.`__,__`net.`__, __`txt.`__]
+
+
 <a name="in_2019"></a>
 ### 2019
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -267,6 +280,18 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__]
 
+[[Netflix](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036)] Variational Low Rank Multinomials for Collaborative Filtering with Side-Information [__`kg.`__,__`mlp.`__]
+
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3308558.3313488)] Graph Neural Networks for Social Recommendation [__`gnn.`__, __`net.`__] :fire:
+
+[[MSRA](https://dl.acm.org/doi/pdf/10.1145/3308558.3313417)] Knowledge Graph Convolutional Networks for Recommender Systems [__`kg.`__,__`gnn.`__,__`net.`__] :star:
+
+[[Microsoft](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411)] Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation [__`kg.`__,__`mt.`__,__`net.`__] :star:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330686)] IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation [__`kg.`__,__`gnn.`__,__`net.`__] :yellow_heart:
+
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330673)] Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation [__`kg.`__,__`gnn.`__,__`net.`__] :yellow_heart:
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -280,36 +305,6 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
-
-<a name="Industry_KG_SI"></a>
-### Knowledge Graph or Side Information
-[Layered Graph Embedding for Entity Recommendation using Wikipedia in the Yahoo! Knowledge Graph](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3383570), Yahoo! Research, KDD, 2020.
-
-[AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types](https://dl.acm.org/doi/pdf/10.1145/3394486.3403323), Amazon, KDD, 2020.
-
-[Context-Aware Attentive Knowledge Tracing](https://dl.acm.org/doi/pdf/10.1145/3394486.3403282), Worcester, KDD, 2020.
-
-[Gemini: A Novel and Universal Heterogeneous Graph Information Fusing Framework for Online Recommendations](https://dl.acm.org/doi/pdf/10.1145/3394486.3403388), DiDi, KDD, 2020.
-
-[MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks](https://dl.acm.org/doi/pdf/10.1145/3394486.3403293), Pinterest Inc., KDD, 2020.
-
-[SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter](https://dl.acm.org/doi/pdf/10.1145/3394486.3403370), Twitter, Inc., KDD, 2020.
-
-[Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction](https://dl.acm.org/doi/pdf/10.1145/3394486.3403373), DiDi, KDD, 2020.
-
-[KRED: Knowledge-Aware Document Representation for News Recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412237), MSRA, RecSys, 2020. - [Video](https://vimeo.com/455949455)
-
-[Variational Low Rank Multinomials for Collaborative Filtering with Side-Information](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036), Netflix, RecSys, 2019.
-
-[Graph Neural Networks for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313488), JD, WWW, 2019.
-
-[Knowledge Graph Convolutional Networks for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3308558.3313417), MSRA, WWW, 2019.
-
-[Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation](https://dl.acm.org/doi/pdf/10.1145/3308558.3313411), Microsoft, WWW, 2019.
-
-[IntentGC: a Scalable Graph Convolution Framework Fusing Heterogeneous Information for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330686), Alibaba, KDD, 2019.
-
-[Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330673), Alibaba, KDD, 2019.
 
 <a name="Industry_Transfer"></a>
 ### Transfer Learning or Multi-Task Learning
