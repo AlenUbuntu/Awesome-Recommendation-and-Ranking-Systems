@@ -452,19 +452,19 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664)] Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning [__`bia.`__]
 
 ### 2018
-[[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__]
+[[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
 
 ### 2017
-[[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`the.`__,__`fe.`__] :fire:
+[[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
 
-[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__] :star:
+[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__,__`fe.`__] :star:
 
-[[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__] :fire:
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire:
 
-[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp`__,__`fe.`__] :fire:
 
 ### 2015
-[[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__,__`the.`__] :star:
+[[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
