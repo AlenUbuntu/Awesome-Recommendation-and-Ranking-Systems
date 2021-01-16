@@ -445,6 +445,12 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](http://papers.www2017.com.au.s3.amazonaws.com/companion/p769.pdf)] Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems [__`fe.`__,__`mlp.`__,__`sca.`__] :yellow_heart:
 
+[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Memory Networks for Recommendation [__`fe.`__,__`att.`__] :star:
+
+[[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__,__`the.`__, __`kg.`__] :star:
+
+[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__] :star:
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -470,6 +476,38 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[AAAI](https://www.researchgate.net/publication/309919310_Examples-Rules_Guided_Deep_Neural_Network_for_Makeup_Recommendation)] Examples-Rules Guided Deep Neural Network for Makeup Recommendation [__`kg.`__, __`mlp.`__,__`fas.`__,__`img.`__] :star:
 
 [[WWW](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)] Collaborative metric learning. [__`mlp.`__,__`fe.`__] :fire:
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109912)] Controlling Popularity Bias in Learning-to-Rank Recommendation [__`bia.`__,__`imb.`__,__`ran.`__] :star:
+
+[[RecSys](https://arxiv.org/pdf/1704.02298.pdf)] TransNets: Learning to Transform for Recommendation [__`fe.`__,__`cnn.`__] :fire:
+
+[[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p152-donkers.pdf)] Sequential User-based Recurrent Neural Network Recommendations [__`seq.`__,__`per.`__,__`rnn.`__] :fire:
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109908)] Exploring the Semantic Gap for Movie Recommendations [__`fe.`__] 
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109894)] Recommending Personalized News in Short User Sessions [__`seq.`__,__`per.`__] 
+
+[[RecSys](https://arxiv.org/pdf/1707.02410.pdf)] Translation-based Recommendation [__`seq.`__,__`fe.`__,__`sca.`__] :fire:
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109872)]  When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation [__`seq.`__,__`sca.`__,__`rnn.`__] :fire:
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109861)] Deep Cross-Domain Fashion Recommendation [__`fas.`__,__`tra.`__,__`cnn.`__] 
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109887)] Fairness-Aware Group Recommendation with Pareto-Efficiency [__`bia.`__,__`mt.`__,__`ee.`__] :star:
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109905)] A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews [__`fe.`__]
+
+[[RecSys](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)] entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation [__`kg.`__,__`ran.`__,__`fe.`__] :star:
+
+[[RecSys](https://arxiv.org/pdf/1706.04148.pdf)] Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks [__`seq.`__,__`per.`__,__`rnn.`__] :fire:
+
+[[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p5-rafailidis.pdf)] Learning to Rank with Trust and Distrust in Recommender Systems [__`ran.`__,__`fe.`__,__`net.`__]
+
+[[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p243-sembium.pdf)] Recommending Product Sizes to Customers [__`fas.`__,__`per.`__,__`eco.`__]
+
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900)] 3D Convolutional Networks for Session-based Recommendation with Content Features [__`seq.`__,__`cnn.`__,__`fe.`__] :star:
+
+[[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Modeling%20the%20Assimilation-Contrast%20Effects%20in%20Online%20Product%20Rating%20Systems%20Debiasing%20and%20Recommendations.pdf)] Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations [__`bia.`__]
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
