@@ -525,6 +525,18 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080779)] Embedding Factorization Models for Jointly Recommending Items and User Generated Lists [__`cs.`__,__`kg.`__, __`mt.`__] :star:
 
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080826)] Exploiting Food Choice Biases for Healthier Recipe Recommendation [__`eco.`__,__`img.`__] :star:
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080774)] Cross-Domain Recommendation via Clustering on Multi-Layer Graphs [__`tra.`__,__`kg.`__,__`net.`__]
+
+[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__] :star:
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080778)] Personalized Itinerary Recommendation with Queuing Time Awareness [__`geo.`__,__`per.`__,__`img.`__,__`net.`__]
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080658)] DeepStyle: Learning User Preferences for Visual Recommendation [__`fas.`__,__`eco.`__,__`img.`__] :star:
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080769)] Multi-site User Behavior Modeling and Its Application in Video Recommendation [__`tra.`__,__`vid.`__]
+
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
 
