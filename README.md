@@ -455,6 +455,10 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Tecent](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)] Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention. [__`fe.`__,__`att.`__,__`mlp.`__] :fire:
 
+[[IBM Research](https://dl.acm.org/doi/pdf/10.1145/3077136.3080776)] Personalized Key Frame Recommendation [__`per.`__,__`mm.`__,__`vid.`__] :star:
+
+
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
