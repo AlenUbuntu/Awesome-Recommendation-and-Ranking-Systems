@@ -467,8 +467,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp.`__,__`fe.`__] :fire:
 
-[[AAAI](file:///Users/alan/Dropbox/Computer_Science_True_PHD/mendery_papers/Alashkar-AAAI-2017.pdf)] Examples-Rules Guided Deep Neural Network for Makeup
-Recommendation [__`kg.`__, __`mlp.`__,__`fas.`__,__`img.`__] :star:
+[[AAAI](https://www.researchgate.net/publication/309919310_Examples-Rules_Guided_Deep_Neural_Network_for_Makeup_Recommendation)] Examples-Rules Guided Deep Neural Network for Makeup Recommendation [__`kg.`__, __`mlp.`__,__`fas.`__,__`img.`__] :star:
 
 [[WWW](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)] Collaborative metric learning. [__`mlp.`__,__`fe.`__] :fire:
 
