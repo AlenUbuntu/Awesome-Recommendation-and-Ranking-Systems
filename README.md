@@ -451,6 +451,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__] :star:
 
+[[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -508,6 +510,12 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900)] 3D Convolutional Networks for Session-based Recommendation with Content Features [__`seq.`__,__`cnn.`__,__`fe.`__] :star:
 
 [[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Modeling%20the%20Assimilation-Contrast%20Effects%20in%20Online%20Product%20Rating%20Systems%20Debiasing%20and%20Recommendations.pdf)] Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations [__`bia.`__]
+
+[[WWW](https://dl.acm.org/doi/pdf/10.1145/3038912.3052573)] Investigating the Healthiness of Internet-Sourced Recipes: Implications for Meal Planning and Recommender Systems :star:
+
+[[WWW](https://www.researchgate.net/profile/Xin_Wang274/publication/315865891_Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation/links/5a29089baca2727dd8871e3e/Learning-Personalized-Preference-of-Strong-and-Weak-Ties-for-Social-Recommendation.pdf)] Learning Personalized Preference of Strong and Weak Ties for Social Recommendation [__`per.`__,__`net.`__] :star:
+
+[[WWW](http://www.public.asu.edu/~skai2/files/WWW_suhang.pdf)] What Your Images Reveal: Exploiting Visual Contents for Point-of-Interest Recommendation [__`geo.`__,__`img.`__, __`net.`__] :fire:
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
