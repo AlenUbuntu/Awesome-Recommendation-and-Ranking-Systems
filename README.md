@@ -453,6 +453,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
 
+[[Tecent](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)] Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention. [__`fe.`__,__`att.`__,__`mlp.`__] :fire:
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -516,6 +518,8 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[WWW](https://www.researchgate.net/profile/Xin_Wang274/publication/315865891_Learning_Personalized_Preference_of_Strong_and_Weak_Ties_for_Social_Recommendation/links/5a29089baca2727dd8871e3e/Learning-Personalized-Preference-of-Strong-and-Weak-Ties-for-Social-Recommendation.pdf)] Learning Personalized Preference of Strong and Weak Ties for Social Recommendation [__`per.`__,__`net.`__] :star:
 
 [[WWW](http://www.public.asu.edu/~skai2/files/WWW_suhang.pdf)] What Your Images Reveal: Exploiting Visual Contents for Point-of-Interest Recommendation [__`geo.`__,__`img.`__, __`net.`__] :fire:
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080779)] Embedding Factorization Models for Jointly Recommending Items and User Generated Lists [__`cs.`__,__`kg.`__, __`mt.`__] :star:
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
