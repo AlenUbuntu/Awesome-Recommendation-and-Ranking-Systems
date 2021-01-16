@@ -443,9 +443,13 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__, __`fe.`__] :star:
 
+[[Alibaba](http://papers.www2017.com.au.s3.amazonaws.com/companion/p769.pdf)] Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems [__`fe.`__,__`mlp.`__,__`sca.`__] :yellow_heart:
+
 <a name="in_2016"></a>
 ### 2016
 [[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
+
+[[Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)] Deep neural networks for youtube recommendations. [__`mlp.`__,__`sca.`__, __`fe.`__] :fire:
 
 ## Academic Papers
 ### 2019
@@ -461,7 +465,12 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire:
 
-[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp`__,__`fe.`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp.`__,__`fe.`__] :fire:
+
+[[AAAI](file:///Users/alan/Dropbox/Computer_Science_True_PHD/mendery_papers/Alashkar-AAAI-2017.pdf)] Examples-Rules Guided Deep Neural Network for Makeup
+Recommendation [__`kg.`__, __`mlp.`__,__`fas.`__,__`img.`__] :star:
+
+[[WWW](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)] Collaborative metric learning. [__`mlp.`__,__`fe.`__] :fire:
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
