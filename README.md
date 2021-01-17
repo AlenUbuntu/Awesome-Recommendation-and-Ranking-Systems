@@ -12,6 +12,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Interpretability](#Survey_Interpretability)
   * [Feature Engineering](#Survey_FE)
   * [Personalization](#Survey_Personalization)
+  * [Sequence](#Survey_Sequence)
   * [Others](#Survey_Others)
 * [Industry Papers](#industry-papers)
   * [2020](#in_2020)
@@ -86,6 +87,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [A Survey on Personalized News Recommendation Technology](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8854070), 2020.
 
 [User Preferences in Recommendation Algorithms - The influence of user diversity, trust, and product category on privacy perceptions in recommender](https://dl.acm.org/doi/pdf/10.1145/3240323.3240393), 2018.
+
+### Sequence
+[Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018.
 
 <a name="Survey_Others"></a>
 ### Others
@@ -437,6 +441,11 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
 
+[[Deezer SA](https://arxiv.org/pdf/1804.04212.pdf)] Word2vec applied to Recommendation: Hyperparameters Matter [__`fe.`__,__`tra.`__,__`txt.`__] :star:
+
+[[Spotify](https://static1.squarespace.com/static/5ae0d0b48ab7227d232c2bea/t/5ba849e3c83025fa56814f45/1537755637453/BartRecSys.pdf)] Explore, Exploit, and Explain: Personalizing Explainable Recommendations with Bandits [__`ee.`__,__`int.`__,__`drl.`__,__`per.`__] :star:
+
+[[Netflix](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372)] Calibrated Recommendations [__`ee.`__,__`bia.`__] :star:
 <a name="in_2017"></a>
 ### 2017
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
@@ -449,7 +458,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__, __`kg.`__,__`cs.`__] :star:
 
-[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__] :star:
+[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__,__`dyn.`__] :star:
 
 [[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
 
@@ -476,6 +485,34 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2018
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
 
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240383)] RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems [__`seq.`__,__`adv.`__,__`rnn.`__,__`dyn.`__]
+
+[[RecSys](https://arxiv.org/pdf/1706.07639.pdf)] Causal Embeddings for Recommendation [__`int.`__,__`tra.`__]
+
+[[RecSys](https://arxiv.org/pdf/1710.11214.pdf)] How Algorithmic Confounding in Recommendation Systems Increases Homogeneity and Decreases Utility [__`ee.`__] :star:
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240407)] Audio-visual Encoding of Multimedia Content for Enhancing Movie Recommendations [__`mm.`__,__`fe.`__]
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240373)] Exploring Author Gender in Book Rating and Recommendation [__`bia.`__,__`eco.`__]
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240358)] Effects of Personal Characteristics on Music Recommender Systems with Different Levels of Controllability [__`fe.`__,__`per.`__,__`aud.`__]
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240384)] StreamingRec: A Framework for Benchmarking Stream-based News Recommenders [__`seq.`__]
+
+[[RecSys](https://arxiv.org/pdf/1807.01227.pdf)] Providing Explanations for Recommendations in Reciprocal Environments [__`int.`__]
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240365)] Why I like it: Multi-task Learning for Recommendation and Explanation [__`mt.`__,__`int.`__,__`per.`__,__`ret.`__,__`adv.`__]
+
+[[RecSys](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18e.pdf)] Decomposing Fit Semantics for Product Size Recommendation in Metric Spaces [__`fas.`__,__`eco.`__,__`per.`__]
+
+[[RecSys](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf)] Translation-based Factorization Machines for Sequential Recommendation [__`seq.`__,__`fe.`__,__`sca.`__] :star:
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240361)] Recurrent Knowledge Graph Embedding for Effective Recommendation [__`kg.`__,__`att.`__,__`rnn.`__,__`fe.`__] :star:
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240347)] On the Robustness and Discriminative Power of Information Retrieval Metrics for Top-N Recommendation [__`oth.`__] :star:
+
+[[RecSys](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18b.pdf)] Item Recommendation on Monotonic Behavior Chains [__`fe.`__,__`seq.`__] :star:
+
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
 
@@ -497,7 +534,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109908)] Exploring the Semantic Gap for Movie Recommendations [__`fe.`__] 
 
-[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109894)] Recommending Personalized News in Short User Sessions [__`seq.`__,__`per.`__] 
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109894)] Recommending Personalized News in Short User Sessions [__`seq.`__,__`per.`__,__`dyn.`__] 
 
 [[RecSys](https://arxiv.org/pdf/1707.02410.pdf)] Translation-based Recommendation [__`seq.`__,__`fe.`__,__`sca.`__] :fire:
 
@@ -545,7 +582,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`per.`__,__`fe.`__] :star:
 
-[[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__] 
+[[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__,__`dyn.`__] 
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__] :fire:
 
