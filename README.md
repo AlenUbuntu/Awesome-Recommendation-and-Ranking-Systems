@@ -31,7 +31,7 @@ __`per.`__: personalization &emsp; | &emsp; __`seq.`__: sequential info &emsp; |
 __`imb.`__: imbalance and long-tail &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
 __`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
-__`the`__: theory &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce    
+__`dyn.`__: dynamic &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce    
 __`oth`__: other topics including model selection, multi-label, command recommendation, crowdsourcing labeling, hyper-parameter tuning...
 <h4> Architecture </h4>
 
@@ -179,15 +179,15 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071)] Understanding User Behavior For Document Recommendation [__`int.`__,__`sca.`__]
 
-[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__,__`bia.`__,__`per.`__,__`fe.`__]
+[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__,__`per.`__,__`fe.`__]
 
 [[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491)] Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions [__`int.`__,__`seq.`__]
 
-[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393)] A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce [__`imb.`__,__`eco.`__,__`gnn.`__]
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403393)] A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce [__`imb.`__,__`eco.`__,__`gnn.`__,__`cs.`__]
 
-[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303)] Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data [__`imb.`__,__`eco.`__,__`ae.`__]
+[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3394486.3403303)] Automatic Validation of Textual Attribute Values in E-commerce Catalog by Learning with Limited Labeled Data [__`imb.`__,__`eco.`__,__`ae.`__,__`cs.`__]
 
-[[Spotify & Walmart](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394)] Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization [__`imb.`__]
+[[Spotify & Walmart](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394)] Learning with Limited Labels via Momentum Damped & Differentially Weighted Optimization [__`imb.`__,__`cs.`__]
 
 [[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3394486.3403391)] Ads Allocation in Feed via Constrained Optimization [__`bia.`__,__`ads.`__]
 
@@ -197,7 +197,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341)] Improving Recommendation Quality in Google Drive [__`bia.`__]
 
-[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__,__`fe.`__,__`per.`__]
+[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`fe.`__,__`per.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__]
 
@@ -271,9 +271,9 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://arxiv.org/pdf/2008.09369.pdf)] Learning to Collaborate in Multi-Module Recommendation via Multi-Agent Reinforcement Learning without Communication [__`eco.`__,__`drl.`__]
 
-[[HuaWei](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3379999)] MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection [__`the.`__,__`oth.`__] :yellow_heart:
+[[HuaWei](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3379999)] MetaSelector: Meta-Learning for Recommendation with User-Level Adaptive Model Selection [__`oth.`__] :yellow_heart:
 
-[[Google AI](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380130)] Off-policy Learning in Two-stage Recommender Systems [__`oth.`__,__`drl.`__,__`the.`__]
+[[Google AI](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380130)] Off-policy Learning in Two-stage Recommender Systems [__`oth.`__,__`drl.`__]
 
 [[Alibaba](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380013)] PARS: Peers-aware Recommender System [__`eco.`__,__`ran.`__,__`fe.`__] :yellow_heart:
 
@@ -281,19 +281,19 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Amazon](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368)] Taming Pretrained Transformers for Extreme Multi-label Text Classification [__`tra.`__,__`oth.`__,__`txt.`__] :yellow_heart:
 
-[[Netflix](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484)] Learning Representations of Hierarchical Slates in Collaborative Filtering [__`oth.`__, __`the.`__]
+[[Netflix](https://dl.acm.org/doi/pdf/10.1145/3383313.3418484)] Learning Representations of Hierarchical Slates in Collaborative Filtering [__`oth.`__]
 
-[[Adobe Research](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255)] Goal-driven Command Recommendations for Analysts [__`the.`__,__`oth.`__]
+[[Adobe Research](https://dl.acm.org/doi/pdf/10.1145/3383313.3412255)] Goal-driven Command Recommendations for Analysts [__`oth.`__]
 
 [[Spotify](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3384362)] Leveraging Behavioral Heterogeneity Across Markets for Cross-Market Training of Recommender Systems [__`tra.`__,__`fe.`__]
 
-[[Google](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3386195)] Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations [__`the.`__,__`fe.`__,__`ret.`__,__`ran.`__]
+[[Google](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3386195)] Mixed Negative Sampling for Learning Two-tower Neural Networks in Recommendations [__`fe.`__,__`ret.`__,__`ran.`__]
 
-[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304)] CLARA: Confidence of Labels and Raters [__`the.`__,__`oth.`__] :yellow_heart:
+[[Facebook](https://dl.acm.org/doi/pdf/10.1145/3394486.3403304)] CLARA: Confidence of Labels and Raters [__`oth.`__] :yellow_heart:
 
-[[Baidu](https://dl.acm.org/doi/pdf/10.1145/3394486.3403327)] Geodemographic Influence Maximization [__`the.`__,__`oth.`__,__`net.`__]
+[[Baidu](https://dl.acm.org/doi/pdf/10.1145/3394486.3403327)] Geodemographic Influence Maximization [__`oth.`__,__`net.`__]
 
-[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403352)] Multi-objective Optimization for Guaranteed Delivery in Video Service Platform [__`the.`__,__`mt.`__,__`vid.`__]
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3394486.3403352)] Multi-objective Optimization for Guaranteed Delivery in Video Service Platform [__`mt.`__,__`vid.`__]
 
 <a name="in_2019"></a>
 ### 2019
@@ -343,7 +343,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDDI Research](https://dl.acm.org/doi/pdf/10.1145/3308560.3316596)] Preliminary Investigation of Alleviating User Cold-Start Problem in E-commerce with Deep Cross-Domain Recommender System [__`cs.`__,__`tra.`__,__`eco.`__,__`mlp.`__]
 
-[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__]
+[[Tecent](https://dl.acm.org/doi/pdf/10.1145/3292500.3330707)] Real-time Attention Based Look-alike Model for Recommender System [__`imb.`__,__`mlp.`__,__`att.`__,__`cs.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3298689.3346996)] Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations [__`bia.`__,__`ret.`__, __`mlp.`__] :yellow_heart:
 
@@ -351,7 +351,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__]
 
-[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__, __`fe.`__,__`per.`__]
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [ __`drl`__, __`fe.`__,__`per.`__]
 
 [[Netflix](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036)] Variational Low Rank Multinomials for Collaborative Filtering with Side-Information [__`kg.`__,__`mlp.`__]
 
@@ -421,17 +421,17 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Twitter](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760)] Understanding the Role of Style in E-commerce Shopping [__`eco.`__,__`fas.`__] :yellow_heart:
 
-[[Snapchat](https://dl.acm.org/doi/pdf/10.1145/3292500.3330750)] Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat [__`bia.`__,__`fe.`__,__`hyb.`__,__`net.`__,__`per.`__] :yellow_heart:
+[[Snapchat](https://dl.acm.org/doi/pdf/10.1145/3292500.3330750)] Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat [__`fe.`__,__`hyb.`__,__`net.`__,__`per.`__] :yellow_heart:
 
-[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3308558.3313449)] GhostLink: Latent Network Inference for Influence-aware Recommendation [__`the.`__,__`oth.`__,__`net.`__]
+[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3308558.3313449)] GhostLink: Latent Network Inference for Influence-aware Recommendation [__`oth.`__,__`net.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3308558.3313650)] Towards Neural Mixture Recommender for Long Range Dependent User Sequences [__`seq.`__,__`fe.`__,__`att.`__] :yellow_heart:
 
-[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3308558.3313747)] Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [__`seq.`__,__`the.`__,__`oth.`__] :yellow_heart:
+[[Pinterest](https://dl.acm.org/doi/pdf/10.1145/3308558.3313747)] Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems [__`seq.`__,__`oth.`__] :yellow_heart:
 
-[[Preferred Networks](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)] Optuna: A Next-generation Hyperparameter Optimization Framework [__`the.`__,__`oth.`__] :fire:
+[[Preferred Networks](https://dl.acm.org/doi/pdf/10.1145/3292500.3330701)] Optuna: A Next-generation Hyperparameter Optimization Framework [__`oth.`__] :fire:
 
-[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726)] Sequential Scenario-Specific Meta Learner for Online Recommendation [__`the.`__,__`per.`__,__`tra.`__,__`seq.`__]
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726)] Sequential Scenario-Specific Meta Learner for Online Recommendation [__`per.`__,__`tra.`__,__`seq.`__]
 
 <a name="in_2018"></a>
 ### 2018
@@ -447,7 +447,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://arxiv.org/pdf/1804.10862.pdf)] Memory Networks for Recommendation [__`fe.`__,__`att.`__] :star:
 
-[[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__,__`the.`__, __`kg.`__] :star:
+[[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__, __`kg.`__,__`cs.`__] :star:
 
 [[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__] :star:
 
@@ -489,7 +489,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WWW](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf)] Collaborative metric learning. [__`mlp.`__,__`fe.`__] :fire:
 
-[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109912)] Controlling Popularity Bias in Learning-to-Rank Recommendation [__`bia.`__,__`imb.`__,__`ran.`__] :star:
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109912)] Controlling Popularity Bias in Learning-to-Rank Recommendation [__`bia.`__,__`imb.`__,__`ran.`__,__`cs.`__] :star:
 
 [[RecSys](https://arxiv.org/pdf/1704.02298.pdf)] TransNets: Learning to Transform for Recommendation [__`fe.`__,__`cnn.`__] :fire:
 
@@ -543,16 +543,22 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098173)] Post Processing Recommender Systems for Diversity [__`ee.`__] 
 
-[[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`bia.`__,__`per.`__,__`fe.`__] :star:
+[[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`per.`__,__`fe.`__] :star:
 
 [[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__] 
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__] :fire:
 
-[[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users []
+[[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users [__`geo`__,__`per.`__, __`dyn.`__]
+
+[[KDD](http://wnzhang.net/papers/dadm-kdd.pdf)] Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors' Demonstration. [__`att.`__,__`cnn.`__,__`per.`__,__`kg.`__] :star:
+
+[[KDD](http://chaozhang.org/papers/2017-kdd-poi-recommendation.pdf)] Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. [__`imb.`__,__`cs.`__,__`geo.`__,__`fe.`__,__`mt.`__] :fire:
+
+[[KDD](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)] Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. [__`kg.`__,__`net.`__,__`mlp.`__,__`fe.`__] :fire:
 
 ### 2015
-[[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
+[[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`kg.`__,__`dyn.`__,__`mlp.`__,__`fe.`__] :star:
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
