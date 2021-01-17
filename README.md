@@ -1,7 +1,7 @@
 # Awesome-Recommendation-and-Ranking-Systems
 Maintained by Yang Gao (ustcgaoy01@gmail.com). Last Update: 12/13/2020.
 
-Recent advances in recommendation and ranking systems. We only focus on papers published in top conferences including RecSys, WWW, SIGIR, and KDD.
+Recent advances in recommendation and ranking systems. We only focus on papers published in top conferences including RecSys, WWW, SIGIR, KDD, NIPS, ICML, and ICLR.
 
 ## Table of Contents
 * [Survey](#survey)
@@ -179,7 +179,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366423.3380071)] Understanding User Behavior For Document Recommendation [__`int.`__,__`sca.`__]
 
-[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__,__`bia.`__,__`ee.`__]
+[[Snap](https://dl.acm.org/doi/pdf/10.1145/3394486.3403276)] Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps [__`int.`__,__`hyb.`__,__`net.`__,__`bia.`__,__`per.`__,__`fe.`__]
 
 [[Spotify](https://dl.acm.org/doi/pdf/10.1145/3383313.3418491)] Inferring the Causal Impact of New Track Releases on Music Recommendation Platforms through Counterfactual Predictions [__`int.`__,__`seq.`__]
 
@@ -197,7 +197,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403341)] Improving Recommendation Quality in Google Drive [__`bia.`__]
 
-[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__,__`ee.`__]
+[[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`bia.`__,__`fe.`__,__`per.`__]
 
 [[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__]
 
@@ -351,7 +351,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3292500.3330691)] Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search [__`bia.`__]
 
-[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__, __`ee.`__]
+[[JD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330668)] Reinforcement Learning to Optimize Long-term User Engagement in Recommender Systems [__`bia.`__, __`drl`__, __`fe.`__,__`per.`__]
 
 [[Netflix](https://dl.acm.org/doi/pdf/10.1145/3298689.3347036)] Variational Low Rank Multinomials for Collaborative Filtering with Side-Information [__`kg.`__,__`mlp.`__]
 
@@ -421,7 +421,7 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Twitter](https://dl.acm.org/doi/pdf/10.1145/3292500.3330760)] Understanding the Role of Style in E-commerce Shopping [__`eco.`__,__`fas.`__] :yellow_heart:
 
-[[Snapchat](https://dl.acm.org/doi/pdf/10.1145/3292500.3330750)] Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat [__`bia.`__,__`ee.`__,__`hyb.`__,__`net.`__] :yellow_heart:
+[[Snapchat](https://dl.acm.org/doi/pdf/10.1145/3292500.3330750)] Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat [__`bia.`__,__`fe.`__,__`hyb.`__,__`net.`__,__`per.`__] :yellow_heart:
 
 [[Amazon](https://dl.acm.org/doi/pdf/10.1145/3308558.3313449)] GhostLink: Latent Network Inference for Influence-aware Recommendation [__`the.`__,__`oth.`__,__`net.`__]
 
@@ -457,7 +457,11 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IBM Research](https://dl.acm.org/doi/pdf/10.1145/3077136.3080776)] Personalized Key Frame Recommendation [__`per.`__,__`mm.`__,__`vid.`__] :star:
 
+[[Twitter and Google Brain](https://papers.nips.cc/paper/2017/file/51e6d6e679953c6311757004d8cbbba9-Paper.pdf)] A Meta-Learning Perspective on Cold-Start Recommendations for Items [__`cs.`__,__`tra.`__,__`mlp.`__] :star:
 
+[[layers6.ai](https://proceedings.neurips.cc/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf)] DropoutNet: Addressing Cold Start in Recommender Systems [__`cs.`__, __`fe.`__] :star:
+
+[[Yahoo](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)] Embedding-based News Recommendation for Millions of Users [__`sca.`__,__`hyb.`__,__`fe.`__] :fire:
 
 <a name="in_2016"></a>
 ### 2016
@@ -536,6 +540,16 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080658)] DeepStyle: Learning User Preferences for Visual Recommendation [__`fas.`__,__`eco.`__,__`img.`__] :star:
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080769)] Multi-site User Behavior Modeling and Its Application in Video Recommendation [__`tra.`__,__`vid.`__]
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098173)] Post Processing Recommender Systems for Diversity [__`ee.`__] 
+
+[[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`bia.`__,__`per.`__,__`fe.`__] :star:
+
+[[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__] 
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__] :fire:
+
+[[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users []
 
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`mlp.`__,__`fe.`__] :star:
