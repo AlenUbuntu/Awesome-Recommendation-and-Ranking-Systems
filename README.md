@@ -457,6 +457,12 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[HTC](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210017)] Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [__`seq.`__,__`kg.`__,__`rnn.`__] :fire:
 
+[[Pinterest](https://arxiv.org/pdf/1711.07601.pdf)] Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time [__`sca.`__,__`per.`__,__`net.`__] :star:
+
+[[Amazon](https://dl.acm.org/doi/pdf/10.1145/3178876.3186149)] Bayesian Models for Product Size Recommendations [__`fas.`__,__`per.`__,__`eco.`__] :yellow_heart:
+
+[[MSRA](https://arxiv.org/pdf/1801.08284.pdf)] DKN: Deep Knowledge-Aware Network for News Recommendation [__`kg.`__,__`att.`__,__`per.`__] :fire:
+
 <a name="in_2017"></a>
 ### 2017
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
@@ -547,6 +553,18 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[SIGIR](https://arxiv.org/pdf/1806.03568.pdf)] Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [__`int.`__,__`mt.`__,__`txt.`__,__`per.`__] :star:
 
 [[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210016)] Streaming Ranking Based Recommender Systems [__`seq.`__,__`ret.`__,__`sca.`__]
+
+[[WWW](https://dl.acm.org/doi/pdf/10.1145/3178876.3186158)] Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [__`mt.`__,__`att.`__,__`rnn.`__,__`int.`__] :star:
+
+[[WWW](https://dl.acm.org/doi/pdf/10.1145/3178876.3186140)] Algorithmic Glass Ceiling in Social Networks: The effects of social recommendations on network diversity [__`bia.`__,__`ee.`__]
+
+[[WWW](https://dl.acm.org/doi/pdf/10.1145/3184558.3191558)] Travel Itinerary Recommendations with Must-see Points-of-Interest [__`geo.`__,__`net.`__]
+
+[[WWW](http://staff.ustc.edu.cn/~hexn/papers/www18-tem.pdf)] TEM: Tree-enhanced Embedding Model for Explainable Recommendation [__`int.`__,__`fe.`__] :fire:
+
+[[WWW](https://arxiv.org/pdf/1809.05822.pdf)] Aesthetic-based Clothing Recommendation [__`fas.`__,__`kg.`__,__`fe.`__,__`per.`__] :fire:
+
+[[WWW](https://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)] DRN: A Deep Reinforcement Learning Framework for News Recommendation [__`drl.`__,__`dyn.`__] :fire:
 
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
