@@ -43,7 +43,7 @@ __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &e
 
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
-Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting
+Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting
 
 
 ## Survey
@@ -446,6 +446,17 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Spotify](https://static1.squarespace.com/static/5ae0d0b48ab7227d232c2bea/t/5ba849e3c83025fa56814f45/1537755637453/BartRecSys.pdf)] Explore, Exploit, and Explain: Personalizing Explainable Recommendations with Bandits [__`ee.`__,__`int.`__,__`drl.`__,__`per.`__] :star:
 
 [[Netflix](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372)] Calibrated Recommendations [__`ee.`__,__`bia.`__] :star:
+
+[[JD](https://arxiv.org/pdf/1805.02343.pdf)] Deep Reinforcement Learning for Page-wise Recommendations [__`seq.`__,__`drl.`__] :star:
+
+[[MSRA](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210083)] Attention-driven Factor Model for Explainable Personalized Recommendation [__`per.`__,__`int.`__,__`att.`__,__`fe.`__]
+
+[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Collaborative Memory Network for Recommendation Systems [__`fe.`__,__`att.`__,__`kg.`__] :fire:
+
+[[LinkedIn](https://arxiv.org/pdf/1809.06481.pdf)] Talent Search and Recommendation Systems at LinkedIn: Practical Challenges and Lessons Learned [__`ran.`__,__`ret.`__] :yellow_heart:
+
+[[HTC](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210017)] Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks [__`seq.`__,__`kg.`__,__`rnn.`__] :fire:
+
 <a name="in_2017"></a>
 ### 2017
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
@@ -512,6 +523,30 @@ Statistics: :fire: citation >= 150 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240347)] On the Robustness and Discriminative Power of Information Retrieval Metrics for Top-N Recommendation [__`oth.`__] :star:
 
 [[RecSys](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18b.pdf)] Item Recommendation on Monotonic Behavior Chains [__`fe.`__,__`seq.`__] :star:
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240381)] HOP-Rec: High-Order Proximity for Implicit Recommendation [__`fe.`__,__`net.`__,__`mlp.`__]
+
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240355)] Unbiased offline recommender evaluation for missing-not-at-random implicit feedback [__`bia.`__] :star:
+
+[[SIGIR](https://arxiv.org/pdf/1808.03908.pdf)] Adversarial Personalized Ranking for Recommendation [__`per.`__,__`adv.`__,__`ran.`__] :fire:
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210129)] An Attribute-aware Neural Attentive Model for Next Basket Recommendation [__`fe.`__,__`att.`__,__`seq.`__,__`rnn.`__] 
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210014)] Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems [__`oth.`__]
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3209998)] Attentive Group Recommendation [__`cs.`__,__`att.`__,__`fe.`__] :star:
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210042)] A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation [__`fe.`__,__`geo.`__,__`seq.`__,__`att.`__,__`dyn.`__]
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210023)] Attentive Recurrent Social Recommendation [__`att.`__,__`fe.`__,__`dyn.`__,__`rnn.`__,__`net.`__] :star:
+
+[[SIGIR](https://arxiv.org/pdf/1806.03277.pdf)] Conversational Recommender System [__`seq.`__,__`per.`__,__`drl.`__] :fire:
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3209978.3210037)] The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News [__`net.`__,__`int.`__]
+
+[[SIGIR](https://arxiv.org/pdf/1806.03568.pdf)] Explainable Recommendation via Multi-Task Learning in Opinionated Text Data [__`int.`__,__`mt.`__,__`txt.`__,__`per.`__] :star:
+
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210016)] Streaming Ranking Based Recommender Systems [__`seq.`__,__`ret.`__,__`sca.`__]
 
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
