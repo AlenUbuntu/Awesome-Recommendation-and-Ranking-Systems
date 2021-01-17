@@ -469,7 +469,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__, __`kg.`__,__`cs.`__] :star:
 
-[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__,__`dyn.`__] :star:
+[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__,__`dyn.`__,__`sca.`__] :star:
 
 [[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
 
@@ -508,7 +508,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240358)] Effects of Personal Characteristics on Music Recommender Systems with Different Levels of Controllability [__`fe.`__,__`per.`__,__`aud.`__]
 
-[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240384)] StreamingRec: A Framework for Benchmarking Stream-based News Recommenders [__`seq.`__]
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240384)] StreamingRec: A Framework for Benchmarking Stream-based News Recommenders [__`seq.`__,__`sca.`__]
 
 [[RecSys](https://arxiv.org/pdf/1807.01227.pdf)] Providing Explanations for Recommendations in Reciprocal Environments [__`int.`__]
 
