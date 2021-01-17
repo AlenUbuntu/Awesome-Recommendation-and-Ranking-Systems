@@ -447,7 +447,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Netflix](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372)] Calibrated Recommendations [__`ee.`__,__`bia.`__] :star:
 
-[[JD](https://arxiv.org/pdf/1805.02343.pdf)] Deep Reinforcement Learning for Page-wise Recommendations [__`seq.`__,__`drl.`__] :star:
+[[JD](https://arxiv.org/pdf/1805.02343.pdf)] Deep Reinforcement Learning for Page-wise Recommendations [__`seq.`__,__`drl.`__] :fire:
 
 [[MSRA](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210083)] Attention-driven Factor Model for Explainable Personalized Recommendation [__`per.`__,__`int.`__,__`att.`__,__`fe.`__]
 
@@ -465,11 +465,11 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](http://papers.www2017.com.au.s3.amazonaws.com/companion/p769.pdf)] Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems [__`fe.`__,__`mlp.`__,__`sca.`__] :yellow_heart:
 
-[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Memory Networks for Recommendation [__`fe.`__,__`att.`__] :star:
+[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Memory Networks for Recommendation [__`fe.`__,__`att.`__] :fire:
 
 [[Google & Pinterest](http://www.alexbeutel.com/papers/www2017_focused_learning.pdf)] Beyond Globally Optimal: Focused Learning for Improved Recommendations [__`imb.`__, __`kg.`__,__`cs.`__] :star:
 
-[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__,__`dyn.`__,__`sca.`__] :star:
+[[Yahoo Lab](https://arxiv.org/pdf/1607.06182.pdf)] Streaming Recommender Systems [__`seq.`__,__`dyn.`__,__`sca.`__] :fire:
 
 [[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
 
@@ -551,7 +551,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
 
-[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__,__`fe.`__] :star:
+[[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__,__`fe.`__] :fire:
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire:
 
@@ -605,7 +605,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080774)] Cross-Domain Recommendation via Clustering on Multi-Layer Graphs [__`tra.`__,__`kg.`__,__`net.`__]
 
-[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__] :star:
+[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__] :fire:
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080778)] Personalized Itinerary Recommendation with Queuing Time Awareness [__`geo.`__,__`per.`__,__`img.`__,__`net.`__]
 
@@ -623,7 +623,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users [__`geo`__,__`per.`__, __`dyn.`__]
 
-[[KDD](http://wnzhang.net/papers/dadm-kdd.pdf)] Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors' Demonstration. [__`att.`__,__`cnn.`__,__`per.`__,__`kg.`__] :star:
+[[KDD](http://wnzhang.net/papers/dadm-kdd.pdf)] Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors' Demonstration. [__`att.`__,__`cnn.`__,__`per.`__,__`kg.`__] :fire:
 
 [[KDD](http://chaozhang.org/papers/2017-kdd-poi-recommendation.pdf)] Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. [__`imb.`__,__`cs.`__,__`geo.`__,__`fe.`__,__`mt.`__] :fire:
 
