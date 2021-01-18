@@ -21,6 +21,10 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [2017](#in_2017)
   * [2016](#in_2016)
 * [Academic Papers](#academic-papers)
+  * [2019](#ac_2019)
+  * [2018](#ac_2018)
+  * [2017](#ac_2017)
+  * [2015](#ac_2015)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
 
@@ -518,6 +522,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)] Deep neural networks for youtube recommendations. [__`mlp.`__,__`sca.`__, __`fe.`__] :fire:
 
 ## Academic Papers
+
+<a name="ac_2019"></a>
 ### 2019
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664)] Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning [__`bia.`__]
 
@@ -553,6 +559,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[ICML](http://proceedings.mlr.press/v97/wang19n/wang19n.pdf)] Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random [__`mt.`__,__`imb.`__,__`bia.`__]
 
+<a name="ac_2018"></a>
 ### 2018
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
 
@@ -632,7 +639,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1807.01473.pdf)] Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [__`seq.`__,__`drl.`__,__`rnn.`__] :star:
 
-
+<a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
 
@@ -714,6 +721,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)] Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. [__`kg.`__,__`net.`__,__`mlp.`__,__`fe.`__] :fire:
 
+<a name="ac_2015"></a>
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`kg.`__,__`dyn.`__,__`mlp.`__,__`fe.`__] :star:
 
