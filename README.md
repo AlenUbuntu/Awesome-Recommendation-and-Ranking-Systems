@@ -737,6 +737,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`kg.`__,__`dyn.`__,__`mlp.`__,__`fe.`__] :star:
 
+[[WWW](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)] AutoRec: Autoencoders Meet Collaborative Filtering [__`ae.`__,__`fe.`__] :fire:
+
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
 [Taming Pretrained Transformers for Extreme Multi-label Text Classification](https://dl.acm.org/doi/pdf/10.1145/3394486.3403368), Amazon, KDD, 2020.
