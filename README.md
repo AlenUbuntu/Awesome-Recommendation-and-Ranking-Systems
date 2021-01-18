@@ -645,6 +645,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1807.01473.pdf)] Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [__`seq.`__,__`drl.`__,__`rnn.`__] :star:
 
+[[Arxiv](https://arxiv.org/pdf/1802.05814.pdf)] Variational Autoencoders for Collaborative Filtering [__`ae.`__,__`fe.`__] :fire:
+
 <a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
@@ -729,15 +731,31 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0446.pdf)] Tag-Aware Personalized Recommendation Using a Hybrid Deep Model [__`fe.`__,__`sca.`__]
 
+[[KDD](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)] Collaborative Variational Autoencoder for Recommender Systems [__`fe.`__,__`ae.`__] :fire:
+
+[[Arxiv](https://arxiv.org/pdf/1704.00551.pdf)] AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders [__`fe.`__,__`ae.`__] :star:
+
 <a name="ac_2016"></a>
 ### 2016
 [[CIKM](https://zhenghuaxu.info/files/CIKM2016.pdf)] Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling [__`fe.`__,__`sca.`__]
+
+[[Arxiv](https://arxiv.org/pdf/1606.07659.pdf)] Hybrid Recommender System based on Autoencoders [__`fe.`__,__`ae.`__] :fire:
+
+[[WSDM](https://alicezheng.org/papers/wsdm16-cdae.pdf)] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems [__`ae.`__,__`fe.`__] :fire:
+
+[[PAKDD](http://inpluslab.com/chenliang/homepagefiles/paper/hao-pakdd2016.pdf)] Collaborative deep ranking: a hybrid pair-wise recommendation algorithm with implicit feedback [__`ae.`__,__`fe.`__]
+
+[[Arxiv](https://discovery.dundee.ac.uk/ws/files/39505275/Recommendation_system_for_cold_start_items.pdf)] Collaborative filtering and deep learning based hybrid recommendation for cold start problem [__`cs.`__,__`ae.`__,__`fe.`__] 
 
 <a name="ac_2015"></a>
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`kg.`__,__`dyn.`__,__`mlp.`__,__`fe.`__] :star:
 
 [[WWW](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf)] AutoRec: Autoencoders Meet Collaborative Filtering [__`ae.`__,__`fe.`__] :fire:
+
+[[NIPS](https://hal.inria.fr/hal-01256422v1/document)] Collaborative Filtering with Stacked Denoising AutoEncoders and Sparse Inputs [__`fe.`__,__`ae.`__] :fire:
+
+[[KDD](https://arxiv.org/pdf/1409.2944.pdf)] Collaborative Deep Learning for Recommender Systems [__`fe.`__,__`kg.`__,__`ae.`__] :fire:
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
