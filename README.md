@@ -484,11 +484,13 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://arxiv.org/pdf/1803.02349.pdf)] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [__`eco.`__,__`sca.`__,__`imb.`__,__`cs.`__,__`net.`__,__`kg.`__] :fire:
 
-[[Pinterest](https://arxiv.org/pdf/1806.01973.pdf)] Graph Convolutional Neural Networks for Web-Scale Recommender Systems [__`kg.`__,__`gnn.`__,__`sca.`__] :fire:
+[[Pinterest](https://arxiv.org/pdf/1806.01973.pdf)] Graph Convolutional Neural Networks for Web-Scale Recommender Systems [__`kg.`__,__`gnn.`__,__`sca.`__,__`net.`__,__`fe.`__] :fire:
 
 [[JD](https://arxiv.org/pdf/1802.06501.pdf)] Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [__`drl.`__,__`fe.`__] :fire:
 
 [[Alibaba](https://arxiv.org/pdf/1801.02294.pdf)] Learning Tree-based Deep Model for Recommender Systems [__`fe.`__,__`sca.`__] :star:
+
+[[Google AI](https://dl.acm.org/doi/pdf/10.1145/3219819.3219856)]  Collaborative Deep Metric Learning for Video Understanding [__`fe.`__,__`cnn.`__,__`vid.`__]
 
 <a name="in_2017"></a>
 ### 2017
@@ -647,6 +649,12 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://arxiv.org/pdf/1802.05814.pdf)] Variational Autoencoders for Collaborative Filtering [__`ae.`__,__`fe.`__] :fire:
 
+[[IJCAI](https://arxiv.org/pdf/1808.03912.pdf)] Outer Product-based Neural Collaborative Filtering [__`fe.`__,__`cnn.`__] :fire:
+
+[[WSDM](https://arxiv.org/pdf/1809.07426.pdf)] Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [__`per.`__,__`seq.`__,__`cnn.`__,__`fe.`__] :fire:
+
+[[Arxiv](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)] Graph Convolutional Matrix Completion [__`fe.`__,__`gnn.`__,__`kg.`__,__`net.`__] :fire:
+
 <a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
@@ -735,6 +743,12 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://arxiv.org/pdf/1704.00551.pdf)] AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders [__`fe.`__,__`ae.`__] :star:
 
+[[WWWJ](https://www.cs.ccu.edu.tw/~wtchu/papers/2017WWW-chu2.pdf)]  A hybrid recommendation system considering visual information for predicting favorite restaurants. [__`img.`__,__`cnn.`__,__`fe.`__] :star:
+
+[[PAKDD](https://www.ismll.uni-hildesheim.de/pub/pdfs/nguyen17_pakdd.pdf)] Personalized Deep Learning for Tag Recommendation [__`fe.`__,__`cnn.`__,__`per.`__]
+
+[[WSDM](https://arxiv.org/pdf/1701.04783.pdf)] Joint Deep Modeling of Users and Items Using Reviews for Recommendation [__`kg.`__,__`cnn.`__,__`cs.`__,__`int.`__,__`fe.`__] :fire:
+
 <a name="ac_2016"></a>
 ### 2016
 [[CIKM](https://zhenghuaxu.info/files/CIKM2016.pdf)] Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling [__`fe.`__,__`sca.`__]
@@ -747,6 +761,14 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://discovery.dundee.ac.uk/ws/files/39505275/Recommendation_system_for_cold_start_items.pdf)] Collaborative filtering and deep learning based hybrid recommendation for cold start problem [__`cs.`__,__`ae.`__,__`fe.`__] 
 
+[[WWW](https://arxiv.org/pdf/1602.01585.pdf)] Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering [__`fe.`__,__`fas.`__,__`cnn.`__,__`per.`__] :fire:
+
+[[AAAI](https://arxiv.org/pdf/1510.01784.pdf)] VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [__`fe.`__,__`cnn.`__,__`sca.`__,__`cs.`__] :fire:
+
+[[CVPR](https://arxiv.org/pdf/1604.01252.pdf)] Comparative Deep Learning of Hybrid Representations for Image Recommendations [__`fe.`__,__`cnn.`__,__`img.`__] :star:
+ 
+ [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__] :fire:
+ 
 <a name="ac_2015"></a>
 ### 2015
 [[Arxiv](https://arxiv.org/pdf/1511.06443.pdf)] Neural network matrix factorization. [__`kg.`__,__`dyn.`__,__`mlp.`__,__`fe.`__] :star:
