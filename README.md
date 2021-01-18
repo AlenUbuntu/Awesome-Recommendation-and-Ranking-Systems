@@ -20,6 +20,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [2018](#in_2018)
   * [2017](#in_2017)
   * [2016](#in_2016)
+  * [2013](#in_2013)
 * [Academic Papers](#academic-papers)
   * [2019](#ac_2019)
   * [2018](#ac_2018)
@@ -521,6 +522,11 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)] Deep neural networks for youtube recommendations. [__`mlp.`__,__`sca.`__, __`fe.`__] :fire:
 
+[[Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf)] A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems [__`fe.`__,__`sca.`__] :fire:
+
+### 2013
+[[Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data [__`fe.`__,__`sca.`__] :fire:
+
 ## Academic Papers
 
 <a name="ac_2019"></a>
@@ -720,6 +726,12 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[KDD](http://chaozhang.org/papers/2017-kdd-poi-recommendation.pdf)] Bridging Collaborative Filtering and Semi-Supervised Learning: A Neural Approach for POI Recommendation. [__`imb.`__,__`cs.`__,__`geo.`__,__`fe.`__,__`mt.`__] :fire:
 
 [[KDD](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)] Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. [__`kg.`__,__`net.`__,__`mlp.`__,__`fe.`__] :fire:
+
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0446.pdf)] Tag-Aware Personalized Recommendation Using a Hybrid Deep Model [__`fe.`__,__`sca.`__]
+
+<a name="ac_2016"></a>
+### 2016
+[[CIKM](https://zhenghuaxu.info/files/CIKM2016.pdf)] Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling [__`fe.`__,__`sca.`__]
 
 <a name="ac_2015"></a>
 ### 2015
