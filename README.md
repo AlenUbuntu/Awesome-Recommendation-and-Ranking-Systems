@@ -97,6 +97,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3382692), WWW, 2020.
 
+[Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347041), 2019.
+
+[Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf), 2019.
+
 [Microsoft Recommenders](https://dl.acm.org/doi/10.1145/3298689.3346967), Microsoft, RecSys, 2019.
 
 [Are We Evaluating Rigorously? Benchmarking Recommendation for Reproducible Evaluation and Fair Comparison](https://dl.acm.org/doi/pdf/10.1145/3383313.3412489), RecSys, 2020.
@@ -437,6 +441,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3292500.3330726)] Sequential Scenario-Specific Meta Learner for Online Recommendation [__`per.`__,__`tra.`__,__`seq.`__]
 
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3331184.3331211)] Transparent, Scrutable and Explainable User Models for Personalized Recommendation [__`int.`__,__`per.`__]
+
+[[Alibaba](https://arxiv.org/pdf/1907.00687.pdf)] A Capsule Network for Recommendation and Explaining What You Like and Dislike [__`kg.`__,__`fe.`__]
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
@@ -512,6 +520,38 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ## Academic Papers
 ### 2019
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664)] Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning [__`bia.`__]
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330835)] Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation [__`geo.`__,__`net.`__]
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330839)] Streaming Session-based Recommendation [__`seq.`__,__`att.`__]
+
+[[KDD](https://arxiv.org/pdf/1908.00413.pdf)] MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation [__`cs.`__,__`tra.`__]
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330906)] DAML: Dual Attention Mutual Learning between Ratings and Reviews for Item Recommendation [__`att.`__,__`kg.`__,__`fe.`__]
+
+[[KDD](https://arxiv.org/pdf/1906.09217.pdf)] Hierarchical Gating Networks for Sequential Recommendation [__`seq.`__,__`fe.`__,__`per.`__]
+
+[[KDD](https://arxiv.org/pdf/1905.07854.pdf)] KGAT: Knowledge Graph Attention Network for Recommendation [__`kg.`__,__`gnn.`__,__`fe.`__] :fire:
+
+[[KDD](https://arxiv.org/pdf/1905.04413.pdf)] Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems [__`kg.`__,__`gnn.`__,__`fe.`__] :star:
+
+[[KDD](https://arxiv.org/pdf/1907.05559.pdf)] NPA: Neural News Recommendation with Personalized Attention [__`per.`__,__`att.`__,__`cnn.`__]
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3331184.3331254)] Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network [__`fas.`__,__`per.`__,__`mm.`__,__`att.`__,__`int.`__]
+
+[[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3331184.3331192)] An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation [__`tra.`__,__`net.`__]
+
+[[SIGIR](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf)] A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [__`seq.`__,__`fe.`__,__`rnn.`__,__`att.`__]
+
+[[SIGIR](https://arxiv.org/pdf/1904.10322.pdf)] A Neural Influence Diffusion Model for Social Recommendation [__`fe.`__,__`net.`__] :star:
+
+[[SIGIR](https://arxiv.org/pdf/1906.05237.pdf)] Reinforcement Knowledge Graph Reasoning for Explainable Recommendation [__`drl.`__,__`kg.`__,__`int.`__,__`net.`__]
+
+[[SIGIR](https://arxiv.org/pdf/1904.12796.pdf)] Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation [__`att.`__,__`fe.`__]
+
+[[ICML](https://arxiv.org/pdf/1812.10613.pdf)] Generative Adversarial User Model for Reinforcement Learning Based Recommendation System [__`drl.`__,__`adv.`__,__`fe.`__]
+
+[[ICML](http://proceedings.mlr.press/v97/wang19n/wang19n.pdf)] Doubly Robust Joint Learning for Recommendation on Data Missing Not at Random [__`mt.`__,__`imb.`__,__`bia.`__]
 
 ### 2018
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
