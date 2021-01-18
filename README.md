@@ -522,7 +522,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)] Deep neural networks for youtube recommendations. [__`mlp.`__,__`sca.`__, __`fe.`__] :fire:
 
-[[Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf)] A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems [__`fe.`__,__`sca.`__] :fire:
+[[Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf)] A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems [__`fe.`__,__`sca.`__,__`tra.`__] :fire:
 
 ### 2013
 [[Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data [__`fe.`__,__`sca.`__] :fire:
