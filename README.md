@@ -203,7 +203,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba & Microsoft](https://dl.acm.org/doi/pdf/10.1145/3394486.3403329)] Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective [__`seq.`__,__`per.`__,__`fe.`__,__`per.`__]
 
-[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__]
+[[Google](https://dl.acm.org/doi/pdf/10.1145/3394486.3403340)] User Sentiment as a Success Metric: Persistent Biases Under Full Randomization [__`bia.`__,__`kg.`__]
 
 [[Microsoft](https://dl.acm.org/doi/pdf/10.1145/3383313.3412265)] Debiasing Item-to-Item Recommendations With Small Annotated Datasets [__`bia.`__, __`int.`__]
 
@@ -463,6 +463,20 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[MSRA](https://arxiv.org/pdf/1801.08284.pdf)] DKN: Deep Knowledge-Aware Network for News Recommendation [__`kg.`__,__`att.`__,__`per.`__] :fire:
 
+[[Alibaba](https://dl.acm.org/doi/pdf/10.1145/3219819.3220122)] Stabilizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation [__`drl.`__] :star:
+
+[[Google](http://alexbeutel.com/papers/q-and-r-kdd2018.pdf)] Q&R: A Two-Stage Approach towards Interactive Recommendation [__`rnn.`__,__`vid.`__,__`seq.`__]
+
+[[JD](https://arxiv.org/pdf/1808.01075.pdf)] Learning from History and Present: Next-item Recommendation via Discriminatively Exploiting User Behaviors [__`seq.`__,__`rnn.`__,__`fe.`__] :star:
+
+[[Alibaba](https://arxiv.org/pdf/1803.02349.pdf)] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba [__`eco.`__,__`sca.`__,__`imb.`__,__`cs.`__,__`net.`__,__`kg.`__] :fire:
+
+[[Pinterest](https://arxiv.org/pdf/1806.01973.pdf)] Graph Convolutional Neural Networks for Web-Scale Recommender Systems [__`kg.`__,__`gnn.`__,__`sca.`__] :fire:
+
+[[JD](https://arxiv.org/pdf/1802.06501.pdf)] Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning [__`drl.`__,__`fe.`__] :fire:
+
+[[Alibaba](https://arxiv.org/pdf/1801.02294.pdf)] Learning Tree-based Deep Model for Recommender Systems [__`fe.`__,__`sca.`__] :star:
+
 <a name="in_2017"></a>
 ### 2017
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
@@ -566,6 +580,19 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WWW](https://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)] DRN: A Deep Reinforcement Learning Framework for News Recommendation [__`drl.`__,__`dyn.`__] :fire:
 
+[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`kg.`__,__`att.`__,__`fe.`__] :fire:
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3219819.3220072)] Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems [__`int.`__]
+
+[[KDD](https://arxiv.org/pdf/1809.07428.pdf)] Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System [__`tra.`__,__`ran.`__]
+
+[[KDD](https://arxiv.org/pdf/1801.09251.pdf)] Multi-Pointer Co-Attention Networks for Recommendation [__`kg.`__,__`fe.`__,__`att.`__] :fire:
+
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3219819.3220004)] Neural Memory Streaming Recommender Networks with Adversarial Training [__`seq.`__,__`adv.`__,__`fe.`__] :star:
+
+[[KDD](https://arxiv.org/pdf/1807.01473.pdf)] Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [__`seq.`__,__`drl.`__,__`rnn.`__] :star:
+
+
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
 
@@ -597,7 +624,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109887)] Fairness-Aware Group Recommendation with Pareto-Efficiency [__`bia.`__,__`mt.`__,__`ee.`__] :star:
 
-[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109905)] A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews [__`fe.`__]
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109905)] A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews [__`fe.`__,__`kg.`__]
 
 [[RecSys](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)] entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation [__`kg.`__,__`ran.`__,__`fe.`__] :star:
 
@@ -639,7 +666,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__] :fire:
 
-[[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users [__`geo`__,__`per.`__, __`dyn.`__]
+[[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users [__`geo`__,__`per.`__, __`dyn.`__,__`kg.`__]
 
 [[KDD](http://wnzhang.net/papers/dadm-kdd.pdf)] Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors' Demonstration. [__`att.`__,__`cnn.`__,__`per.`__,__`kg.`__] :fire:
 
