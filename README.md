@@ -777,6 +777,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://arxiv.org/pdf/1711.06632.pdf)] ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [__`att.`__,__`fe.`__] :fire:
 
+[[IJCAI](http://qizhang.info/paper/ijcai2017hashtag.pdf)] Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network [__`att.`__,__`mm.`__] :star:
+
 <a name="ac_2016"></a>
 ### 2016
 [[CIKM](https://zhenghuaxu.info/files/CIKM2016.pdf)] Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling [__`fe.`__,__`sca.`__]
