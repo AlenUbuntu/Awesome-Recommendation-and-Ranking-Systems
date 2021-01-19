@@ -20,6 +20,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [2018](#in_2018)
   * [2017](#in_2017)
   * [2016](#in_2016)
+  * [2015](#in_2015)
   * [2013](#in_2013)
 * [Academic Papers](#academic-papers)
   * [2019](#ac_2019)
@@ -95,6 +96,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 ### Sequence
 [Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018.
+[Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf), 2018.
 
 <a name="Survey_Others"></a>
 ### Others
@@ -516,7 +518,13 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[layers6.ai](https://proceedings.neurips.cc/paper/2017/file/dbd22ba3bd0df8f385bdac3e9f8be207-Paper.pdf)] DropoutNet: Addressing Cold Start in Recommender Systems [__`cs.`__, __`fe.`__] :star:
 
-[[Yahoo](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)] Embedding-based News Recommendation for Millions of Users [__`sca.`__,__`hyb.`__,__`fe.`__] :fire:
+[[Yahoo](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1933.pdf)] Embedding-based News Recommendation for Millions of Users [__`sca.`__,__`hyb.`__,__`fe.`__,__`rnn.`__,__`seq.`__] :fire:
+
+[[LinkedIn & Google](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/rrn_wsdm2017.pdf)] Recurrent Recommender Networks [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
+
+[[Google Research](https://openreview.net/pdf?id=Bkv9FyHYx)] Joint Training of Ratings and Reviews with Recurrent Recommender Networks [__`mt.`__,__`seq.`__,__`rnn.`__,__`fe.`__] 
+
+[[LinkedIn & Amazon ML](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p515-jing.pdf)] Neural Survival Recommender [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
 
 <a name="in_2016"></a>
 ### 2016
@@ -526,6 +534,14 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft Research](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1159-songA.pdf)] A Multi-View Deep Learning Approach for Cross Domain User Modeling in Recommendation Systems [__`fe.`__,__`sca.`__,__`tra.`__] :fire:
 
+[[Netflix](https://arxiv.org/pdf/1511.06939.pdf)] Session-based recommendations with recurrent neural networks. [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
+
+[[NetEase](https://cfm.uestc.edu.cn/~zhangdongxiang/papers/ICDE16_industry_231.pdf)] Personal Recommendation Using Deep Recurrent Neural Networks in NetEase [__`seq.`__,__`rnn.`__,__`fe.`__,__`per.`__] :fire:
+
+<a name="in_2015"></a>
+### 2015
+
+<a name="in_2013"></a>
 ### 2013
 [[Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data [__`fe.`__,__`sca.`__] :fire:
 
@@ -713,7 +729,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080774)] Cross-Domain Recommendation via Clustering on Multi-Layer Graphs [__`tra.`__,__`kg.`__,__`net.`__]
 
-[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__, __`seq.`__] :fire:
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080778)] Personalized Itinerary Recommendation with Queuing Time Awareness [__`geo.`__,__`per.`__,__`img.`__,__`net.`__]
 
@@ -749,6 +765,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WSDM](https://arxiv.org/pdf/1701.04783.pdf)] Joint Deep Modeling of Users and Items Using Reviews for Recommendation [__`kg.`__,__`cnn.`__,__`cs.`__,__`int.`__,__`fe.`__] :fire:
 
+[[Arxiv](https://arxiv.org/pdf/1706.03847.pdf)] Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [__`seq.`__,__`rnn.`__,__`fe.`__,__`ran.`__] :fire:
+
+[[DLRS](https://arxiv.org/pdf/1706.07684.pdf)] Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks [__`seq.`__,__`fe.`__,__`rnn.`__] :star:
+
 <a name="ac_2016"></a>
 ### 2016
 [[CIKM](https://zhenghuaxu.info/files/CIKM2016.pdf)] Tag-Aware Personalized Recommendation Using a Deep-Semantic Similarity Model with Negative Sampling [__`fe.`__,__`sca.`__]
@@ -768,6 +788,16 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[CVPR](https://arxiv.org/pdf/1604.01252.pdf)] Comparative Deep Learning of Hybrid Representations for Image Recommendations [__`fe.`__,__`cnn.`__,__`img.`__] :star:
  
  [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__] :fire:
+ 
+ [[Arxiv](https://arxiv.org/pdf/1606.08117.pdf)] Improved Recurrent Neural Networks for Session-based Recommendations [__`fe.`__,__`rnn.`__,__`seq.`__] :fire:
+ 
+ [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/2959100.2959167)] Parallel Recurrent Neural Network Architectures for Feature-rich Session-based Recommendations [__`fe.`__,__`seq.`__,__`rnn.`__]
+ 
+ [[RecSys](https://www.cc.gatech.edu/~lsong/papers/DaiWanTriSon16.pdf)] Recurrent coevolutionary latent feature processes for continuous-time recommendation [__`seq.`__,__`rnn.`__,__`fe.`__]
+ 
+ [[RecSys](https://arxiv.org/pdf/1609.02116.pdf)] Ask the GRU: Multi-Task Learning for Deep Text Recommendations [__`seq.`__,__`rnn.`__,__`mt.`__,__`cs.`__] :fire:
+ 
+ [[SIGIR](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf)] Multi-rate deep learning for temporal recommendation [__`seq.`__,__`rnn.`__,__`sca.`__,__`dyn.`__] :fire:
  
 <a name="ac_2015"></a>
 ### 2015
