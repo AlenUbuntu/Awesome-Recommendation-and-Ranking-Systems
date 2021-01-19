@@ -651,7 +651,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WWW](https://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)] DRN: A Deep Reinforcement Learning Framework for News Recommendation [__`drl.`__,__`dyn.`__] :fire:
 
-[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`kg.`__,__`att.`__,__`fe.`__] :fire:
+[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`kg.`__,__`att.`__,__`fe.`__,__`net.`__] :fire:
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3219819.3220072)] Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems [__`int.`__]
 
@@ -676,8 +676,6 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0546.pdf)] Sequential Recommender System based on Hierarchical Attention Network [__`seq.`__,__`att.`__,__`fe.`__] :fire:
 
 [[Arxiv](https://arxiv.org/pdf/1808.06414.pdf)] Next Item Recommendation with Self-Attention [__`att.`__,__`seq.`__] :star:
-
-[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`att.`__,__`kg.`__,__`net.`__]
 
 <a name="ac_2017"></a>
 ### 2017
@@ -780,6 +778,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Arxiv](https://arxiv.org/pdf/1711.06632.pdf)] ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [__`att.`__,__`fe.`__] :fire:
 
 [[IJCAI](http://qizhang.info/paper/ijcai2017hashtag.pdf)] Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network [__`att.`__,__`mm.`__] :star:
+
+[[SIGIR](https://www.cse.scu.edu/~yfang/NCN.pdf)] Neural Citation Network for Context-Aware Citation Recommendation [__`att.`__,__`net.`__] :star:
 
 <a name="ac_2016"></a>
 ### 2016
