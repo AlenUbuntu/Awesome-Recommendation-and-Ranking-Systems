@@ -671,6 +671,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)] Graph Convolutional Matrix Completion [__`fe.`__,__`gnn.`__,__`kg.`__,__`net.`__] :fire:
 
+[[WWW](https://arxiv.org/pdf/1707.05176.pdf)] Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking [__`att.`__,__`ran.`__,__`fe.`__] :fire:
+
+[[IJCAI](https://www.ijcai.org/Proceedings/2018/0546.pdf)] Sequential Recommender System based on Hierarchical Attention Network [__`seq.`__,__`att.`__,__`fe.`__] :fire:
+
 <a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
@@ -798,6 +802,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
  [[RecSys](https://arxiv.org/pdf/1609.02116.pdf)] Ask the GRU: Multi-Task Learning for Deep Text Recommendations [__`seq.`__,__`rnn.`__,__`mt.`__,__`cs.`__] :fire:
  
  [[SIGIR](http://sonyis.me/paperpdf/spr209-song_sigir16.pdf)] Multi-rate deep learning for temporal recommendation [__`seq.`__,__`rnn.`__,__`sca.`__,__`dyn.`__] :fire:
+ 
+ [[COLING](https://www.aclweb.org/anthology/C16-1284.pdf)] Hashtag Recommendation with Topical Attention-Based LSTM [__`att.`__,__`rnn.`__,__`fe.`__] :star:
+ 
+ [[IJCAI](https://www.ijcai.org/Proceedings/16/Papers/395.pdf)] Hashtag Recommendation Using Attention-Based Convolutional Neural Network [__`att.`__,__`cnn.`__,__`fe.`__] :fire:
  
 <a name="ac_2015"></a>
 ### 2015
