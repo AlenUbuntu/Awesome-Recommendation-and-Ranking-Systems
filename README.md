@@ -13,6 +13,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [Feature Engineering](#Survey_FE)
   * [Personalization](#Survey_Personalization)
   * [Sequence](#Survey_Sequence)
+  * [Transfer and Multi-Task](#Survey_Transfer)
   * [Others](#Survey_Others)
 * [Industry Papers](#industry-papers)
   * [2020](#in_2020)
@@ -20,12 +21,12 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
   * [2018](#in_2018)
   * [2017](#in_2017)
   * [2016](#in_2016)
-  * [2015](#in_2015)
   * [2013](#in_2013)
 * [Academic Papers](#academic-papers)
   * [2019](#ac_2019)
   * [2018](#ac_2018)
   * [2017](#ac_2017)
+  * [2016](#ac_2016)
   * [2015](#ac_2015)
 * [Special Topics](#special-topics)
   * [Transformers in Recommendation/Ranking System](#transformers-in-recommendation-and-ranking-system)
@@ -94,17 +95,27 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [User Preferences in Recommendation Algorithms - The influence of user diversity, trust, and product category on privacy perceptions in recommender](https://dl.acm.org/doi/pdf/10.1145/3240323.3240393), 2018.
 
+<a name="Survey_Sequence"></a>
 ### Sequence
+[Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347041), 2019.
+
+[A Survey on Session-based Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf), 2019.
+
 [Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018.
+
 [Evaluation of Session-based Recommendation Algorithms](https://arxiv.org/pdf/1803.09587.pdf), 2018.
+
+[Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018. - [Slides](https://www.slideshare.net/MassimoQuadrana/tutorial-on-sequence-aware-recommender-systems-acm-recsys-2018), [Code](https://github.com/mquad/sars_tutorial/)
+
+<a name="Survey_Transfer"></a>
+### Transfer and Multi-Task
+[Cross Domain Recommender Systems: A Systematic Literature Review](https://dl.acm.org/doi/pdf/10.1145/3073565), 2017.
 
 <a name="Survey_Others"></a>
 ### Others
 [How Well Do People Report Time Spent on Facebook? An Evaluation of Established Survey Questions with Recommendations](https://dl.acm.org/doi/pdf/10.1145/3313831.3376435), 2020.
 
 [Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3366424.3382692), WWW, 2020.
-
-[Performance Comparison of Neural and Non-Neural Approaches to Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3298689.3347041), 2019.
 
 [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/pdf/1907.06902.pdf), 2019.
 
@@ -120,15 +131,11 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [Recommender Systems for the Internet of Things: A Survey](https://arxiv.org/pdf/2007.06758.pdf), 2020.
 
-[A Survey on Session-based Recommender Systems](https://arxiv.org/pdf/1902.04864.pdf), 2019.
-
 [Tour recommendation and trip planning using location-based social media: a survey](https://link.springer.com/content/pdf/10.1007/s10115-018-1297-4.pdf), 2019.
 
 [Deep Learning based Recommender System: A Survey and New Perspectives](https://dl.acm.org/doi/pdf/10.1145/3285029). 2019.
 
 [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/pdf/10.1145/3292500.3330744), Booking.com, KDD, 2019.
-
-[Sequence-Aware Recommender Systems](https://arxiv.org/pdf/1802.08452.pdf), 2018. - [Slides](https://www.slideshare.net/MassimoQuadrana/tutorial-on-sequence-aware-recommender-systems-acm-recsys-2018), [Code](https://github.com/mquad/sars_tutorial/)
 
 [A Survey of Recommender Systems Based on Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529185), 2018.
 
@@ -540,9 +547,6 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Microsoft](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)] Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features [__`fe.`__,__`cnn.`__] :fire:
 
-<a name="in_2015"></a>
-### 2015
-
 <a name="in_2013"></a>
 ### 2013
 [[Microsoft](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf)] Learning Deep Structured Semantic Models for Web Search using Clickthrough Data [__`fe.`__,__`sca.`__] :fire:
@@ -782,6 +786,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[IJCAI](http://qizhang.info/paper/ijcai2017hashtag.pdf)] Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network [__`att.`__,__`mm.`__] :star:
 
 [[SIGIR](https://www.cse.scu.edu/~yfang/NCN.pdf)] Neural Citation Network for Context-Aware Citation Recommendation [__`att.`__,__`net.`__,__`kg.`__] :star:
+
+[[CIKM](https://dl.acm.org/doi/pdf/10.1145/3132847.3132892)] Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources [__`mm`__] :fire:
 
 <a name="ac_2016"></a>
 ### 2016
