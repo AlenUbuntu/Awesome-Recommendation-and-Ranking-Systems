@@ -36,7 +36,7 @@ Recent advances in recommendation and ranking systems. We only focus on papers p
 __`sca.`__: scalability &emsp; | &emsp; __`ee.`__: exploit and explore &emsp; | &emsp; __`ret.`__: retrieval &emsp; | &emsp; __`ran.`__: ranking    
 __`per.`__: personalization &emsp; | &emsp; __`seq.`__: sequential info &emsp; | &emsp; __`int.`__: interpretability &emsp; | &emsp; __`cs.`__: cold start     
 __`imb.`__: imbalance and long-tail &emsp; | &emsp; __`bia.`__: bias correction, fairness, and quality &emsp; | &emsp; __`pri.`__: privacy    
-__`kg.`__: knowledge graph and side information &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
+__`kg.`__: knowledge graph, side information and implicit feedback &emsp; | &emsp; __`tra.`__: transfer learning &emsp; | &emsp; __`mt.`__ multi-task    
 __`fe.`__: feature engineering &emsp; | &emsp; __`ads.`__: computational ads &emsp; | &emsp; __`geo.`__: travel and delivery    
 __`dyn.`__: dynamic &emsp; | &emsp; __`fas.`__: fashion &emsp; | &emsp; __`eco.`__: e-commerce    
 __`oth`__: other topics including model selection, multi-label, command recommendation, crowdsourcing labeling, hyper-parameter tuning...
@@ -522,7 +522,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[LinkedIn & Google](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/rrn_wsdm2017.pdf)] Recurrent Recommender Networks [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
 
-[[Google Research](https://openreview.net/pdf?id=Bkv9FyHYx)] Joint Training of Ratings and Reviews with Recurrent Recommender Networks [__`mt.`__,__`seq.`__,__`rnn.`__,__`fe.`__] 
+[[Google Research](https://openreview.net/pdf?id=Bkv9FyHYx)] Joint Training of Ratings and Reviews with Recurrent Recommender Networks [__`mt.`__,__`seq.`__,__`rnn.`__,__`fe.`__,__`kg.`__] 
 
 [[LinkedIn & Amazon ML](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p515-jing.pdf)] Neural Survival Recommender [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
 
@@ -639,7 +639,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210016)] Streaming Ranking Based Recommender Systems [__`seq.`__,__`ret.`__,__`sca.`__]
 
-[[WWW](https://dl.acm.org/doi/pdf/10.1145/3178876.3186158)] Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [__`mt.`__,__`att.`__,__`rnn.`__,__`int.`__] :star:
+[[WWW](https://dl.acm.org/doi/pdf/10.1145/3178876.3186158)] Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews [__`mt.`__,__`att.`__,__`rnn.`__,__`int.`__, __`kg.`__] :star:
 
 [[WWW](https://dl.acm.org/doi/pdf/10.1145/3178876.3186140)] Algorithmic Glass Ceiling in Social Networks: The effects of social recommendations on network diversity [__`bia.`__,__`ee.`__]
 
@@ -675,6 +675,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0546.pdf)] Sequential Recommender System based on Hierarchical Attention Network [__`seq.`__,__`att.`__,__`fe.`__] :fire:
 
+[[Arxiv](https://arxiv.org/pdf/1808.06414.pdf)] Next Item Recommendation with Self-Attention [__`att.`__,__`seq.`__] :star:
+
 <a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
@@ -707,7 +709,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109887)] Fairness-Aware Group Recommendation with Pareto-Efficiency [__`bia.`__,__`mt.`__,__`ee.`__] :star:
 
-[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109905)] A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews [__`fe.`__,__`kg.`__]
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109905)] A Multi-criteria Recommender System Exploiting Aspect-based Sentiment Analysis of Users’ Reviews [__`fe.`__,__`kg.`__,__`per.`__,__`bia.`__]
 
 [[RecSys](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)] entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation [__`kg.`__,__`ran.`__,__`fe.`__] :star:
 
@@ -743,7 +745,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098173)] Post Processing Recommender Systems for Diversity [__`ee.`__] 
 
-[[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`per.`__,__`fe.`__] :star:
+[[KDD](https://www.cs.uic.edu/~liub/publications/FINAL_aspect_recommendations.pdf)] Aspect Based Recommendations: Recommending Items with the Most Valuable Aspects Based on User Reviews [__`per.`__,__`fe.`__,__`kg.`__] :star:
 
 [[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__,__`dyn.`__] 
 
@@ -772,6 +774,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Arxiv](https://arxiv.org/pdf/1706.03847.pdf)] Recurrent Neural Networks with Top-k Gains for Session-based Recommendations [__`seq.`__,__`rnn.`__,__`fe.`__,__`ran.`__] :fire:
 
 [[DLRS](https://arxiv.org/pdf/1706.07684.pdf)] Contextual Sequence Modeling for Recommendation with Recurrent Neural Networks [__`seq.`__,__`fe.`__,__`rnn.`__] :star:
+
+[[Arxiv](https://arxiv.org/pdf/1711.06632.pdf)] ATRank: An Attention-Based User Behavior Modeling Framework for Recommendation [__`att.`__,__`fe.`__] :fire:
 
 <a name="ac_2016"></a>
 ### 2016
