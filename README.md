@@ -498,7 +498,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2017
 [[HuaWei](https://arxiv.org/pdf/1703.04247.pdf)] DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [__`mlp.`__,__`ads.`__, __`fe.`__] :fire:
 
-[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__, __`fe.`__] :star:
+[[Microsoft Research](https://www.microsoft.com/en-us/research/uploads/prod/2019/07/pp004-lian.pdf)] CCCFNet: A Content-Boosted Collaborative Filtering Neural Network for Cross Domain Recommender Systems [__`tra.`__,__`mlp.`__, __`fe.`__,__`kg.`__] :star:
 
 [[Alibaba](http://papers.www2017.com.au.s3.amazonaws.com/companion/p769.pdf)] Locally Connected Deep Learning Framework for Industrial-scale Recommender Systems [__`fe.`__,__`mlp.`__,__`sca.`__] :yellow_heart:
 
@@ -537,6 +537,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Netflix](https://arxiv.org/pdf/1511.06939.pdf)] Session-based recommendations with recurrent neural networks. [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
 
 [[NetEase](https://cfm.uestc.edu.cn/~zhangdongxiang/papers/ICDE16_industry_231.pdf)] Personal Recommendation Using Deep Recurrent Neural Networks in NetEase [__`seq.`__,__`rnn.`__,__`fe.`__,__`per.`__] :fire:
+
+[[Microsoft](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)] Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features [__`fe.`__,__`cnn.`__] :fire:
 
 <a name="in_2015"></a>
 ### 2015
@@ -735,7 +737,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080774)] Cross-Domain Recommendation via Clustering on Multi-Layer Graphs [__`tra.`__,__`kg.`__,__`net.`__]
 
-[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__, __`seq.`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1708.00154.pdf)] Neural Rating Regression with Abstractive Tips Generation for Recommendation [__`eco.`__,__`mt.`__,__`rnn.`__, __`seq.`__,__`kg.`__] :fire:
 
 [[SIGIR](https://dl.acm.org/doi/pdf/10.1145/3077136.3080778)] Personalized Itinerary Recommendation with Queuing Time Awareness [__`geo.`__,__`per.`__,__`img.`__,__`net.`__]
 
@@ -763,7 +765,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)] Collaborative Variational Autoencoder for Recommender Systems [__`fe.`__,__`ae.`__] :fire:
 
-[[Arxiv](https://arxiv.org/pdf/1704.00551.pdf)] AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders [__`fe.`__,__`ae.`__] :star:
+[[Arxiv](https://arxiv.org/pdf/1704.00551.pdf)] AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders [__`fe.`__,__`ae.`__,__`kg.`__] :star:
 
 [[WWWJ](https://www.cs.ccu.edu.tw/~wtchu/papers/2017WWW-chu2.pdf)]  A hybrid recommendation system considering visual information for predicting favorite restaurants. [__`img.`__,__`cnn.`__,__`fe.`__] :star:
 
@@ -779,7 +781,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IJCAI](http://qizhang.info/paper/ijcai2017hashtag.pdf)] Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network [__`att.`__,__`mm.`__] :star:
 
-[[SIGIR](https://www.cse.scu.edu/~yfang/NCN.pdf)] Neural Citation Network for Context-Aware Citation Recommendation [__`att.`__,__`net.`__] :star:
+[[SIGIR](https://www.cse.scu.edu/~yfang/NCN.pdf)] Neural Citation Network for Context-Aware Citation Recommendation [__`att.`__,__`net.`__,__`kg.`__] :star:
 
 <a name="ac_2016"></a>
 ### 2016
@@ -789,17 +791,17 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WSDM](https://alicezheng.org/papers/wsdm16-cdae.pdf)] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems [__`ae.`__,__`fe.`__] :fire:
 
-[[PAKDD](http://inpluslab.com/chenliang/homepagefiles/paper/hao-pakdd2016.pdf)] Collaborative deep ranking: a hybrid pair-wise recommendation algorithm with implicit feedback [__`ae.`__,__`fe.`__]
+[[PAKDD](http://inpluslab.com/chenliang/homepagefiles/paper/hao-pakdd2016.pdf)] Collaborative deep ranking: a hybrid pair-wise recommendation algorithm with implicit feedback [__`ae.`__,__`fe.`__, __`kg.`__]
 
 [[Arxiv](https://discovery.dundee.ac.uk/ws/files/39505275/Recommendation_system_for_cold_start_items.pdf)] Collaborative filtering and deep learning based hybrid recommendation for cold start problem [__`cs.`__,__`ae.`__,__`fe.`__] 
 
 [[WWW](https://arxiv.org/pdf/1602.01585.pdf)] Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering [__`fe.`__,__`fas.`__,__`cnn.`__,__`per.`__] :fire:
 
-[[AAAI](https://arxiv.org/pdf/1510.01784.pdf)] VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [__`fe.`__,__`cnn.`__,__`sca.`__,__`cs.`__] :fire:
+[[AAAI](https://arxiv.org/pdf/1510.01784.pdf)] VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback [__`fe.`__,__`cnn.`__,__`sca.`__,__`cs.`__,__`kg.`__] :fire:
 
 [[CVPR](https://arxiv.org/pdf/1604.01252.pdf)] Comparative Deep Learning of Hybrid Representations for Image Recommendations [__`fe.`__,__`cnn.`__,__`img.`__] :star:
  
- [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__] :fire:
+ [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__,__`kg.`__] :fire:
  
  [[Arxiv](https://arxiv.org/pdf/1606.08117.pdf)] Improved Recurrent Neural Networks for Session-based Recommendations [__`fe.`__,__`rnn.`__,__`seq.`__] :fire:
  
@@ -814,6 +816,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
  [[COLING](https://www.aclweb.org/anthology/C16-1284.pdf)] Hashtag Recommendation with Topical Attention-Based LSTM [__`att.`__,__`rnn.`__,__`fe.`__] :star:
  
  [[IJCAI](https://www.ijcai.org/Proceedings/16/Papers/395.pdf)] Hashtag Recommendation Using Attention-Based Convolutional Neural Network [__`att.`__,__`cnn.`__,__`fe.`__] :fire:
+ 
+ [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/2959100.2959162)] Modelling Contextual Information in Session-Aware Recommender Systems with Neural Networks [__`seq.`__,__`kg.`__,__`rnn.`__] :star:
+ 
+ [[WWW](http://www.cs.cornell.edu/~ylongqi/paper/HsiehYWNE16.pdf)] Immersive recommendation: News and event recommendations using personal digital traces [__`per.`__,__`kg.`__] :star:
  
 <a name="ac_2015"></a>
 ### 2015
