@@ -531,7 +531,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Google Research](https://openreview.net/pdf?id=Bkv9FyHYx)] Joint Training of Ratings and Reviews with Recurrent Recommender Networks [__`mt.`__,__`seq.`__,__`rnn.`__,__`fe.`__,__`kg.`__] 
 
-[[LinkedIn & Amazon ML](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p515-jing.pdf)] Neural Survival Recommender [__`seq.`__,__`rnn.`__,__`fe.`__] :fire:
+[[LinkedIn & Amazon ML](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p515-jing.pdf)] Neural Survival Recommender [__`seq.`__,__`rnn.`__,__`fe.`__,__`mt.`__] :fire:
 
 <a name="in_2016"></a>
 ### 2016
