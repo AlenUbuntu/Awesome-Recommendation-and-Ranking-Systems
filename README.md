@@ -677,6 +677,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://arxiv.org/pdf/1808.06414.pdf)] Next Item Recommendation with Self-Attention [__`att.`__,__`seq.`__] :star:
 
+[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`att.`__,__`kg.`__,__`net.`__]
+
 <a name="ac_2017"></a>
 ### 2017
 [[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
