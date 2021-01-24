@@ -537,9 +537,11 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[LinkedIn & Amazon ML](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p515-jing.pdf)] Neural Survival Recommender [__`seq.`__,__`rnn.`__,__`fe.`__,__`mt.`__] :fire:
 
+[[Google](https://arxiv.org/pdf/1708.05123.pdf)] Deep & Cross Network for Ad Click Predictions [__`fe.`__,__`mlp.`__] :fire: :heart_eyes:
+
 <a name="in_2016"></a>
 ### 2016
-[[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire:
+[[Google](https://arxiv.org/pdf/1606.07792.pdf)] Wide & Deep Learning for Recommender Systems [__`mlp.`__, __`fe.`__] :fire: :heart_eyes:
 
 [[Google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)] Deep neural networks for youtube recommendations. [__`mlp.`__,__`sca.`__, __`fe.`__] :fire:
 
@@ -549,7 +551,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[NetEase](https://cfm.uestc.edu.cn/~zhangdongxiang/papers/ICDE16_industry_231.pdf)] Personal Recommendation Using Deep Recurrent Neural Networks in NetEase [__`seq.`__,__`rnn.`__,__`fe.`__,__`per.`__] :fire:
 
-[[Microsoft](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)] Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features [__`fe.`__,__`cnn.`__] :fire:
+[[Microsoft](https://www.kdd.org/kdd2016/papers/files/adf0975-shanA.pdf)] Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features [__`fe.`__,__`cnn.`__] :fire: :heart_eyes:
 
 <a name="in_2013"></a>
 ### 2013
