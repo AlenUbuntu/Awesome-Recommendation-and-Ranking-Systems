@@ -50,7 +50,7 @@ __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &e
 
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
-Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting &emsp;|&emsp; :white_check_mark: claims reproducible &emsp;|&emsp; :x: report to be overclaimed or non-reproducible
+Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting &emsp;|&emsp; :x: overclaimed or non-reproducible &emsp;|&emsp; :heart_eyes: verified effective model
 
 
 ## Survey
@@ -321,6 +321,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="in_2019"></a>
 ### 2019
+[[Netflix](https://arxiv.org/pdf/1905.03375.pdf)] Embarrassingly Shallow Autoencoders for Sparse Data [__`fe.`__,__`ae.`__] :heart_eyes:
+
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
 
 [[NAVER Corp.](https://arxiv.org/pdf/1908.02569.pdf)] Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation [__`gnn`__,__`att.`__,__`sca.`__, __`ads.`__, __`eco.`__]
