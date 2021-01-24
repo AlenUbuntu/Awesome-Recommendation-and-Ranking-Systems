@@ -477,7 +477,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[MSRA](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210083)] Attention-driven Factor Model for Explainable Personalized Recommendation [__`per.`__,__`int.`__,__`att.`__,__`fe.`__]
 
-[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Collaborative Memory Network for Recommendation Systems [__`fe.`__,__`att.`__,__`kg.`__] :fire:
+[[Google](https://arxiv.org/pdf/1804.10862.pdf)] Collaborative Memory Network for Recommendation Systems [__`fe.`__,__`att.`__,__`kg.`__] :fire: :x:
 
 [[LinkedIn](https://arxiv.org/pdf/1809.06481.pdf)] Talent Search and Recommendation Systems at LinkedIn: Practical Challenges and Lessons Learned [__`ran.`__,__`ret.`__] :yellow_heart:
 
@@ -595,7 +595,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="ac_2018"></a>
 ### 2018
-[[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
+[[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__] :x:
 
 [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240383)] RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems [__`seq.`__,__`adv.`__,__`rnn.`__,__`dyn.`__] :x:
 
@@ -661,7 +661,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[WWW](https://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)] DRN: A Deep Reinforcement Learning Framework for News Recommendation [__`drl.`__,__`dyn.`__] :fire:
 
-[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`kg.`__,__`att.`__,__`fe.`__,__`net.`__] :fire:
+[[KDD](http://www.shichuan.org/doc/47.pdf)] Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model [__`kg.`__,__`att.`__,__`fe.`__,__`net.`__] :fire: :x:
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3219819.3220072)] Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems [__`int.`__]
 
@@ -673,9 +673,9 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1807.01473.pdf)] Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation [__`seq.`__,__`drl.`__,__`rnn.`__] :star:
 
-[[Arxiv](https://arxiv.org/pdf/1802.05814.pdf)] Variational Autoencoders for Collaborative Filtering [__`ae.`__,__`fe.`__] :fire:
+[[WWW](https://arxiv.org/pdf/1802.05814.pdf)] Variational Autoencoders for Collaborative Filtering [__`ae.`__,__`fe.`__] :fire: :heart_eyes:
 
-[[IJCAI](https://arxiv.org/pdf/1808.03912.pdf)] Outer Product-based Neural Collaborative Filtering [__`fe.`__,__`cnn.`__] :fire:
+[[IJCAI](https://arxiv.org/pdf/1808.03912.pdf)] Outer Product-based Neural Collaborative Filtering [__`fe.`__,__`cnn.`__] :fire: :x:
 
 [[WSDM](https://arxiv.org/pdf/1809.07426.pdf)] Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding [__`per.`__,__`seq.`__,__`cnn.`__,__`fe.`__] :fire:
 
@@ -693,7 +693,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__,__`fe.`__] :fire:
 
-[[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire:
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire: :x:
 
 [[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp.`__,__`fe.`__] :fire:
 
@@ -759,7 +759,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1703.01442.pdf)] Recurrent Poisson Factorization for Temporal Recommendation [__`seq.`__,__`dyn.`__] 
 
-[[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__] :fire:
+[[KDD](https://dl.acm.org/doi/pdf/10.1145/3097983.3098077)] Collaborative Variational Autoencoder for Recommender Systems [__`imb.`__,__`ae.`__,__`cs.`__, __`fe.`__] :fire: :x:
 
 [[KDD](https://arxiv.org/pdf/1706.06239.pdf)] A Location-Sentiment-Aware Recommender System for Both Home-Town and Out-of-Town Users [__`geo`__,__`per.`__, __`dyn.`__,__`kg.`__]
 
@@ -770,8 +770,6 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[KDD](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)] Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. [__`kg.`__,__`net.`__,__`mlp.`__,__`fe.`__] :fire:
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0446.pdf)] Tag-Aware Personalized Recommendation Using a Hybrid Deep Model [__`fe.`__,__`sca.`__] :x:
-
-[[KDD](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)] Collaborative Variational Autoencoder for Recommender Systems [__`fe.`__,__`ae.`__] :fire:
 
 [[Arxiv](https://arxiv.org/pdf/1704.00551.pdf)] AutoSVD++: An Efficient Hybrid Collaborative Filtering Model via Contractive Auto-encoders [__`fe.`__,__`ae.`__,__`kg.`__] :star:
 
@@ -839,7 +837,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[NIPS](https://hal.inria.fr/hal-01256422v1/document)] Collaborative Filtering with Stacked Denoising AutoEncoders and Sparse Inputs [__`fe.`__,__`ae.`__] :fire:
 
-[[KDD](https://arxiv.org/pdf/1409.2944.pdf)] Collaborative Deep Learning for Recommender Systems [__`fe.`__,__`kg.`__,__`ae.`__] :fire:
+[[KDD](https://arxiv.org/pdf/1409.2944.pdf)] Collaborative Deep Learning for Recommender Systems [__`fe.`__,__`kg.`__,__`ae.`__] :fire: :x:
 
 ## Special Topics
 ### Transformers in Recommendation and Ranking System
