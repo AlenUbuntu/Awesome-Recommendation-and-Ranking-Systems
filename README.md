@@ -519,7 +519,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Pinterest](https://arxiv.org/pdf/1702.07969.pdf)] Related Pins at Pinterest: The Evolution of a Real-World Recommender System. [__`ran.`__,__`ret.`__,__`fe.`__] :star: 
 
-[[Tecent](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)] Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention. [__`fe.`__,__`att.`__,__`mlp.`__] :fire:
+[[Tecent](https://www.comp.nus.edu.sg/~xiangnan/papers/sigir17-AttentiveCF.pdf)] Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention. [__`fe.`__,__`att.`__,__`mlp.`__] :fire: :x:
 
 [[IBM Research](https://dl.acm.org/doi/pdf/10.1145/3077136.3080776)] Personalized Key Frame Recommendation [__`per.`__,__`mm.`__,__`vid.`__] :star:
 
@@ -595,7 +595,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 ### 2018
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0510.pdf)] NeuRec: On Nonlinear Transformation for Personalized Ranking [__`mlp.`__, __`per.`__， __`ran.`__,__`fe.`__]
 
-[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240383)] RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems [__`seq.`__,__`adv.`__,__`rnn.`__,__`dyn.`__]
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240383)] RecGAN: Recurrent Generative Adversarial Networks for Recommendation Systems [__`seq.`__,__`adv.`__,__`rnn.`__,__`dyn.`__] :x:
 
 [[RecSys](https://arxiv.org/pdf/1706.07639.pdf)] Causal Embeddings for Recommendation [__`int.`__,__`tra.`__]
 
@@ -617,7 +617,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://cseweb.ucsd.edu/~jmcauley/pdfs/recsys18a.pdf)] Translation-based Factorization Machines for Sequential Recommendation [__`seq.`__,__`fe.`__,__`sca.`__] :star:
 
-[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240361)] Recurrent Knowledge Graph Embedding for Effective Recommendation [__`kg.`__,__`att.`__,__`rnn.`__,__`fe.`__] :star:
+[[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240361)] Recurrent Knowledge Graph Embedding for Effective Recommendation [__`kg.`__,__`att.`__,__`rnn.`__,__`fe.`__] :star: :x:
 
 [[RecSys](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3240323.3240347)] On the Robustness and Discriminative Power of Information Retrieval Metrics for Top-N Recommendation [__`oth.`__] :star:
 
@@ -635,7 +635,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3209998)] Attentive Group Recommendation [__`cs.`__,__`att.`__,__`fe.`__] :star:
 
-[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210042)] A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation [__`fe.`__,__`geo.`__,__`seq.`__,__`att.`__,__`dyn.`__]
+[[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210042)] A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation [__`fe.`__,__`geo.`__,__`seq.`__,__`att.`__,__`dyn.`__] :x:
 
 [[SIGIR](https://dl-acm-org.libproxy.utdallas.edu/doi/pdf/10.1145/3209978.3210023)] Attentive Recurrent Social Recommendation [__`att.`__,__`fe.`__,__`dyn.`__,__`rnn.`__,__`net.`__] :star:
 
@@ -665,7 +665,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](https://arxiv.org/pdf/1809.07428.pdf)] Ranking Distillation: Learning Compact Ranking Models With High Performance for Recommender System [__`tra.`__,__`ran.`__]
 
-[[KDD](https://arxiv.org/pdf/1801.09251.pdf)] Multi-Pointer Co-Attention Networks for Recommendation [__`kg.`__,__`fe.`__,__`att.`__] :fire:
+[[KDD](https://arxiv.org/pdf/1801.09251.pdf)] Multi-Pointer Co-Attention Networks for Recommendation [__`kg.`__,__`fe.`__,__`att.`__] :fire: :x:
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3219819.3220004)] Neural Memory Streaming Recommender Networks with Adversarial Training [__`seq.`__,__`adv.`__,__`fe.`__] :star:
 
@@ -679,7 +679,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_32.pdf)] Graph Convolutional Matrix Completion [__`fe.`__,__`gnn.`__,__`kg.`__,__`net.`__] :fire:
 
-[[WWW](https://arxiv.org/pdf/1707.05176.pdf)] Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking [__`att.`__,__`ran.`__,__`fe.`__] :fire:
+[[WWW](https://arxiv.org/pdf/1707.05176.pdf)] Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking [__`att.`__,__`ran.`__,__`fe.`__] :fire: :x:
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2018/0546.pdf)] Sequential Recommender System based on Hierarchical Attention Network [__`seq.`__,__`att.`__,__`fe.`__] :fire:
 
@@ -727,7 +727,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p243-sembium.pdf)] Recommending Product Sizes to Customers [__`fas.`__,__`per.`__,__`eco.`__]
 
-[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900)] 3D Convolutional Networks for Session-based Recommendation with Content Features [__`seq.`__,__`cnn.`__,__`fe.`__] :star:
+[[RecSys](https://dl.acm.org/doi/pdf/10.1145/3109859.3109900)] 3D Convolutional Networks for Session-based Recommendation with Content Features [__`seq.`__,__`cnn.`__,__`fe.`__] :star: :x:
 
 [[RecSys](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Modeling%20the%20Assimilation-Contrast%20Effects%20in%20Online%20Product%20Rating%20Systems%20Debiasing%20and%20Recommendations.pdf)] Modeling the Assimilation-Contrast Effects in Online Product Rating Systems: Debiasing and Recommendations [__`bia.`__]
 
@@ -767,7 +767,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[KDD](http://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Meta-Graph%20Based%20Recommendation%20Fusion%20over%20Heterogeneous%20Information%20Networks.pdf)] Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks. [__`kg.`__,__`net.`__,__`mlp.`__,__`fe.`__] :fire:
 
-[[IJCAI](https://www.ijcai.org/Proceedings/2017/0446.pdf)] Tag-Aware Personalized Recommendation Using a Hybrid Deep Model [__`fe.`__,__`sca.`__]
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0446.pdf)] Tag-Aware Personalized Recommendation Using a Hybrid Deep Model [__`fe.`__,__`sca.`__] :x:
 
 [[KDD](https://eelxpeng.github.io/assets/paper/Collaborative_Variational_Autoencoder.pdf)] Collaborative Variational Autoencoder for Recommender Systems [__`fe.`__,__`ae.`__] :fire:
 
@@ -797,7 +797,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Arxiv](https://arxiv.org/pdf/1606.07659.pdf)] Hybrid Recommender System based on Autoencoders [__`fe.`__,__`ae.`__] :fire:
 
-[[WSDM](https://alicezheng.org/papers/wsdm16-cdae.pdf)] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems [__`ae.`__,__`fe.`__] :fire:
+[[WSDM](https://alicezheng.org/papers/wsdm16-cdae.pdf)] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems [__`ae.`__,__`fe.`__] :fire: :x:
 
 [[PAKDD](http://inpluslab.com/chenliang/homepagefiles/paper/hao-pakdd2016.pdf)] Collaborative deep ranking: a hybrid pair-wise recommendation algorithm with implicit feedback [__`ae.`__,__`fe.`__, __`kg.`__]
 
@@ -809,7 +809,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[CVPR](https://arxiv.org/pdf/1604.01252.pdf)] Comparative Deep Learning of Hybrid Representations for Image Recommendations [__`fe.`__,__`cnn.`__,__`img.`__] :star:
  
- [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__,__`kg.`__] :fire:
+ [[RecSys](http://uclab.khu.ac.kr/resources/publication/C_351.pdf)] Convolutional matrix factorization for document context-aware recommendation [__`fe.`__,__`cnn.`__,__`kg.`__] :fire: :x:
  
  [[Arxiv](https://arxiv.org/pdf/1606.08117.pdf)] Improved Recurrent Neural Networks for Session-based Recommendations [__`fe.`__,__`rnn.`__,__`seq.`__] :fire:
  
