@@ -50,7 +50,7 @@ __`att.`__: neural attention &emsp; | &emsp; __`adv.`__: adversarial learning &e
 
 __`txt.`__: text &emsp; | &emsp; __`img.`__: image &emsp; | &emsp; __`aud.`__: audio &emsp; | &emsp; __`vid.`__: video &emsp; | &emsp; __`net.`__: network&emsp; __`mm.`__: multimodal    
 
-Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting
+Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&emsp; :yellow_heart: interesting &emsp;|&emsp; :white_check_mark: claims reproducible &emsp;|&emsp; :x: report to be overclaimed or non-reproducible
 
 
 ## Survey
@@ -687,7 +687,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="ac_2017"></a>
 ### 2017
-[[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire:
+[[WWW](https://arxiv.org/pdf/1708.05031.pdf)] Neural Collaborative Filtering [__`mlp.`__,__`fe.`__] :fire: :x:
 
 [[SIGIR](https://arxiv.org/pdf/1706.03205.pdf)] Item Silk Road: Recommending Items from Information Domains to Social Users [__`mlp.`__,__`tra.`__,__`fe.`__] :fire:
 
