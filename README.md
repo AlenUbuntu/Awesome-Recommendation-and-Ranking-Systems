@@ -697,7 +697,7 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[IJCAI](https://www.ijcai.org/Proceedings/2017/0447.pdf)] Deep Matrix Factorization Models for Recommender Systems [__`mlp.`__,__`fe.`__] :fire: :x:
 
-[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp.`__,__`fe.`__] :fire:
+[[SIGIR](https://arxiv.org/pdf/1708.05027.pdf)] Neural Factorization Machines for Sparse Predictive Analytics [__`mlp.`__,__`fe.`__] :fire: :heart_eyes:
 
 [[AAAI](https://www.researchgate.net/publication/309919310_Examples-Rules_Guided_Deep_Neural_Network_for_Makeup_Recommendation)] Examples-Rules Guided Deep Neural Network for Makeup Recommendation [__`kg.`__, __`mlp.`__,__`fas.`__,__`img.`__] :star:
 
@@ -792,6 +792,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[SIGIR](https://www.cse.scu.edu/~yfang/NCN.pdf)] Neural Citation Network for Context-Aware Citation Recommendation [__`att.`__,__`net.`__,__`kg.`__] :star:
 
 [[CIKM](https://dl.acm.org/doi/pdf/10.1145/3132847.3132892)] Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources [__`mm`__] :fire:
+
+[[IJCAI](https://www.ijcai.org/Proceedings/2017/0435.pdf)] Attentional Factorization Machines: Learning the Weight of Feature Interactions via Attention Networks [__`fe.`__,__`att.`__] :fire: :heart_eyes:
 
 <a name="ac_2016"></a>
 ### 2016
