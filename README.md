@@ -463,6 +463,10 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 [[Alibaba](https://arxiv.org/pdf/1907.00687.pdf)] A Capsule Network for Recommendation and Explaining What You Like and Dislike [__`kg.`__,__`fe.`__]
 
+[[Alibaba](https://arxiv.org/pdf/1809.03672.pdf)] Deep Interest Evolution Network for Click-Through Rate Prediction [__`fe.`__,__`seq.`__,__`att.`__,__`eco.`__] :fire: :heart_eyes:
+
+[[Alibaba](https://arxiv.org/pdf/1905.06482.pdf)] Deep Session Interest Network for Click-Through Rate Prediction [__`fe.`__,__`seq.`__,__`att.`__,__`eco.`__] :fire: :heart_eyes:
+
 <a name="in_2018"></a>
 ### 2018
 [[Microsoft Research](https://arxiv.org/pdf/1803.05170.pdf)] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [__`mlp.`__, __`fe.`__] :fire: :heart_eyes:
@@ -504,6 +508,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 [[Alibaba](https://arxiv.org/pdf/1801.02294.pdf)] Learning Tree-based Deep Model for Recommender Systems [__`fe.`__,__`sca.`__] :star:
 
 [[Google AI](https://dl.acm.org/doi/pdf/10.1145/3219819.3219856)]  Collaborative Deep Metric Learning for Video Understanding [__`fe.`__,__`cnn.`__,__`vid.`__]
+
+[[Alibaba](https://arxiv.org/pdf/1706.06978.pdf)] Deep Interest Network for Click-Through Rate Prediction [__`fe.`__,__`ads.`__,__`eco.`__] :fire: :heart_eyes:
 
 <a name="in_2017"></a>
 ### 2017
