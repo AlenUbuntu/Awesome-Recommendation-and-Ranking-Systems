@@ -321,6 +321,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="in_2019"></a>
 ### 2019
+[[Sina Weibo](https://arxiv.org/pdf/1905.09433.pdf)] FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction [__`fe.`__,__`att.`__] :heart_eyes:
+
 [[Netflix](https://arxiv.org/pdf/1905.03375.pdf)] Embarrassingly Shallow Autoencoders for Sparse Data [__`fe.`__,__`ae.`__] :heart_eyes:
 
 [[Apple](http://ceur-ws.org/Vol-2431/paper10.pdf)] PQ-VAE: Efficient Recommendation Using Quantized Embeddings [__`ae.`__, __`sca.`__]
@@ -567,6 +569,8 @@ Statistics: :fire: citation >= 100 &emsp;|&emsp; :star: citation >= 50 &emsp;|&e
 
 <a name="ac_2019"></a>
 ### 2019
+[[CIKM](https://arxiv.org/pdf/1810.11921.pdf)] AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks [__`fe.`__,__`att.`__] :star: :heart_eyes:
+
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330664)] Mathematical Notions vs. Human Perception of Fairness: A Descriptive Approach to Fairness for Machine Learning [__`bia.`__]
 
 [[KDD](https://dl.acm.org/doi/pdf/10.1145/3292500.3330835)] Effective and Efficient Reuse of Past Travel Behavior for Route Recommendation [__`geo.`__,__`net.`__]
